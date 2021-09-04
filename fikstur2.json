@@ -122,14 +122,14 @@
     "renk": ["red","black"]
   },
   {
-    "teamID": "goz",
-    "name": "Göztepe",
-    "renk": ["yellow","red"]
-  },
-  {
     "teamID": "gir",
     "name": "Giresunspor",
     "renk": ["green","white"]
+  },
+  {
+    "teamID": "goz",
+    "name": "Göztepe",
+    "renk": ["yellow","red"]
   },
   {
     "teamID": "hat",
