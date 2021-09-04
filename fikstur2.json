@@ -1,8 +1,9 @@
 {
   "weeks":[
-      {"hafta":2,
+  
+        {"hafta":4,
         "fikstur":[
-        {"takim1":"ant", "skor1":0, "takim2":"kon", "skor2":0, "finished":0},
+        {"takim1":"ant", "skor1":4, "takim2":"kon", "skor2":0, "finished":0},
         {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
         {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
         {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
@@ -15,9 +16,42 @@
     ],
           "bay":"erz"
      },
+  
+        {"hafta":3,
+        "fikstur":[
+        {"takim1":"ant", "skor1":3, "takim2":"kon", "skor2":0, "finished":0},
+        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
+        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
+        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
+        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
+        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
+        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
+        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
+        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
+        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+    ],
+          "bay":"erz"
+     },
+  
+      {"hafta":2,
+        "fikstur":[
+        {"takim1":"ant", "skor1":2, "takim2":"kon", "skor2":0, "finished":0},
+        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
+        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
+        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
+        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
+        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
+        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
+        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
+        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
+        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+    ],
+          "bay":"erz"
+     },
+	 
       {"hafta":1,
         "fikstur":[
-        {"takim1":"ant", "skor1":0, "takim2":"kon", "skor2":0, "finished":0},
+        {"takim1":"ant", "skor1":1, "takim2":"kon", "skor2":0, "finished":0},
         {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
         {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
         {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
@@ -30,26 +64,27 @@
     ],
           "bay":"erz"
      }
+	 
     ],
   
   "takimlar":[
    {
-    "teamID": "gs",
+    "teamID": "gal",
     "name": "Galatasaray",
     "renk": ["yellow","red"]
   },
   {
-    "teamID": "fb",
+    "teamID": "fen",
     "name": "Fenerbahçe",
     "renk": ["yellow","darkblue"]
   },
   {
-    "teamID": "bjk",
+    "teamID": "bes",
     "name": "Beşiktaş",
     "renk": ["black","white"]
   },
   {
-    "teamID": "ts",
+    "teamID": "tra",
     "name": "Trabzonspor",
     "renk": ["#760d02","#699ec4"]
   },
@@ -59,39 +94,39 @@
     "renk": ["white","red"]
   },
   {
-    "teamID": "als",
+    "teamID": "ala",
     "name": "Alanyaspor",
     "renk": ["#ff6600","#029835"]
   },
   {
-    "teamID": "ag",
+    "teamID": "ank",
     "name": "Ankaragücü",
     "renk": ["yellow","darkblue"]
   },
   {
-    "teamID": "mlt",
-    "name": "Malatyaspor",
+    "teamID": "yen",
+    "name": "Y. Malatyaspor",
     "renk": ["yellow","black"]
   },
   {
-    "teamID": "crz",
-    "name": "Rizespor",
+    "teamID": "cay",
+    "name": "Ç. Rizespor",
     "renk": ["blue","green"]
   },
   {
-    "teamID": "svs",
+    "teamID": "siv",
     "name": "Sivasspor",
     "renk": ["white","red"]
   },
   {
-    "teamID": "gfk",
+    "teamID": "gaz",
     "name": "Gaziantep FK",
     "renk": ["red","black"]
   },
   {
-    "teamID": "gb",
-    "name": "Gençlerbirliği",
-    "renk": ["black","red"]
+    "teamID": "gir",
+    "name": "Giresunspor",
+    "renk": ["green","white"]
   },
   {
     "teamID": "goz",
@@ -106,36 +141,35 @@
   {
     "teamID": "kon",
     "name": "Konyaspor",
-    "renk": ["green","white"
-    ]
+    "renk": ["green","white"]
   },
   {
-    "teamID": "ksp",
+    "teamID": "kas",
     "name": "Kasımpaşa",
     "renk": ["white","darkblue"]
   },
   {
-    "teamID": "med",
-    "name": "M.Başakşehir",
+    "teamID": "bas",
+    "name": "Başakşehir FK",
     "renk": ["darkblue","orange"]
   },
   {
-    "teamID": "dnz",
-    "name": "Adanaspor",
-    "renk": ["green","black"]
+    "teamID": "alt",
+    "name": "Altay",
+    "renk": ["white","black"]
   },
   {
-    "teamID": "erz",
-    "name": "Erzurumspor",
-    "renk": ["blue","white"]
+    "teamID": "ada",
+    "name": "Adana Demirspor",
+    "renk": ["#211c6c","#8ac7e9"]
   },
   {
-    "teamID": "fkg",
-    "name": "Fatih Karagümrük",
+    "teamID": "fat",
+    "name": "F. Karagümrük",
     "renk": ["red","black"]
   },
   {
-    "teamID": "hty",
+    "teamID": "hat",
     "name": "Hatayspor",
     "renk": ["#800000","white"]
   }
