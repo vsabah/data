@@ -8,9 +8,9 @@
         {"takim1":"kay", "skor1":0, "takim2":"kas", "skor2":0, "finished":0},
         {"takim1":"fen", "skor1":0, "takim2":"siv", "skor2":0, "finished":0},
         {"takim1":"cay", "skor1":0, "takim2":"hat", "skor2":0, "finished":0},
-	{"takim1":"tra", "skor1":0, "takim2":"gal", "skor2":0, "finished":0}, 
+		{"takim1":"tra", "skor1":0, "takim2":"gal", "skor2":0, "finished":0}, 
         {"takim1":"goz", "skor1":0, "takim2":"bas", "skor2":0, "finished":0}, 
-	{"takim1":"gaz", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
+		{"takim1":"gaz", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
         {"takim1":"ala", "skor1":0, "takim2":"gir", "skor2":0, "finished":0}
 
     ],
@@ -20,13 +20,13 @@
         "fikstur":[
         {"takim1":"ant", "skor1":3, "takim2":"cay", "skor2":2, "finished":0},
         {"takim1":"ada", "skor1":1, "takim2":"kon", "skor2":1, "finished":0},
-	{"takim1":"yen", "skor1":2, "takim2":"gaz", "skor2":0, "finished":0},
+		{"takim1":"yen", "skor1":2, "takim2":"gaz", "skor2":0, "finished":0},
         {"takim1":"bas", "skor1":0, "takim2":"kay", "skor2":1, "finished":0},
         {"takim1":"bes", "skor1":1, "takim2":"fat", "skor2":0, "finished":0},
         {"takim1":"hat", "skor1":5, "takim2":"ala", "skor2":0, "finished":0},
-	{"takim1":"kas", "skor1":2, "takim2":"gal", "skor2":2, "finished":0}, 
+		{"takim1":"kas", "skor1":2, "takim2":"gal", "skor2":2, "finished":0}, 
         {"takim1":"siv", "skor1":2, "takim2":"goz", "skor2":2, "finished":0},
-	{"takim1":"gir", "skor1":0, "takim2":"tra", "skor2":1, "finished":0},
+		{"takim1":"gir", "skor1":0, "takim2":"tra", "skor2":1, "finished":0},
         {"takim1":"alt", "skor1":0, "takim2":"fen", "skor2":2, "finished":0}
 
     ],
@@ -56,7 +56,7 @@
         {"takim1":"bas", "skor1":0, "takim2":"ala", "skor2":1, "finished":0},
         {"takim1":"ant", "skor1":1, "takim2":"goz", "skor2":1, "finished":0},
         {"takim1":"ada", "skor1":0, "takim2":"fen", "skor2":1, "finished":0},
-	{"takim1":"yen", "skor1":1, "takim2":"tra", "skor2":5, "finished":0},
+		{"takim1":"yen", "skor1":1, "takim2":"tra", "skor2":5, "finished":0},
         {"takim1":"siv", "skor1":0, "takim2":"kon", "skor2":1, "finished":0}, 
         {"takim1":"gir", "skor1":0, "takim2":"gal", "skor2":2, "finished":0}
     ],
@@ -67,24 +67,19 @@
   
   "takimlar":[
    {
-    "teamID": "gal",
-    "name": "Galatasaray",
-    "renk": ["yellow","red"]
+    "teamID": "ada",
+    "name": "Adana Demirspor",
+    "renk": ["#211c6c","#8ac7e9"]
+  },
+    {
+    "teamID": "ala",
+    "name": "Alanyaspor",
+    "renk": ["#ff6600","#029835"]
   },
   {
-    "teamID": "fen",
-    "name": "Fenerbahçe",
-    "renk": ["yellow","darkblue"]
-  },
-  {
-    "teamID": "bes",
-    "name": "Beşiktaş",
-    "renk": ["black","white"]
-  },
-  {
-    "teamID": "tra",
-    "name": "Trabzonspor",
-    "renk": ["#760d02","#699ec4"]
+    "teamID": "alt",
+    "name": "Altay",
+    "renk": ["white","black"]
   },
   {
     "teamID": "ant",
@@ -92,14 +87,14 @@
     "renk": ["white","red"]
   },
   {
-    "teamID": "ala",
-    "name": "Alanyaspor",
-    "renk": ["#ff6600","#029835"]
+    "teamID": "bas",
+    "name": "Başakşehir FK",
+    "renk": ["darkblue","orange"]
   },
   {
-    "teamID": "yen",
-    "name": "Y. Malatyaspor",
-    "renk": ["yellow","black"]
+    "teamID": "bes",
+    "name": "Beşiktaş",
+    "renk": ["black","white"]
   },
   {
     "teamID": "cay",
@@ -107,9 +102,19 @@
     "renk": ["blue","green"]
   },
   {
-    "teamID": "siv",
-    "name": "Sivasspor",
-    "renk": ["white","red"]
+    "teamID": "fat",
+    "name": "F. Karagümrük",
+    "renk": ["red","black"]
+  },
+  {
+    "teamID": "fen",
+    "name": "Fenerbahçe",
+    "renk": ["yellow","darkblue"]
+  },
+   {
+    "teamID": "gal",
+    "name": "Galatasaray",
+    "renk": ["yellow","red"]
   },
   {
     "teamID": "gaz",
@@ -117,14 +122,24 @@
     "renk": ["red","black"]
   },
   {
+    "teamID": "goz",
+    "name": "Göztepe",
+    "renk": ["yellow","red"]
+  },
+  {
     "teamID": "gir",
     "name": "Giresunspor",
     "renk": ["green","white"]
   },
   {
-    "teamID": "goz",
-    "name": "Göztepe",
-    "renk": ["yellow","red"]
+    "teamID": "hat",
+    "name": "Hatayspor",
+    "renk": ["#800000","white"]
+  },
+  {
+    "teamID": "kas",
+    "name": "Kasımpaşa",
+    "renk": ["white","darkblue"]
   },
   {
     "teamID": "kay",
@@ -137,39 +152,20 @@
     "renk": ["green","white"]
   },
   {
-    "teamID": "kas",
-    "name": "Kasımpaşa",
-    "renk": ["white","darkblue"]
+    "teamID": "siv",
+    "name": "Sivasspor",
+    "renk": ["white","red"]
   },
   {
-    "teamID": "bas",
-    "name": "Başakşehir FK",
-    "renk": ["darkblue","orange"]
+    "teamID": "tra",
+    "name": "Trabzonspor",
+    "renk": ["#760d02","#699ec4"]
   },
+
   {
-    "teamID": "alt",
-    "name": "Altay",
-    "renk": ["white","black"]
-  },
-    {
-    "teamID": "erz",
-    "name": "-",
-    "renk": ["white","black"]
-  },
-  {
-    "teamID": "ada",
-    "name": "Adana Demirspor",
-    "renk": ["#211c6c","#8ac7e9"]
-  },
-  {
-    "teamID": "fat",
-    "name": "F. Karagümrük",
-    "renk": ["red","black"]
-  },
-  {
-    "teamID": "hat",
-    "name": "Hatayspor",
-    "renk": ["#800000","white"]
+    "teamID": "yen",
+    "name": "Y. Malatyaspor",
+    "renk": ["yellow","black"]
   }
   ]
 }
