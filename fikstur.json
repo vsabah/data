@@ -1,6 +1,7 @@
 {
-     "4": {
-          "fikstur":[
+  "weeks":[
+      {"hafta":4,
+        "fikstur":[
         {"takim1":"Fatih Karagümrük", "skor1":0, "takim2":"Adana Demirspor", "skor2":0, "finished":0},
         {"takim1":"Konyaspor", "skor1":0, "takim2":"Altay", "skor2":0, "finished":0},
         {"takim1":"Beşiktaş", "skor1":0, "takim2":"Yeni Malatyaspor", "skor2":0, "finished":0},
@@ -14,7 +15,8 @@
     ],
           "bay":""
      },
-     "3": {
+  "weeks":[
+      {"hafta":3,
           "fikstur":[
         {"takim1":"Antalyaspor", "skor1":3, "takim2":"Çaykur Rizespor", "skor2":2, "finished":0},
         {"takim1":"Adana Demirspor", "skor1":1, "takim2":"Konyaspor", "skor2":1, "finished":0},
@@ -29,7 +31,8 @@
     ],
           "bay":""
      },
-     "2": {
+  "weeks":[
+      {"hafta":2,
           "fikstur":[
         {"takim1":"Kayserispor", "skor1":1, "takim2":"Adana Demirspor", "skor2":1, "finished":0},
         {"takim1":"Kasımpaşa", "skor1":2, "takim2":"Giresunspor", "skor2":0, "finished":0},
@@ -44,7 +47,8 @@
     ],
           "bay":""
      },
-     "1": {
+  "weeks":[
+      {"hafta":1,
           "fikstur":[
         {"takim1":"Beşiktaş", "skor1":3, "takim2":"Çaykur Rizespor", "skor2":2, "finished":0},
         {"takim1":"Fatih Karagümrük", "skor1":3, "takim2":"Gaziantep FK", "skor2":2, "finished":0},
