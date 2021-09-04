@@ -1,16 +1,16 @@
 {
      "4": {
           "fikstur":[
-        {"takim1":"Fatih Karagümrük", "skor1":0, "takim2":"Adana Demirspor", "skor2":0, "finished":1},
-        {"takim1":"Konyaspor", "skor1":-, "takim2":"Altay", "skor2":-, "finished":0},
-        {"takim1":"Beşiktaş", "skor1":-, "takim2":"Yeni Malatyaspor", "skor2":-, "finished":0},
-        {"takim1":"Kayserispor", "skor1":-, "takim2":"Kasımpaşa", "skor2":-, "finished":0},
-        {"takim1":"Çaykur Rizespor", "skor1":-, "takim2":"Hatayspor", "skor2":-, "finished":0},
-        {"takim1":"Fenerbahçe", "skor1":-, "takim2":"Sivasspor", "skor2":-, "finished":0},
-        {"takim1":"Göztepe", "skor1":-, "takim2":"Başakşehir FK", "skor2":-, "finished":0},
-        {"takim1":"Trabzonspor", "skor1":-, "takim2":"Galatasaray", "skor2":-, "finished":0}, 
-        {"takim1":"Alanyaspor", "skor1":-, "takim2":"Giresunspor", "skor2":-, "finished":0},
-        {"takim1":"Gaziantep FK", "skor1":-, "takim2":"Antalyaspor", "skor2":-, "finished":0}
+        {"takim1":"Fatih Karagümrük", "skor1":0, "takim2":"Adana Demirspor", "skor2":0, "finished":0},
+        {"takim1":"Konyaspor", "skor1":0, "takim2":"Altay", "skor2":0, "finished":0},
+        {"takim1":"Beşiktaş", "skor1":0, "takim2":"Yeni Malatyaspor", "skor2":0, "finished":0},
+        {"takim1":"Kayserispor", "skor1":0, "takim2":"Kasımpaşa", "skor2":0, "finished":0},
+        {"takim1":"Çaykur Rizespor", "skor1":0, "takim2":"Hatayspor", "skor2":0, "finished":0},
+        {"takim1":"Fenerbahçe", "skor1":0, "takim2":"Sivasspor", "skor2":0, "finished":0},
+        {"takim1":"Göztepe", "skor1":0, "takim2":"Başakşehir FK", "skor2":0, "finished":0},
+        {"takim1":"Trabzonspor", "skor1":0, "takim2":"Galatasaray", "skor2":0, "finished":0}, 
+        {"takim1":"Alanyaspor", "skor1":0, "takim2":"Giresunspor", "skor2":0, "finished":0},
+        {"takim1":"Gaziantep FK", "skor1":0, "takim2":"Antalyaspor", "skor2":0, "finished":0}
     ],
           "bay":""
      },
