@@ -1,66 +1,64 @@
 {
   "weeks":[
-  
         {"hafta":4,
         "fikstur":[
-        {"takim1":"ant", "skor1":4, "takim2":"kon", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
-        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+        {"takim1":"fat", "skor1":0, "takim2":"ada", "skor2":0, "finished":0},
+        {"takim1":"kon", "skor1":0, "takim2":"alt", "skor2":0, "finished":0},
+        {"takim1":"bes", "skor1":0, "takim2":"yen", "skor2":0, "finished":0},
+        {"takim1":"kay", "skor1":0, "takim2":"kas", "skor2":0, "finished":0},
+        {"takim1":"fen", "skor1":0, "takim2":"siv", "skor2":0, "finished":0},
+        {"takim1":"cay", "skor1":0, "takim2":"hat", "skor2":0, "finished":0},
+		{"takim1":"tra", "skor1":0, "takim2":"gal", "skor2":0, "finished":0}, 
+        {"takim1":"goz", "skor1":0, "takim2":"bas", "skor2":0, "finished":0}, 
+		{"takim1":"gaz", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
+        {"takim1":"ala", "skor1":0, "takim2":"gir", "skor2":0, "finished":0}
+
     ],
           "bay":"erz"
      },
-  
         {"hafta":3,
         "fikstur":[
-        {"takim1":"ant", "skor1":3, "takim2":"kon", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
-        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+        {"takim1":"ant", "skor1":3, "takim2":"cay", "skor2":2, "finished":0},
+        {"takim1":"ada", "skor1":1, "takim2":"kon", "skor2":1, "finished":0},
+		{"takim1":"yen", "skor1":2, "takim2":"gaz", "skor2":0, "finished":0},
+        {"takim1":"bas", "skor1":0, "takim2":"kay", "skor2":1, "finished":0},
+        {"takim1":"bes", "skor1":1, "takim2":"fat", "skor2":0, "finished":0},
+        {"takim1":"hat", "skor1":5, "takim2":"ala", "skor2":0, "finished":0},
+		{"takim1":"kas", "skor1":2, "takim2":"gal", "skor2":2, "finished":0}, 
+        {"takim1":"siv", "skor1":2, "takim2":"goz", "skor2":2, "finished":0},
+		{"takim1":"gir", "skor1":0, "takim2":"tra", "skor2":1, "finished":0},
+        {"takim1":"alt", "skor1":0, "takim2":"fen", "skor2":2, "finished":0}
+
     ],
           "bay":"erz"
      },
-  
       {"hafta":2,
         "fikstur":[
-        {"takim1":"ant", "skor1":2, "takim2":"kon", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
-        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+        {"takim1":"kay", "skor1":1, "takim2":"ada", "skor2":1, "finished":0},
+        {"takim1":"kas", "skor1":2, "takim2":"gir", "skor2":0, "finished":0},
+        {"takim1":"cay", "skor1":0, "takim2":"fat", "skor2":0, "finished":0},
+        {"takim1":"gaz", "skor1":0, "takim2":"bes", "skor2":0, "finished":0},
+        {"takim1":"ala", "skor1":1, "takim2":"alt", "skor2":4, "finished":0},
+        {"takim1":"kon", "skor1":2, "takim2":"bas", "skor2":1, "finished":0},
+        {"takim1":"fen", "skor1":2, "takim2":"ant", "skor2":0, "finished":0},
+        {"takim1":"goz", "skor1":0, "takim2":"yen", "skor2":1, "finished":0}, 
+        {"takim1":"tra", "skor1":2, "takim2":"siv", "skor2":1, "finished":0},
+        {"takim1":"gal", "skor1":2, "takim2":"hat", "skor2":1, "finished":0}
     ],
           "bay":"erz"
-     },
-	 
+     }, 
       {"hafta":1,
         "fikstur":[
-        {"takim1":"ant", "skor1":1, "takim2":"kon", "skor2":0, "finished":0},
-        {"takim1":"crz", "skor1":0, "takim2":"med", "skor2":0, "finished":0},
-        {"takim1":"hty", "skor1":0, "takim2":"gfk", "skor2":0, "finished":0},
-        {"takim1":"fkg", "skor1":0, "takim2":"dnz", "skor2":0, "finished":0},
-        {"takim1":"ag", "skor1":0, "takim2":"als", "skor2":0, "finished":0},
-        {"takim1":"svs", "skor1":0, "takim2":"ksp", "skor2":0, "finished":0},
-        {"takim1":"gs", "skor1":0, "takim2":"mlt", "skor2":0, "finished":0},
-        {"takim1":"goz", "skor1":0, "takim2":"bjk", "skor2":0, "finished":0},
-        {"takim1":"kay", "skor1":0, "takim2":"fb", "skor2":0, "finished":0},
-        {"takim1":"ts", "skor1":0, "takim2":"gb", "skor2":0, "finished":0}
+        {"takim1":"bes", "skor1":3, "takim2":"cay", "skor2":0, "finished":0},
+        {"takim1":"fat", "skor1":3, "takim2":"gaz", "skor2":2, "finished":0},
+        {"takim1":"alt", "skor1":3, "takim2":"kay", "skor2":0, "finished":0},
+        {"takim1":"hat", "skor1":1, "takim2":"kas", "skor2":1, "finished":0},
+        {"takim1":"bas", "skor1":0, "takim2":"ala", "skor2":1, "finished":0},
+        {"takim1":"ant", "skor1":1, "takim2":"goz", "skor2":1, "finished":0},
+        {"takim1":"ada", "skor1":0, "takim2":"fen", "skor2":1, "finished":0},
+		{"takim1":"yen", "skor1":1, "takim2":"tra", "skor2":5, "finished":0},
+        {"takim1":"siv", "skor1":0, "takim2":"kon", "skor2":1, "finished":0}, 
+        {"takim1":"gir", "skor1":0, "takim2":"gal", "skor2":2, "finished":0}
     ],
           "bay":"erz"
      }
@@ -97,11 +95,6 @@
     "teamID": "ala",
     "name": "Alanyaspor",
     "renk": ["#ff6600","#029835"]
-  },
-  {
-    "teamID": "ank",
-    "name": "Ankaragücü",
-    "renk": ["yellow","darkblue"]
   },
   {
     "teamID": "yen",
@@ -156,6 +149,11 @@
   {
     "teamID": "alt",
     "name": "Altay",
+    "renk": ["white","black"]
+  },
+    {
+    "teamID": "erz",
+    "name": "-",
     "renk": ["white","black"]
   },
   {
