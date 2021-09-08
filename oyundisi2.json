@@ -44,7 +44,7 @@
 	{
 		"mevkii": "ADA",
 		"adi": "Rassoul",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -80,6 +80,12 @@
 	{
 		"mevkii": "ANT",
 		"adi": "Ufuk Akyol",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BAS",
+		"adi": "Ahmed Kutucu",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -128,7 +134,7 @@
 	{
 		"mevkii": "KAR",
 		"adi": "Lucas Biglia",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -162,6 +168,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "GS",
+		"adi": "Oğulcan Çağlayan",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "GAZ",
 		"adi": "Cenk Şahin",
 		"aciklama": "Sakat",
@@ -175,6 +187,12 @@
 	},
 	{
 		"mevkii": "GAZ",
+		"adi": "Alexandru Maxim",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
 		"adi": "Furkan Soyalp",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
@@ -183,6 +201,12 @@
 		"mevkii": "GAZ",
 		"adi": "Nouha Dicko",
 		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GİR",
+		"adi": "Zeki Yavru",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -230,13 +254,13 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Manuel Fernandes",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Gavranovic",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -248,7 +272,7 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Olivier Kemen",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -266,7 +290,7 @@
 	{
 		"mevkii": "KON",
 		"adi": "Anicic",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -344,7 +368,7 @@
 	{
 		"mevkii": "MLT",
 		"adi": "Ertaç Özbir",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
