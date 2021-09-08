@@ -1,25 +1,25 @@
 [
 	{
-		"mevkii": "ada",
-		"adi": "Akintola",
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ada",
-		"adi": "Rassoul",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ada",
-		"adi": "Metehan Mimaroğlu ",
-		"aciklama": "SAKAT",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "ala",
-		"adi": "Ahmet Gülay",
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
 		"aciklama": "SAKAT",
 		"durum": "sakatlar"
 	},
