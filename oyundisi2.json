@@ -1,5 +1,11 @@
 [
 	{
+		"mevkii": "*",
+		"adi": "GÜNCELLEME",
+		"aciklama": "(08.09.21 - 23:35)",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ALN",
 		"adi": "Efecan Karaca",
 		"aciklama": "CEZALI",
@@ -22,6 +28,12 @@
 		"adi": "Olarenwaju Kayode",
 		"aciklama": "CEZALI",
 		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "*",
+		"adi": "GÜNCELLEME",
+		"aciklama": "(08.09.21 - 23:35)",
+		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ADA",
@@ -306,6 +318,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "*",
+		"adi": "GÜNCELLEME",
+		"aciklama": "(08.09.21 - 23:35)",
+		"durum": "kadro dışı"
+	},
+	{
 		"mevkii": "ALN",
 		"adi": "H. Can Yalçıntekin",
 		"aciklama": "Lisansı yok",
@@ -321,6 +339,18 @@
 		"mevkii": "BAS",
 		"adi": "Chadli",
 		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Kadro dışı",
+		"aciklama": "Lisansı yok",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Jeremain Lens",
+		"aciklama": "Lisansı yok",
 		"durum": "kadro dışı"
 	},
 	{
