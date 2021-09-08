@@ -6,33 +6,231 @@
 		"durum": "cezalılar"
 	},
 	{
-		"mevkii": "Takım",
-		"adi": "Oyuncu",
-		"aciklama": "SAKAT",
+		"mevkii": "ADA",
+		"adi": "Akintola",
+		"aciklama": "SAKAT (6-8 Hafta)",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "Takım",
-		"adi": "Oyuncu",
+		"mevkii": "ADA",
+		"adi": "Rassoul",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ADA",
+		"adi": "Metehan Mimaroğlu",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALN",
+		"adi": "Ahmet Gülay",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALT",
+		"adi": "E.Björkander",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Teixeira",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Borini",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Alparslan Erdem",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "İrfan Can",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Arda Turan",
+		"aciklama": "Sakat (1 Hafta)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Cenk Şahin",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Oğuz Ceylan",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GÖZ",
+		"adi": "Burekovic",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GÖZ",
+		"adi": "Mihojevic",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "HAT",
+		"adi": "Sackey",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Ali Karimi",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Mensah",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Gavranovic",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Majeed Hosseini",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Alper Uludağ",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Anicic",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "RİZ",
+		"adi": "Umar Aminu",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "RİZ",
+		"adi": "Boldrin",
+		"aciklama": "Sakat (4 Hafta)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SİV",
+		"adi": "Appindangoye",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Tetteh",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Tetteh",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BAS",
+		"adi": "Chadli",
+		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Ljajic",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "Takım",
-		"adi": "Oyuncu",
+		"mevkii": "FB",
+		"adi": "Sinan Gümüş",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "Takım",
-		"adi": "Oyuncu",
-		"aciklama": "Sözleşme Feshi",
+		"mevkii": "FB",
+		"adi": "Enner Valencia",
+		"aciklama": "Belirsiz",
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "Takım",
-		"adi": "Oyuncu",
-		"aciklama": "Sözleşme Feshi",
+		"mevkii": "GS",
+		"adi": "O.Elabdellaoui",
+		"aciklama": "Lisans İptali",
 		"durum": "kadro dışı"
-	}
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Fernando Muslera",
+		"aciklama": "Milli Maç",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Vetrih",
+		"aciklama": "Milli Maç",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Maxim",
+		"aciklama": "Milli Maç",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Gervinho",
+		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Bruno Peres",
+		"aciklama": "Şüpheli",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Dorukhan",
+		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Karim Hafez",
+		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	}	
 ]
