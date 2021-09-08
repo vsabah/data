@@ -1,140 +1,140 @@
 [
 	{
 		"mevkii": "*",
-		"adi": "GÜNCELLEME",
-		"aciklama": "(08.09.21 - 23:35)",
+		"adi": "Güncelleme",
+		"aciklama": "08.09.21/23:35",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "ALN",
 		"adi": "Efecan Karaca",
-		"aciklama": "CEZALI",
+		"aciklama": "Cezalı",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Salih Uçan",
-		"aciklama": "CEZALI",
+		"aciklama": "Cezalı",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "GS",
 		"adi": "Marcao",
-		"aciklama": "CEZALI (6)",
+		"aciklama": "Cezalı",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "SIV",
 		"adi": "Olarenwaju Kayode",
-		"aciklama": "CEZALI",
+		"aciklama": "Cezalı",
 		"durum": "cezalılar"
 	},
 	{
 		"mevkii": "*",
-		"adi": "GÜNCELLEME",
-		"aciklama": "(08.09.21 - 23:35)",
+		"adi": "Güncelleme",
+		"aciklama": "08.09.21/23:35",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ADA",
 		"adi": "Akintola",
-		"aciklama": "SAKAT (7 Hafta)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ADA",
 		"adi": "Rassoul",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ADA",
 		"adi": "Metehan Mimaroğlu",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALN",
 		"adi": "Ahmet Gülay",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALN",
 		"adi": "Khouma Babacar",
-		"aciklama": "Sakat (Şüpheli)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALT",
 		"adi": "E.Björkander",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ANT",
 		"adi": "Doğukan Nelik",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ANT",
 		"adi": "Ufuk Akyol",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Ajdin Hasic",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Teixeira",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Umut Meraş",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAR",
 		"adi": "Borini",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAR",
 		"adi": "Bertolacci",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAR",
 		"adi": "Baniya",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAR",
 		"adi": "Alparslan Erdem",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "İrfan Can",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
 		"adi": "Serdar Dursun",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -152,103 +152,103 @@
 	{
 		"mevkii": "GAZ",
 		"adi": "Cenk Şahin",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GAZ",
 		"adi": "Oğuz Ceylan",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GAZ",
 		"adi": "Furkan Soyalp",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GAZ",
 		"adi": "Nouha Dicko",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GÖZ",
 		"adi": "Halil Akbunar",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GÖZ",
 		"adi": "Burekovic",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GÖZ",
 		"adi": "Mihojevic",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "HAT",
 		"adi": "Sackey",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Ali Karimi",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Mensah",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Manuel Fernandes",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Gavranovic",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KAY",
 		"adi": "Majeed Hosseini",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KON",
 		"adi": "Alper Uludağ",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "KON",
 		"adi": "Anicic",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "RİZ",
 		"adi": "Umar Aminu",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "RİZ",
 		"adi": "Boldrin",
-		"aciklama": "Sakat (4 Hafta)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"mevkii": "SİV",
 		"adi": "Appindangoye",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -284,43 +284,43 @@
 	{
 		"mevkii": "TS",
 		"adi": "Tetteh",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "TS",
 		"adi": "Gervinho",
-		"aciklama": "Belirsiz",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MLT",
 		"adi": "Tetteh",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MLT",
 		"adi": "Karim Hafez",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MLT",
 		"adi": "Ertaç Özbir",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "MLT",
 		"adi": "Buğra Çağıran",
-		"aciklama": "Sakat (Belirsiz)",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "*",
-		"adi": "GÜNCELLEME",
-		"aciklama": "(08.09.21 - 23:35)",
+		"adi": "Güncelleme",
+		"aciklama": "08.09.21/23:35",
 		"durum": "kadro dışı"
 	},
 	{
