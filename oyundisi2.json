@@ -1,3 +1,50 @@
 [
-
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "CEZALI (1)",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "SAKAT",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "Sözleşme Feshi",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "Takım",
+		"adi": "Oyuncu",
+		"aciklama": "Sözleşme Feshi",
+		"durum": "kadro dışı"
+	}
 ]
