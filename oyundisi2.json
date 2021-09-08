@@ -1,14 +1,32 @@
 [
 	{
+		"mevkii": "ALN",
+		"adi": "Efecan Karaca",
+		"aciklama": "CEZALI",
+		"durum": "cezalılar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Salih Uçan",
+		"aciklama": "CEZALI",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "GS",
 		"adi": "Marcao",
 		"aciklama": "CEZALI (6)",
 		"durum": "cezalılar"
 	},
 	{
+		"mevkii": "SIV",
+		"adi": "Olarenwaju Kayode",
+		"aciklama": "CEZALI",
+		"durum": "cezalılar"
+	},
+	{
 		"mevkii": "ADA",
 		"adi": "Akintola",
-		"aciklama": "SAKAT (6-8 Hafta)",
+		"aciklama": "SAKAT (7 Hafta)",
 		"durum": "sakatlar"
 	},
 	{
@@ -30,8 +48,32 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "ALN",
+		"adi": "Khouma Babacar",
+		"aciklama": "Sakat (Şüpheli)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "ALT",
 		"adi": "E.Björkander",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Doğukan Nelik",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Ufuk Akyol",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Ajdin Hasic",
 		"aciklama": "Sakat (Belirsiz)",
 		"durum": "sakatlar"
 	},
@@ -42,8 +84,26 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "BJK",
+		"adi": "Umut Meraş",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KAR",
 		"adi": "Borini",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Bertolacci",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Baniya",
 		"aciklama": "Sakat (Belirsiz)",
 		"durum": "sakatlar"
 	},
@@ -60,9 +120,21 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "FB",
+		"adi": "Serdar Dursun",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "GS",
 		"adi": "Arda Turan",
-		"aciklama": "Sakat (1 Hafta)",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GS",
+		"adi": "Barış Alper Yılmaz",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -74,6 +146,24 @@
 	{
 		"mevkii": "GAZ",
 		"adi": "Oğuz Ceylan",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Furkan Soyalp",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Nouha Dicko",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GÖZ",
+		"adi": "Halil Akbunar",
 		"aciklama": "Sakat (Belirsiz)",
 		"durum": "sakatlar"
 	},
@@ -104,6 +194,12 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Mensah",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Manuel Fernandes",
 		"aciklama": "Sakat (Belirsiz)",
 		"durum": "sakatlar"
 	},
@@ -144,9 +240,33 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "RİZ",
+		"adi": "Loic Remy",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "RİZ",
+		"adi": "Ronaldo Mendes",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "SİV",
 		"adi": "Appindangoye",
 		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SİV",
+		"adi": "Erdoğan Yeşilyurt",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "SİV",
+		"adi": "Caner Osmanpaşa",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -156,8 +276,32 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "TS",
+		"adi": "Gervinho",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "MLT",
 		"adi": "Tetteh",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Karim Hafez",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Ertaç Özbir",
+		"aciklama": "Sakat (Belirsiz)",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Buğra Çağıran",
 		"aciklama": "Sakat (Belirsiz)",
 		"durum": "sakatlar"
 	},
@@ -207,12 +351,6 @@
 		"mevkii": "GAZ",
 		"adi": "Maxim",
 		"aciklama": "Milli Maç",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Gervinho",
-		"aciklama": "Belirsiz",
 		"durum": "kadro dışı"
 	},
 	{
