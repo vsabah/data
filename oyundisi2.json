@@ -2,7 +2,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "08.09.21/23:35",
+		"aciklama": "09.09.21/00:07",
 		"durum": "cezalılar"
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "08.09.21/23:35",
+		"aciklama": "09.09.21/00:07",
 		"durum": "sakatlar"
 	},
 	{
@@ -84,6 +84,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "BAS",
+		"adi": "Danijel Aleksic",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "BJK",
 		"adi": "Ajdin Hasic",
 		"aciklama": "Sakat",
@@ -116,6 +122,12 @@
 	{
 		"mevkii": "KAR",
 		"adi": "Baniya",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Lucas Biglia",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -198,6 +210,12 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "HAT",
+		"adi": "Simon Falette",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KAY",
 		"adi": "Ali Karimi",
 		"aciklama": "Sakat",
@@ -228,6 +246,18 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "KAY",
+		"adi": "Olivier Kemen",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Anthony Uzodimma",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "KON",
 		"adi": "Alper Uludağ",
 		"aciklama": "Sakat",
@@ -237,6 +267,12 @@
 		"mevkii": "KON",
 		"adi": "Anicic",
 		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Artem Kravets",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -254,7 +290,7 @@
 	{
 		"mevkii": "RİZ",
 		"adi": "Loic Remy",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -277,13 +313,13 @@
 	},
 	{
 		"mevkii": "SİV",
-		"adi": "Caner Osmanpaşa",
-		"aciklama": "Sakat",
+		"adi": "Pedro Henrique",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "TS",
-		"adi": "Tetteh",
+		"mevkii": "SİV",
+		"adi": "Caner Osmanpaşa",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -320,7 +356,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "08.09.21/23:35",
+		"aciklama": "09.09.21/00:07",
 		"durum": "kadro dışı"
 	},
 	{
@@ -342,9 +378,9 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "BJK",
-		"adi": "Kadro dışı",
-		"aciklama": "Lisansı yok",
+		"mevkii": "BAS",
+		"adi": "Junior Caiçara",
+		"aciklama": "Belirsiz",
 		"durum": "kadro dışı"
 	},
 	{
@@ -355,7 +391,7 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Ljajic",
+		"adi": "Adem Ljajic",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
@@ -393,6 +429,36 @@
 		"mevkii": "GAZ",
 		"adi": "Maxim",
 		"aciklama": "Milli Maç",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Harrison Manzala",
+		"aciklama": "Sözleşme Fesih",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Ali Karimi",
+		"aciklama": "Sözleşme Fesih",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Daniel Avramovski",
+		"aciklama": "Sözleşme Fesih",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "KAY",
+		"adi": "Zoran Kvrzic",
+		"aciklama": "Sözleşme Fesih",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "KON",
+		"adi": "Farouk Miya",
+		"aciklama": "Sözleşme Fesih",
 		"durum": "kadro dışı"
 	},
 	{
