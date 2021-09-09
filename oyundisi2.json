@@ -2,7 +2,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "09.09.21/00:15",
+		"aciklama": "09.09.21/18:45",
 		"durum": "cezalılar"
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "09.09.21/00:15",
+		"aciklama": "09.09.21/18:45",
 		"durum": "sakatlar"
 	},
 	{
@@ -114,39 +114,39 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KAR",
-		"adi": "Borini",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAR",
-		"adi": "Bertolacci",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAR",
-		"adi": "Baniya",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAR",
-		"adi": "Lucas Biglia",
+		"mevkii": "FB",
+		"adi": "Enner Valencia",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "KAR",
-		"adi": "Alparslan Erdem",
-		"aciklama": "Sakat",
+		"mevkii": "FB",
+		"adi": "Ferdi Kadıoğlu",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
-		"adi": "İrfan Can",
-		"aciklama": "Sakat",
+		"adi": "Nazım Sangare",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Dimitrios Pelkas",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Filip Novak",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Jose Sosa",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -163,14 +163,14 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Barış Alper Yılmaz",
+		"adi": "Gustavo Assunçao",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Oğulcan Çağlayan",
-		"aciklama": "Belirsiz",
+		"adi": "Barış Alper Yılmaz",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -229,13 +229,37 @@
 	},
 	{
 		"mevkii": "HAT",
-		"adi": "Sackey",
+		"adi": "Simon Falette",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "HAT",
-		"adi": "Simon Falette",
+		"mevkii": "KAR",
+		"adi": "Borini",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Bertolacci",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Baniya",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Lucas Biglia",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAR",
+		"adi": "Alparslan Erdem",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -300,6 +324,30 @@
 		"durum": "sakatlar"
 	},
 	{
+		"mevkii": "MLT",
+		"adi": "Tetteh",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Karim Hafez",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Ertaç Özbir",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "MLT",
+		"adi": "Buğra Çağıran",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
 		"mevkii": "RİZ",
 		"adi": "Umar Aminu",
 		"aciklama": "Sakat",
@@ -354,33 +402,27 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "MLT",
-		"adi": "Tetteh",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Karim Hafez",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Ertaç Özbir",
+		"mevkii": "TS",
+		"adi": "Bruno Peres",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "MLT",
-		"adi": "Buğra Çağıran",
-		"aciklama": "Sakat",
+		"mevkii": "TS",
+		"adi": "Anders Trondsen",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "TS",
+		"adi": "Djaniny",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "09.09.21/00:15",
+		"aciklama": "09.09.21/18:45",
 		"durum": "kadro dışı"
 	},
 	{
@@ -415,6 +457,12 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Douglas",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Adem Ljajic",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
@@ -426,9 +474,9 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "FB",
-		"adi": "Enner Valencia",
-		"aciklama": "Belirsiz",
+		"mevkii": "GS",
+		"adi": "Oğulcan Çağlayan",
+		"aciklama": "Lisans Sorunu",
 		"durum": "kadro dışı"
 	},
 	{
@@ -438,15 +486,9 @@
 		"durum": "kadro dışı"
 	},
 	{
-		"mevkii": "GS",
-		"adi": "Fernando Muslera",
-		"aciklama": "Milli Maç",
-		"durum": "kadro dışı"
-	},
-	{
 		"mevkii": "GAZ",
 		"adi": "Vetrih",
-		"aciklama": "Milli Maç",
+		"aciklama": "Belirsiz",
 		"durum": "kadro dışı"
 	},
 	{
