@@ -528,6 +528,12 @@
 		"durum": "kadro dışı"
 	},
 	{
+		"mevkii": "MLT",
+		"adi": "Karim Hafez",
+		"aciklama": "Belirsiz",
+		"durum": "kadro dışı"
+	},
+	{
 		"mevkii": "TS",
 		"adi": "Bruno Peres",
 		"aciklama": "Şüpheli",
@@ -536,12 +542,6 @@
 	{
 		"mevkii": "TS",
 		"adi": "Dorukhan",
-		"aciklama": "Belirsiz",
-		"durum": "kadro dışı"
-	},
-	{
-		"mevkii": "MLT",
-		"adi": "Karim Hafez",
 		"aciklama": "Belirsiz",
 		"durum": "kadro dışı"
 	}	
