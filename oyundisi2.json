@@ -373,6 +373,18 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "Atiba Hutchinson",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Cyle Larin",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Jeremain Lens",
 		"aciklama": "Lisansı yok",
 		"durum": "kadro dışı"
