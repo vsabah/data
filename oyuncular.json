@@ -1689,13 +1689,7 @@
       "name": "Kim Min-Jae",
       "pozisyon": "d",
       "id": "267"
-    }, 
-    {
-      "team": "fen",
-      "name": "Steven Caulker",
-      "pozisyon": "d",
-      "id": "268"
-    }, 
+    },  
     {
       "team": "fen",
       "name": "Çağatay Kurukalıp",
@@ -2064,6 +2058,12 @@
       "pozisyon": "d",
       "id": "326"
     }, 
+    {
+      "team": "gaz",
+      "name": "Steven Caulker",
+      "pozisyon": "d",
+      "id": "268"
+    },
     {
       "team": "gaz",
       "name": "Ertuğrul Ersoy",
