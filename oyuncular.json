@@ -239,6 +239,12 @@
     }, 
     {
       "team": "ala",
+      "name": "Chidozie Awaziem",
+      "pozisyon": "d",
+      "id": "620"
+    }, 
+    {
+      "team": "ala",
       "name": "Umut Güneş",
       "pozisyon": "os",
       "id": "038"
@@ -946,6 +952,12 @@
       "name": "Enes Karakuş",
       "pozisyon": "f",
       "id": "150"
+    },
+    {
+      "team": "bas",
+      "name": "Stefano Okaka",
+      "pozisyon": "f",
+      "id": "623"
     }
 ]
 
@@ -1254,6 +1266,12 @@
       "name": "Oğuzhan Malcı",
       "pozisyon": "d",
       "id": "198"
+    }, 
+    {
+      "team": "cay",
+      "name": "Nathan Monzango",
+      "pozisyon": "d",
+      "id": "622"
     }, 
     {
       "team": "cay",
@@ -1999,7 +2017,13 @@
       "name": "Oğulcan Çağlayan",
       "pozisyon": "os",
       "id": "318"
-    }, 
+    },
+    {
+      "team": "gal",
+      "name": "Gustavo Assunção",
+      "pozisyon": "os",
+      "id": "621"
+    },
     {
       "team": "gal",
       "name": "Mbaye Diagne",
@@ -2111,12 +2135,6 @@
       "name": "Oğuz Ceylan",
       "pozisyon": "d",
       "id": "334"
-    }, 
-    {
-      "team": "gaz",
-      "name": "Jean Armel Kana-Biyik",
-      "pozisyon": "d",
-      "id": "335"
     }, 
     {
       "team": "gaz",
@@ -2412,6 +2430,12 @@
     }, 
     {
       "team": "gir",
+      "name": "Shapi Suleymanov",
+      "pozisyon": "os",
+      "id": "624"
+    },
+    {
+      "team": "gir",
       "name": "Ibrahima Balde",
       "pozisyon": "f",
       "id": "383"
@@ -2515,6 +2539,12 @@
       "name": "Yusuf Talum",
       "pozisyon": "d",
       "id": "398"
+    }, 
+    {
+      "team": "goz",
+      "name": "Wilker Ángel",
+      "pozisyon": "d",
+      "id": "625"
     }, 
     {
       "team": "goz",
@@ -3123,12 +3153,6 @@
       "name": "Gustavo Campanharo",
       "pozisyon": "os",
       "id": "494"
-    }, 
-    {
-      "team": "kay",
-      "name": "Yaw Ackah",
-      "pozisyon": "os",
-      "id": "495"
     }, 
     {
       "team": "kay",
