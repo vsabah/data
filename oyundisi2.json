@@ -79,12 +79,6 @@
 	},
 	{
 		"mevkii": "BJK",
-		"adi": "Teixeira",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "BJK",
 		"adi": "Umut Meraş",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
@@ -98,18 +92,6 @@
 	{
 		"mevkii": "FB",
 		"adi": "Nazım Sangare",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Dimitrios Pelkas",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Filip Novak",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
@@ -351,12 +333,6 @@
 		"mevkii": "TS",
 		"adi": "Gervinho",
 		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "TS",
-		"adi": "Anders Trondsen",
-		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
