@@ -48,14 +48,14 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ADA",
-		"adi": "Metehan Mimaroğlu",
+		"mevkii": "ALN",
+		"adi": "Ahmet Gülay",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ALN",
-		"adi": "Ahmet Gülay",
+		"mevkii": "ANT",
+		"adi": "Enzo Crivelli",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -206,6 +206,12 @@
 	{
 		"mevkii": "KAR",
 		"adi": "Alparslan Erdem",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAS",
+		"adi": "Kevin Varga",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -436,5 +442,11 @@
 		"adi": "Musa Çağıran",
 		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
-	}	
+	},
+	{
+		"mevkii": "RİZ",
+		"adi": "Nathan Monzango",
+		"aciklama": "Kadro Dışı",
+		"durum": "kadro dışı"
+	}
 ]
