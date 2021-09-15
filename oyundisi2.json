@@ -103,7 +103,7 @@
 	},
 	{
 		"mevkii": "FAT",
-		"adi": "Alparslan Erdem",
+		"adi": "Rayyan Baniya",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -212,19 +212,19 @@
 	{
 		"mevkii": "HAT",
 		"adi": "Sam Adekugbe",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "HAT",
 		"adi": "Simon Falette",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "HAT",
 		"adi": "Saba Lobjanidze",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -344,13 +344,13 @@
 	{
 		"mevkii": "BAS",
 		"adi": "Junior Caiçara",
-		"aciklama": "Belirsiz",
+		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
 	{
 		"mevkii": "BJK",
 		"adi": "Jeremain Lens",
-		"aciklama": "Lisansı yok",
+		"aciklama": "Kadro Dışı",
 		"durum": "kadro dışı"
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"mevkii": "RİZ",
 		"adi": "Nathan Monzango",
-		"aciklama": "Kadro Dışı",
+		"aciklama": "İzinli",
 		"durum": "kadro dışı"
 	}
 ]
