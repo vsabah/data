@@ -1,0 +1,3746 @@
+[
+   {
+      "id":"01",
+      "name":"Arijanet Muric",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"02",
+      "name":"Ferhat Kaplan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"03",
+      "name":"Vedat Karakuş",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"04",
+      "name":"Tayyip Talha Sanuç",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"05",
+      "name":"Kaan Kanak",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"06",
+      "name":"Jonas Svensson",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"07",
+      "name":"Joher Rassoul",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"08",
+      "name":"Semih Güler",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"09",
+      "name":"Simon Deli",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"010",
+      "name":"Tarık Çamdal",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"011",
+      "name":"Samet Akaydın",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"012",
+      "name":"Younes Belhanda",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"013",
+      "name":"Lucas Castro",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"014",
+      "name":"Matias Vargas",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"015",
+      "name":"Sinan Kurt",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"016",
+      "name":"Benjamin Stambouli",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"017",
+      "name":"Gökhan İnler",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"018",
+      "name":"Babajide Akintola",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"019",
+      "name":"Birkir Bjarnason",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"020",
+      "name":"Izzet Celik",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"021",
+      "name":"Yunus Akgün",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"022",
+      "name":"Mario Balotelli",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"023",
+      "name":"Britt Assombalonga",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"024",
+      "name":"Okwuchukwu Ezeh",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"025",
+      "name":"Metehan Mimaroğlu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"026",
+      "name":"Serkan Kırıntılı",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"027",
+      "name":"Jose Marafona",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"028",
+      "name":"Yusuf Karagöz",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"029",
+      "name":"Fatih Aksoy",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"030",
+      "name":"Nemanja Milunovic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"031",
+      "name":"Cristian Borja",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"032",
+      "name":"Juanfran",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"033",
+      "name":"Tayfur Bingöl",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"034",
+      "name":"Ahmet Gülay",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"035",
+      "name":"Furkan Bayır",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"036",
+      "name":"Emre Bekir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"037",
+      "name":"Miha Mevlja",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"620",
+      "name":"Chidozie Awaziem",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"038",
+      "name":"Umut Güneş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"039",
+      "name":"Davidson",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"040",
+      "name":"Ahmed İldiz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"041",
+      "name":"Efecan Karaca",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"042",
+      "name":"Efkan Bekiroğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"043",
+      "name":"Alperen Soysal",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"044",
+      "name":"Buluthan Bulut",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"045",
+      "name":"Emre Akbaba",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"046",
+      "name":"Leroy Fer",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"047",
+      "name":"Joao Novais",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"048",
+      "name":"Yusuf Özdemir",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"049",
+      "name":"Fırat Çakıroğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"050",
+      "name":"Daniel Candeias",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"051",
+      "name":"Wilson Eduardo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"052",
+      "name":"Famara Diedhiou",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"053",
+      "name":"El Mami Tetah",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"054",
+      "name":"Khouma Babacar",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"055",
+      "name":"Veysel Ünal",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"056",
+      "name":"Oğuz Aydın",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"057",
+      "name":"Mateusz Lis",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"058",
+      "name":"Cihan Topaloğlu",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"059",
+      "name":"Ozan Evrim Özenç",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"060",
+      "name":"Murat Akça",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"061",
+      "name":"İbrahim Öztürk",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"062",
+      "name":"Cebrail Karayel",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"063",
+      "name":"Mohammad Naderi",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"064",
+      "name":"Eric Björkander",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"065",
+      "name":"Tolga Ünlü",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"066",
+      "name":"Berkay Sülüngöz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"067",
+      "name":"Mehmet Erdem Uğurlu",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"068",
+      "name":"Gençer Cansev",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"069",
+      "name":"Özgür Özkaya",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"070",
+      "name":"Sefa Özdemir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"071",
+      "name":"Andre Poko",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"072",
+      "name":"Cem Özgener",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"073",
+      "name":"Khaly Thiam",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"074",
+      "name":"Cesar Pinares",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"075",
+      "name":"Martin Rodriguez",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"076",
+      "name":"Thaciano",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"077",
+      "name":"Serge Arnaud Aka",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"078",
+      "name":"Zeki Yıldırım",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"079",
+      "name":"Erhan Çelenk",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"080",
+      "name":"Ziya Alkurt",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"081",
+      "name":"Ceyhun Gülselam",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"082",
+      "name":"Leandro Kappel",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"083",
+      "name":"Daouda Bamba",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"084",
+      "name":"Marco Paixao",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"085",
+      "name":"Ahmed Yasser Rayan",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"086",
+      "name":"Kazımcan Karataş",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"087",
+      "name":"Deniz Kadah",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"088",
+      "name":"Eren Erdoğan",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"089",
+      "name":"Ruud Boffin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"090",
+      "name":"Doğukan Özkan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"091",
+      "name":"Diogo Sousa",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"092",
+      "name":"Naldo",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"093",
+      "name":"Bünyamin Balcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"094",
+      "name":"Veysel Sarı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"095",
+      "name":"Musah Mohammed",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"096",
+      "name":"Bahadır Öztürk",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"097",
+      "name":"Eren Albayrak",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"098",
+      "name":"Fedor Kudryashov",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"099",
+      "name":"Mert Yılmaz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"100",
+      "name":"Sherel Floranus",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"101",
+      "name":"Doğukan Nelik",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"102",
+      "name":"Nuri Şahin",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"103",
+      "name":"Andrea Poli",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"104",
+      "name":"Fredy Riberio",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"105",
+      "name":"Amilton",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"106",
+      "name":"Deni Milosevic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"107",
+      "name":"Hakan Özmert",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"108",
+      "name":"Doğukan Sinik",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"109",
+      "name":"Ufuk Akyol",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"110",
+      "name":"Erkan Eyibil",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"111",
+      "name":"Güray Vural",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"112",
+      "name":"Paul Mukairu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"113",
+      "name":"Harun Alpsoy",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"114",
+      "name":"Ersin Zehir",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"115",
+      "name":"Gökdeniz Bayrakdar",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"116",
+      "name":"Serdar Poyraz",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"117",
+      "name":"Haji Wright",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"118",
+      "name":"Enzo Crivelli",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"119",
+      "name":"Houssam Eddine Ghacha",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"120",
+      "name":"Fehmi Koç",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"121",
+      "name":"Volkan Babacan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"122",
+      "name":"Ahmet Said Kıvanç",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"123",
+      "name":"Muhammed Şengezer",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"124",
+      "name":"Deniz Dilmen",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"125",
+      "name":"Ravil Tagir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"126",
+      "name":"Lucas Lima",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"127",
+      "name":"Junior Caiçara",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"128",
+      "name":"Hasan Ali Kaldırım",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"129",
+      "name":"Alexandru Epureanu",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"130",
+      "name":"Şener Özbayraklı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"131",
+      "name":"Carlos Ponck",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"132",
+      "name":"Leo Duarte",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"133",
+      "name":"Emre Kaplan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"134",
+      "name":"Miguel Vieira",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"135",
+      "name":"Danijel Aleksic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"136",
+      "name":"Youssouf Ndayishimiye",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"137",
+      "name":"Edin Visca",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"138",
+      "name":"Berkay Özcan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"139",
+      "name":"Tolga Ciğerci",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"140",
+      "name":"Deniz Türüç",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"141",
+      "name":"Mahmut Tekdemir",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"142",
+      "name":"Peter Zulj",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"143",
+      "name":"Nacer Chadli",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"144",
+      "name":"Emir Şenocak",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"145",
+      "name":"Alican Özfesli",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"146",
+      "name":"Ömer Ali Şahiner",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"147",
+      "name":"Fredrik Gulbrandsen",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"148",
+      "name":"Ahmed Kutucu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"149",
+      "name":"Atabey Çiçek",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"623",
+      "name":"Stefano Okaka",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"150",
+      "name":"Enes Karakuş",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"151",
+      "name":"Ersin Destanoğlu",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"152",
+      "name":"Emre Bilgin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"153",
+      "name":"Mert Günok",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"154",
+      "name":"Göktuğ Baytekin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"155",
+      "name":"Valentin Rosier",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"156",
+      "name":"Welinton",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"157",
+      "name":"Domagoj Vida",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"158",
+      "name":"Fabrice N'Sakala",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"159",
+      "name":"Rıdvan Yılmaz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"160",
+      "name":"Javi Montero",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"161",
+      "name":"Umut Meraş",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"162",
+      "name":"Emre Aydemir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"163",
+      "name":"Serdar Saatçı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"164",
+      "name":"Douglas",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"165",
+      "name":"Josef de Souza",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"166",
+      "name":"Salih Uçan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"167",
+      "name":"Rachid Ghezzal",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"168",
+      "name":"Kevin N'Koudou",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"169",
+      "name":"Atiba Hutchinson",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"170",
+      "name":"Alex Teixeira",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"171",
+      "name":"Miralem Pjanic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"172",
+      "name":"Avtandil Duishoev",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"173",
+      "name":"Can Bozdoğan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"174",
+      "name":"Gökhan Töre",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"175",
+      "name":"Necip Uysal",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"176",
+      "name":"Oğuzhan Özyakup",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"177",
+      "name":"Mehmet Topal",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"178",
+      "name":"Adem Ljajic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"179",
+      "name":"Jeremain Lens",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"180",
+      "name":"Ajdin Hasic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"181",
+      "name":"Kenan Karaman",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"182",
+      "name":"Cyle Larin",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"183",
+      "name":"Michy Batshuayi",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"184",
+      "name":"Güven Yalçın",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"185",
+      "name":"Atakan Üner",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"186",
+      "name":"Gökhan Akkan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"187",
+      "name":"Tarık Çetin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"188",
+      "name":"Zafer Görgen",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"189",
+      "name":"Sebastian Holmen",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"190",
+      "name":"Cemali Sertel",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"191",
+      "name":"Alberk Koç",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"192",
+      "name":"Anıl Yaşar",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"193",
+      "name":"Gökhan Gönül",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"194",
+      "name":"Selim Ay",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"195",
+      "name":"Emir Dilaver",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"196",
+      "name":"Emir Han Topçu",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"197",
+      "name":"Aziz Aksoy",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"198",
+      "name":"Oğuzhan Malcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"622",
+      "name":"Nathan Monzango",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"199",
+      "name":"Alper Potuk",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"200",
+      "name":"Fabricio Baiano",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"201",
+      "name":"Bryan Dabo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"202",
+      "name":"Erik Sabo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"203",
+      "name":"Damjan Djokovic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"204",
+      "name":"Yasin Pehlivan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"205",
+      "name":"Eren Karadağ",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"206",
+      "name":"Ronaldo Mendes",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"207",
+      "name":"Tyler Boyd",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"208",
+      "name":"Fernando Boldrin",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"209",
+      "name":"Lebogang Phiri",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"210",
+      "name":"Yannick Bolasie",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"211",
+      "name":"Umar Aminu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"212",
+      "name":"Deniz Hümmet",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"213",
+      "name":"Joel Pohjanpalo",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"214",
+      "name":"Loic Remy",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"215",
+      "name":"Emiliano Viviano",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"216",
+      "name":"Yavuz Aygün",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"217",
+      "name":"Muzaffer Cem Kablan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"218",
+      "name":"Mehmet Demirci",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"219",
+      "name":"Utku Yuvakuran",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"220",
+      "name":"Medhi Benatia",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"221",
+      "name":"Vegar Hedenstad",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"222",
+      "name":"Jure Balkovec",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"223",
+      "name":"Ervin Zukanovic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"224",
+      "name":"Burak Bekaroğlu",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"225",
+      "name":"Derrick Luckassen",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"226",
+      "name":"Caner Erkin",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"227",
+      "name":"Emir Yazıcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"228",
+      "name":"Salih Dursun",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"229",
+      "name":"Furkan Kara",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"230",
+      "name":"Ömer Faruk Ersoy",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"231",
+      "name":"Alparslan Erdem",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"232",
+      "name":"Rayyan Baniya",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"233",
+      "name":"Lucas Biglia",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"234",
+      "name":"Erhun Öztümer",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"235",
+      "name":"Kerim Frei",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"236",
+      "name":"Efe Tatlı",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"237",
+      "name":"Jimmy Durmaz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"238",
+      "name":"Tunay Torun",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"239",
+      "name":"Samed Onur",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"240",
+      "name":"Yannis Salibur",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"241",
+      "name":"Aksel Aktaş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"242",
+      "name":"Adnan Uğur",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"243",
+      "name":"Emre Mor",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"244",
+      "name":"Ömer Faruk Gümüş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"245",
+      "name":"Hakan Akgül",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"246",
+      "name":"Adnan Uğur",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"247",
+      "name":"Yasin Çakaloğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"248",
+      "name":"Andrea Bertolacci",
+      "position":"os",
+      "point":01
+   }, 
+   {
+      "id":"249",
+      "name":"Levent Mercan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"250",
+      "name":"Muhammed Egemen Pehlivan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"251",
+      "name":"Fabio Borini",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"252",
+      "name":"Serhat Ahmetoğlu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"253",
+      "name":"Ahmed Musa",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"254",
+      "name":"Aleksandar Pesic",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"255",
+      "name":"Yann Karamoh",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"256",
+      "name":"Vato Arveladze",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"257",
+      "name":"Bahattin Demircan",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"258",
+      "name":"Altay Bayındır",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"259",
+      "name":"Berke Özer",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"260",
+      "name":"Ertuğrul Çetin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"261",
+      "name":"Bartu Kulbilge",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"262",
+      "name":"Marcel Tisserand",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"263",
+      "name":"Attila Szalai",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"264",
+      "name":"Nazım Sangare",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"265",
+      "name":"Serdar Aziz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"266",
+      "name":"Filip Novak",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"267",
+      "name":"Kim Min-Jae",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"268",
+      "name":"Steven Caulker",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"269",
+      "name":"Çağatay Kurukalıp",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"270",
+      "name":"Burak Kapacak",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"271",
+      "name":"Luiz Gustavo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"272",
+      "name":"Jose Sosa",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"273",
+      "name":"Ferdi Kadıoğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"274",
+      "name":"Miha Zajc",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"275",
+      "name":"Mesut Özil",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"276",
+      "name":"Diego Rossi",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"277",
+      "name":"Max Meyer",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"278",
+      "name":"Miguel Crespo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"279",
+      "name":"Muhammed Gümüşkaya",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"280",
+      "name":"Arda Güler",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"281",
+      "name":"İrfan Can Kahveci",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"282",
+      "name":"Mert Hakan Yandaş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"283",
+      "name":"Fatih Yiğit Şanlıtürk",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"284",
+      "name":"Sinan Gümüş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"285",
+      "name":"Dimitrios Pelkas",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"286",
+      "name":"Bright Osayi-Samuel",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"287",
+      "name":"Enner Valencia",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"288",
+      "name":"Serdar Dursun",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"289",
+      "name":"Mergim Berisha",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"290",
+      "name":"Gülhan Üreyen",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"291",
+      "name":"Melih Bostan",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"292",
+      "name":"Fernando Muslera",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"293",
+      "name":"İsmail Çipe",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"294",
+      "name":"Berk Balaban",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"295",
+      "name":"Fatih Öztürk",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"296",
+      "name":"Jankat Yılmaz",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"297",
+      "name":"Christian Luyindama",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"298",
+      "name":"Patrick van Aanholt",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"299",
+      "name":"Sacha Boey",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"300",
+      "name":"Marcao",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"301",
+      "name":"Alpaslan Öztürk",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"302",
+      "name":"DeAndre Yedlin",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"303",
+      "name":"Victor Nelsson",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"304",
+      "name":"Omar Elabdellaoui",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"305",
+      "name":"Işık Kaan Arslan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"306",
+      "name":"Ryan Babel",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"307",
+      "name":"Berkan Kutlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"308",
+      "name":"Taylan Antalyalı",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"309",
+      "name":"Olimpiu Morutan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"310",
+      "name":"Sofiane Feghouli",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"311",
+      "name":"Aytaç Kara",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"312",
+      "name":"Emre Kılınç",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"313",
+      "name":"Arda Turan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"314",
+      "name":"Ömer Bayram",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"315",
+      "name":"Alexandru Cicaldau",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"316",
+      "name":"Atalay Babacan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"317",
+      "name":"Kerem Aktürkoğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"318",
+      "name":"Oğulcan Çağlayan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"621",
+      "name":"Gustavo Assunção",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"319",
+      "name":"Mbaye Diagne",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"320",
+      "name":"Halil Dervişoğlu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"321",
+      "name":"Mostafa Mohamed",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"322",
+      "name":"Barış Alper Yılmaz",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"323",
+      "name":"Günay Güvenç",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"324",
+      "name":"Mustafa Boznan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"325",
+      "name":"Ekrem Kılıçarslan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"326",
+      "name":"Papy Djilobodji",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"327",
+      "name":"Ertuğrul Ersoy",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"328",
+      "name":"Hamza Mendyl",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"329",
+      "name":"Stelios Kitsiou",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"330",
+      "name":"Halil İbrahim Pehlivan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"331",
+      "name":"Alin Tosca",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"332",
+      "name":"Ulaş Zengin",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"333",
+      "name":"Pawel Olkowski",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"334",
+      "name":"Oğuz Ceylan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"336",
+      "name":"Jefferson",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"337",
+      "name":"Recep Niyaz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"338",
+      "name":"Angelo Sagal",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"339",
+      "name":"Furkan Soyalp",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"340",
+      "name":"Doğan Erdoğan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"341",
+      "name":"Berke Gürbüz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"342",
+      "name":"Ahmed El Messaoudi",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"343",
+      "name":"Alexander Merkel",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"344",
+      "name":"Mirza Cihan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"345",
+      "name":"Enver Cenk Şahin",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"346",
+      "name":"Alexandru Maxim",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"347",
+      "name":"Amedej Vetrih",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"348",
+      "name":"Kenan Özer",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"349",
+      "name":"Yusuf Türk",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"350",
+      "name":"Torgeir Börven",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"351",
+      "name":"Nouha Dicko",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"352",
+      "name":"João Figueiredo",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"353",
+      "name":"Muhammet Demir",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"354",
+      "name":"Okan Kocuk",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"355",
+      "name":"Onurcan Piri",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"356",
+      "name":"Tolgahan Acar",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"357",
+      "name":"Göktan Cörüt",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"358",
+      "name":"Erkan Anapa",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"359",
+      "name":"Zeki Yavru",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"360",
+      "name":"Douglas",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"361",
+      "name":"Alexis Perez",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"362",
+      "name":"Emre Taşdemir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"363",
+      "name":"Hayrullah Bilazer",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"364",
+      "name":"Hüsamettin Tut",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"365",
+      "name":"Aziz Behich",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"366",
+      "name":"Mamadou Diarra",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"367",
+      "name":"Arda Kılıç",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"368",
+      "name":"Fatih Yılmaz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"369",
+      "name":"Sergen Piçinciol",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"370",
+      "name":"Atakan Aygün",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"371",
+      "name":"Joey Pelupessy",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"372",
+      "name":"Flavio",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"373",
+      "name":"Younousse Sankhare",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"374",
+      "name":"Fousseni Diabate",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"375",
+      "name":"Hamidou Traore",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"376",
+      "name":"Joseph Champness",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"377",
+      "name":"Alperen Aydın",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"378",
+      "name":"Erol Can Akdağ",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"379",
+      "name":"Esat Mala",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"380",
+      "name":"Cevatcan Ekinci",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"381",
+      "name":"Serginho",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"624",
+      "name":"Shapi Suleymanov",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"382",
+      "name":"Çekdar Orhan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"383",
+      "name":"Ibrahima Balde",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"384",
+      "name":"Souleymane Doukara",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"385",
+      "name":"Umut Nayir",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"386",
+      "name":"İrfan Can Eğribayat",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"387",
+      "name":"Arda Özçimen",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"388",
+      "name":"Balazs Megyeri",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"389",
+      "name":"Eren Bilen",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"390",
+      "name":"Berkan Emir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"391",
+      "name":"Murat Paluli",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"392",
+      "name":"Dino Arslanagic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"393",
+      "name":"Atınç Nukan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"394",
+      "name":"Kahraman Demirtaş",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"395",
+      "name":"Kerim Alıcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"396",
+      "name":"Marko Mihojevic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"397",
+      "name":"Dzenan Burekovic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"398",
+      "name":"Yusuf Talum",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"625",
+      "name":"Wilker Ángel",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"399",
+      "name":"Halil Akbunar",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"400",
+      "name":"Soner Aydoğdu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"401",
+      "name":"Obinna Nwobodo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"402",
+      "name":"Makana Rudi Baku",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"403",
+      "name":"David Tijanic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"404",
+      "name":"Beykan Şimşek",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"405",
+      "name":"Yalçın Kayan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"406",
+      "name":"Efe Can Sacikara",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"407",
+      "name":"Tibet Öniz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"408",
+      "name":"Metin Yıldırım",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"409",
+      "name":"Gökay Eser",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"410",
+      "name":"Atakan Rıdvan Çankaya",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"411",
+      "name":"Lourency",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"412",
+      "name":"Adis Jahovic",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"413",
+      "name":"Cherif Ndiaye",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"414",
+      "name":"Brown Ideye",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"415",
+      "name":"Ege Özkayimoğlu",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"416",
+      "name":"Munir Mohamedi",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"417",
+      "name":"Abdullah Yiğiter",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"418",
+      "name":"Kamil Ahmet Çörekçi",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"419",
+      "name":"Samuel Adekugbe",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"420",
+      "name":"Simon Falette",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"421",
+      "name":"Fatih Kuruçuk",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"422",
+      "name":"Burak Öksüz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"423",
+      "name":"Bülent Cevahir",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"424",
+      "name":"Strahil Popov",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"425",
+      "name":"Burak Çamoğlu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"426",
+      "name":"Eren Fansa",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"427",
+      "name":"Ruben Ribeiro",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"428",
+      "name":"Saba Lobzhanidze",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"429",
+      "name":"Onur Ergün",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"430",
+      "name":"Adama Noss Traore",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"431",
+      "name":"Emre Çolak",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"432",
+      "name":"Isaac Sackey",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"433",
+      "name":"Sadık Baş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"434",
+      "name":"Muhammed Mert",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"435",
+      "name":"Joseph Akomadi",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"436",
+      "name":"Mehdi Boudjemaa",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"437",
+      "name":"Dylan Saint-Louis",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"438",
+      "name":"Mame Biram Diouf",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"439",
+      "name":"Mohammed Kamara",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"440",
+      "name":"Ayoub El Kaabi",
+      "position":"f",
+      "point":01
+   }, 
+   {
+      "id":"441",
+      "name":"Bertuğ Özgür Yıldırım",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"442",
+      "name":"Ahmet Hakan Şahin",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"443",
+      "name":"Ertuğrul Taşkıran",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"444",
+      "name":"Harun Tekin",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"445",
+      "name":"Erdem Canpolat",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"446",
+      "name":"Florent Hadergjonaj",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"447",
+      "name":"Jeffrey Bruma",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"448",
+      "name":"Furkan Çetinkaya",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"449",
+      "name":"Evren Eren Elmalı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"450",
+      "name":"Mehmet Feyzi Yıldırım",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"451",
+      "name":"Tomas Brecka",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"452",
+      "name":"Ryan Donk",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"453",
+      "name":"Sakıb Aytaç",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"454",
+      "name":"Berk Çetin",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"455",
+      "name":"Mortadha Ben Ouannes",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"456",
+      "name":"Tarkan Serbest",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"457",
+      "name":"Loret Sadiku",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"458",
+      "name":"Haris Hajradinovic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"459",
+      "name":"Yusuf Erdoğan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"460",
+      "name":"Kevin Varga",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"461",
+      "name":"Valentin Eysseric",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"462",
+      "name":"Michal Travnik",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"463",
+      "name":"Doğucan Haspolat",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"464",
+      "name":"Nabil Dirar",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"465",
+      "name":"Anıl Özçelik",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"466",
+      "name":"Ahmet Engin",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"467",
+      "name":"Berat Kalkan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"468",
+      "name":"Nicolai Jörgensen",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"469",
+      "name":"Umut Bozok",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"470",
+      "name":"Arda Bulut",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"471",
+      "name":"Hasan Emre Yeşilyurt",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"472",
+      "name":"Silviu Lung",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"473",
+      "name":"Abdulkadir Taşdan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"474",
+      "name":"Bilal Bayazit",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"475",
+      "name":"Cenk Gönen",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"476",
+      "name":"Dimitrios Kolovetsios",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"477",
+      "name":"Lionel Carole",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"478",
+      "name":"Uğur Demirok",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"479",
+      "name":"Seyed Majid Hosseini",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"480",
+      "name":"Yasir Subaşı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"481",
+      "name":"Joseph Attamah",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"482",
+      "name":"Emrah Başsan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"483",
+      "name":"İbrahim Akdağ",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"484",
+      "name":"Ramazan Civelek",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"485",
+      "name":"Onur Bulut",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"486",
+      "name":"Gökhan Sazdağı",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"487",
+      "name":"Zoran Kvrzic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"488",
+      "name":"Daniel Avramovski",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"489",
+      "name":"Bernard Mensah",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"490",
+      "name":"Anthony Uzodimma",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"491",
+      "name":"Harisson Manzala",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"492",
+      "name":"Manuel Fernandes",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"493",
+      "name":"Emre Demir",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"494",
+      "name":"Gustavo Campanharo",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"496",
+      "name":"Olivier Kemen",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"497",
+      "name":"Miguel Cardoso",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"498",
+      "name":"Carlos Mane",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"499",
+      "name":"Mame Thiam",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"500",
+      "name":"Nurettin Korkmaz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"501",
+      "name":"Ömer Uzun",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"502",
+      "name":"İlhan Parlak",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"503",
+      "name":"Mustafa Pektemek",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"504",
+      "name":"Mario Gavranovic",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"505",
+      "name":"Ibrahim Sehic",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"506",
+      "name":"Eray Birniçan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"507",
+      "name":"Erten Ersu",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"508",
+      "name":"Ahmet Çalık",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"509",
+      "name":"Guilherme",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"510",
+      "name":"Abdülkerim Bardakçı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"511",
+      "name":"Nejc Skubic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"512",
+      "name":"Adil Demirbağ",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"513",
+      "name":"Marin Anicic",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"514",
+      "name":"Alper Uludağ",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"515",
+      "name":"Barış Yardımcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"516",
+      "name":"Nafican Yardımcı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"517",
+      "name":"Amir Hadziahmetovic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"518",
+      "name":"Soner Dikmen",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"519",
+      "name":"Endri Çekiçi",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"520",
+      "name":"Serdar Gürler",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"521",
+      "name":"Amar Rahmanovic",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"522",
+      "name":"Oğulcan Ülgün",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"523",
+      "name":"Konrad Michalak",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"524",
+      "name":"Musa Çağıran",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"525",
+      "name":"Emre Pehlivan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"526",
+      "name":"İzzet Karaboğa",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"527",
+      "name":"Paul-Jose Mpoku",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"528",
+      "name":"Zymer Bytyqi",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"529",
+      "name":"Ekrem Kayılıbal",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"530",
+      "name":"Sokol Cikalleshi",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"531",
+      "name":"Ahmet Karademir",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"626",
+      "name":"Ahmet Hassan",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"532",
+      "name":"Artem Kravets",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"533",
+      "name":"Ali Şaşal Vural",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"534",
+      "name":"Muammer Yıldırım",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"535",
+      "name":"Emre Satılmış",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"536",
+      "name":"Uğur Çiftçi",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"537",
+      "name":"Ahmet Oğuz",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"538",
+      "name":"Caner Osmanpaşa",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"539",
+      "name":"Koray Altınay",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"540",
+      "name":"Ziya Erdal",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"541",
+      "name":"Dimitris Goutas",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"542",
+      "name":"Samba Camara",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"543",
+      "name":"Özkan Yiğiter",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"544",
+      "name":"Aaron Appindangoye",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"545",
+      "name":"Volkan Eğri",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"546",
+      "name":"Hakan Arslan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"547",
+      "name":"Fredrik Ulvestad",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"548",
+      "name":"Jorge Felix",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"549",
+      "name":"Faycal Fajr",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"550",
+      "name":"Isaac Cofie",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"551",
+      "name":"Azubuike Okechukwu",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"552",
+      "name":"Erdoğan Yeşilyurt",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"553",
+      "name":"Kerem Atakan Kesgin",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"554",
+      "name":"Sefa Yılmaz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"555",
+      "name":"Max Gradel",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"556",
+      "name":"Pedro Henrique",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"557",
+      "name":"Olarenwaju Kayode",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"558",
+      "name":"Leke James",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"559",
+      "name":"Mustapha Yatabare",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"560",
+      "name":"Uğurcan Çakır",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"561",
+      "name":"Erce Kardeşler",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"562",
+      "name":"Muhammet Taha Tepe",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"563",
+      "name":"Arda Akbulut",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"564",
+      "name":"Vitor Hugo",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"565",
+      "name":"Edgar Ie",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"566",
+      "name":"Bruno Peres",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"567",
+      "name":"İsmail Köybaşı",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"568",
+      "name":"Serkan Asan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"569",
+      "name":"Stefano Denswill",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"570",
+      "name":"Hüseyin Türkmen",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"571",
+      "name":"Ahmetcan Kaplan",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"572",
+      "name":"Anastasios Bakasetas",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"573",
+      "name":"Marek Hamsik",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"574",
+      "name":"Yusuf Sarı",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"575",
+      "name":"Abdülkadir Ömür",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"576",
+      "name":"Anders Trondsen",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"577",
+      "name":"Manolis Siopis",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"578",
+      "name":"Yunus Mallı",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"579",
+      "name":"Abdulkadir Parmak",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"580",
+      "name":"Murat Cem Akpınar",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"581",
+      "name":"Dorukhan Toköz",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"582",
+      "name":"Anthony Nwakaeme",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"583",
+      "name":"Berat Özdemir",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"584",
+      "name":"Jorge Djaniny",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"585",
+      "name":"Gervinho",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"586",
+      "name":"Andreas Cornelius",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"587",
+      "name":"Fode Koita",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"588",
+      "name":"Ertaç Özbir",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"589",
+      "name":"Abdulsamed Damlu",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"590",
+      "name":"Murat Akşit",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"591",
+      "name":"Ahmet Eyüp Türkaslan",
+      "position":"k",
+      "point":0
+   }, 
+   {
+      "id":"592",
+      "name":"Wallace",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"593",
+      "name":"Semih Kaya",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"594",
+      "name":"Oussama Haddadi",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"595",
+      "name":"Karim Hafez",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"596",
+      "name":"Sadık Çiftpınar",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"597",
+      "name":"Philip Awuku Gameli",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"598",
+      "name":"Eric Ndizeye",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"599",
+      "name":"Taha Gür",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"600",
+      "name":"M. Emin Sarıkaya",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"601",
+      "name":"Mert Örnek",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"602",
+      "name":"Mustafa Eskihellaç",
+      "position":"d",
+      "point":0
+   }, 
+   {
+      "id":"603",
+      "name":"Stevie Mallan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"604",
+      "name":"Rayane Aabid",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"605",
+      "name":"Jospin Nshimirimana",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"606",
+      "name":"Ramazan Buğra Çağıran",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"607",
+      "name":"Haqi Osman",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"608",
+      "name":"Mert Miraç Altıntaş",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"609",
+      "name":"Hasan Özkan",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"610",
+      "name":"Mounir Chouiar",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"611",
+      "name":"Didier Ndong",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"612",
+      "name":"Nuri Fatih Aydın",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"613",
+      "name":"Berk Yıldız",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"614",
+      "name":"Atakan Müjde",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"615",
+      "name":"Aly Malle",
+      "position":"os",
+      "point":0
+   }, 
+   {
+      "id":"616",
+      "name":"Benjamin Tetteh",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"617",
+      "name":"Walter Bwalya",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"618",
+      "name":"Adem Büyük",
+      "position":"f",
+      "point":0
+   }, 
+   {
+      "id":"619",
+      "name":"Kubilay Kanatsızkuş",
+      "position":"f",
+      "point":0
+   }
+]
