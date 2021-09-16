@@ -1,6 +1,7 @@
 [
-{
 	
+{
+		
 "takimid": "ada",
 		
 "oyuncular": 
@@ -154,7 +155,7 @@
       "name": "Metehan Mimaroğlu",
       "pozisyon": "f",
       "id": "025"
-    } 
+    }
 ]
 	
 },
@@ -260,12 +261,6 @@
       "name": "Ahmed İldiz",
       "pozisyon": "os",
       "id": "040"
-    }, 
-    {
-      "team": "ala",
-      "name": "Efecan Karaca",
-      "pozisyon": "os",
-      "id": "041"
     }, 
     {
       "team": "ala",
@@ -430,135 +425,129 @@
     }, 
     {
       "team": "alt",
-      "name": "Mehmet Erdem Uğurlu",
+      "name": "Gençer Cansev",
       "pozisyon": "d",
       "id": "067"
     }, 
     {
       "team": "alt",
-      "name": "Gençer Cansev",
+      "name": "Özgür Özkaya",
       "pozisyon": "d",
       "id": "068"
     }, 
     {
       "team": "alt",
-      "name": "Özgür Özkaya",
+      "name": "Sefa Özdemir",
       "pozisyon": "d",
       "id": "069"
     }, 
     {
       "team": "alt",
-      "name": "Sefa Özdemir",
-      "pozisyon": "d",
-      "id": "070"
-    }, 
-    {
-      "team": "alt",
       "name": "Andre Poko",
       "pozisyon": "os",
-      "id": "071"
+      "id": "070"
     }, 
     {
       "team": "alt",
       "name": "Cem Özgener",
       "pozisyon": "os",
-      "id": "072"
+      "id": "071"
     }, 
     {
       "team": "alt",
       "name": "Khaly Thiam",
       "pozisyon": "os",
-      "id": "073"
+      "id": "072"
     }, 
     {
       "team": "alt",
       "name": "Cesar Pinares",
       "pozisyon": "os",
-      "id": "074"
+      "id": "073"
     }, 
     {
       "team": "alt",
       "name": "Martin Rodriguez",
       "pozisyon": "os",
-      "id": "075"
+      "id": "074"
     }, 
     {
       "team": "alt",
       "name": "Thaciano",
       "pozisyon": "os",
-      "id": "076"
+      "id": "075"
     }, 
     {
       "team": "alt",
       "name": "Serge Arnaud Aka",
       "pozisyon": "os",
-      "id": "077"
+      "id": "076"
     }, 
     {
       "team": "alt",
       "name": "Zeki Yıldırım",
       "pozisyon": "os",
-      "id": "078"
+      "id": "077"
     }, 
     {
       "team": "alt",
       "name": "Erhan Çelenk",
       "pozisyon": "os",
-      "id": "079"
+      "id": "078"
     }, 
     {
       "team": "alt",
       "name": "Ziya Alkurt",
       "pozisyon": "os",
-      "id": "080"
+      "id": "079"
     }, 
     {
       "team": "alt",
       "name": "Ceyhun Gülselam",
       "pozisyon": "os",
-      "id": "081"
+      "id": "080"
     }, 
     {
       "team": "alt",
       "name": "Leandro Kappel",
       "pozisyon": "f",
-      "id": "082"
+      "id": "081"
     }, 
     {
       "team": "alt",
       "name": "Daouda Bamba",
       "pozisyon": "f",
-      "id": "083"
+      "id": "082"
     }, 
     {
       "team": "alt",
       "name": "Marco Paixao",
       "pozisyon": "f",
-      "id": "084"
+      "id": "083"
     }, 
     {
       "team": "alt",
       "name": "Ahmed Yasser Rayan",
       "pozisyon": "f",
-      "id": "085"
+      "id": "084"
     }, 
     {
       "team": "alt",
       "name": "Kazımcan Karataş",
       "pozisyon": "f",
-      "id": "086"
+      "id": "085"
     }, 
     {
       "team": "alt",
       "name": "Deniz Kadah",
       "pozisyon": "f",
-      "id": "087"
+      "id": "086"
     }, 
     {
       "team": "alt",
       "name": "Eren Erdoğan",
       "pozisyon": "f",
-      "id": "088"
+      "id": "087"
     }
 ]
 
@@ -575,193 +564,187 @@
       "team": "ant",
       "name": "Ruud Boffin",
       "pozisyon": "k",
-      "id": "089"
+      "id": "088"
     }, 
     {
       "team": "ant",
       "name": "Doğukan Özkan",
       "pozisyon": "k",
-      "id": "090"
+      "id": "089"
     }, 
     {
       "team": "ant",
       "name": "Diogo Sousa",
       "pozisyon": "k",
-      "id": "091"
+      "id": "090"
     }, 
     {
       "team": "ant",
       "name": "Naldo",
       "pozisyon": "d",
-      "id": "092"
+      "id": "091"
     }, 
     {
       "team": "ant",
       "name": "Bünyamin Balcı",
       "pozisyon": "d",
-      "id": "093"
+      "id": "092"
     }, 
     {
       "team": "ant",
       "name": "Veysel Sarı",
       "pozisyon": "d",
-      "id": "094"
-    }, 
-    {
-      "team": "ant",
-      "name": "Musah Mohammed",
-      "pozisyon": "d",
-      "id": "095"
+      "id": "093"
     }, 
     {
       "team": "ant",
       "name": "Bahadır Öztürk",
       "pozisyon": "d",
-      "id": "096"
+      "id": "094"
     }, 
     {
       "team": "ant",
       "name": "Eren Albayrak",
       "pozisyon": "d",
-      "id": "097"
+      "id": "095"
     }, 
     {
       "team": "ant",
       "name": "Fedor Kudryashov",
       "pozisyon": "d",
-      "id": "098"
+      "id": "096"
     }, 
     {
       "team": "ant",
-      "name": "Mert Yılmaz",
+      "name": "Berat Onur Pınar",
       "pozisyon": "d",
-      "id": "099"
+      "id": "097"
     }, 
     {
       "team": "ant",
       "name": "Sherel Floranus",
       "pozisyon": "d",
-      "id": "100"
+      "id": "098"
     }, 
     {
       "team": "ant",
       "name": "Doğukan Nelik",
       "pozisyon": "d",
-      "id": "101"
+      "id": "099"
     }, 
     {
       "team": "ant",
       "name": "Nuri Şahin",
       "pozisyon": "os",
-      "id": "102"
+      "id": "100"
     }, 
     {
       "team": "ant",
       "name": "Andrea Poli",
       "pozisyon": "os",
-      "id": "103"
+      "id": "101"
     }, 
     {
       "team": "ant",
       "name": "Fredy Riberio",
       "pozisyon": "os",
-      "id": "104"
+      "id": "102"
     }, 
     {
       "team": "ant",
       "name": "Amilton",
       "pozisyon": "os",
-      "id": "105"
+      "id": "103"
     }, 
     {
       "team": "ant",
       "name": "Deni Milosevic",
       "pozisyon": "os",
-      "id": "106"
+      "id": "104"
     }, 
     {
       "team": "ant",
       "name": "Hakan Özmert",
       "pozisyon": "os",
-      "id": "107"
+      "id": "105"
     }, 
     {
       "team": "ant",
       "name": "Doğukan Sinik",
       "pozisyon": "os",
-      "id": "108"
+      "id": "106"
     }, 
     {
       "team": "ant",
       "name": "Ufuk Akyol",
       "pozisyon": "os",
-      "id": "109"
+      "id": "107"
     }, 
     {
       "team": "ant",
       "name": "Erkan Eyibil",
       "pozisyon": "os",
-      "id": "110"
+      "id": "108"
     }, 
     {
       "team": "ant",
       "name": "Güray Vural",
       "pozisyon": "os",
-      "id": "111"
+      "id": "109"
     }, 
     {
       "team": "ant",
       "name": "Paul Mukairu",
       "pozisyon": "os",
-      "id": "112"
+      "id": "110"
     }, 
     {
       "team": "ant",
       "name": "Harun Alpsoy",
       "pozisyon": "os",
-      "id": "113"
+      "id": "111"
     }, 
     {
       "team": "ant",
       "name": "Ersin Zehir",
       "pozisyon": "os",
-      "id": "114"
+      "id": "112"
     }, 
     {
       "team": "ant",
       "name": "Gökdeniz Bayrakdar",
       "pozisyon": "os",
-      "id": "115"
+      "id": "113"
     }, 
     {
       "team": "ant",
       "name": "Serdar Poyraz",
       "pozisyon": "f",
-      "id": "116"
+      "id": "114"
     }, 
     {
       "team": "ant",
       "name": "Haji Wright",
       "pozisyon": "f",
-      "id": "117"
+      "id": "115"
     }, 
     {
       "team": "ant",
       "name": "Enzo Crivelli",
       "pozisyon": "f",
-      "id": "118"
+      "id": "116"
     }, 
     {
       "team": "ant",
       "name": "Houssam Eddine Ghacha",
       "pozisyon": "f",
-      "id": "119"
+      "id": "117"
     }, 
     {
       "team": "ant",
       "name": "Fehmi Koç",
       "pozisyon": "f",
-      "id": "120"
+      "id": "118"
     }
 ]
 	
@@ -777,187 +760,181 @@
       "team": "bas",
       "name": "Volkan Babacan",
       "pozisyon": "k",
-      "id": "121"
+      "id": "119"
     }, 
     {
       "team": "bas",
       "name": "Ahmet Said Kıvanç",
       "pozisyon": "k",
-      "id": "122"
+      "id": "120"
     }, 
     {
       "team": "bas",
       "name": "Muhammed Şengezer",
       "pozisyon": "k",
-      "id": "123"
+      "id": "121"
     }, 
     {
       "team": "bas",
       "name": "Deniz Dilmen",
       "pozisyon": "k",
-      "id": "124"
+      "id": "122"
     }, 
     {
       "team": "bas",
       "name": "Ravil Tagir",
       "pozisyon": "d",
-      "id": "125"
+      "id": "123"
     }, 
     {
       "team": "bas",
       "name": "Lucas Lima",
       "pozisyon": "d",
-      "id": "126"
+      "id": "124"
     }, 
     {
       "team": "bas",
       "name": "Junior Caiçara",
       "pozisyon": "d",
-      "id": "127"
+      "id": "125"
     }, 
     {
       "team": "bas",
       "name": "Hasan Ali Kaldırım",
       "pozisyon": "d",
-      "id": "128"
+      "id": "126"
     }, 
     {
       "team": "bas",
       "name": "Alexandru Epureanu",
       "pozisyon": "d",
-      "id": "129"
+      "id": "127"
     }, 
     {
       "team": "bas",
       "name": "Şener Özbayraklı",
       "pozisyon": "d",
-      "id": "130"
+      "id": "128"
     }, 
     {
       "team": "bas",
       "name": "Carlos Ponck",
       "pozisyon": "d",
-      "id": "131"
+      "id": "129"
     }, 
     {
       "team": "bas",
       "name": "Leo Duarte",
       "pozisyon": "d",
-      "id": "132"
+      "id": "130"
     }, 
     {
       "team": "bas",
       "name": "Emre Kaplan",
       "pozisyon": "d",
-      "id": "133"
+      "id": "131"
     }, 
     {
       "team": "bas",
       "name": "Miguel Vieira",
       "pozisyon": "d",
-      "id": "134"
+      "id": "132"
     }, 
     {
       "team": "bas",
       "name": "Danijel Aleksic",
       "pozisyon": "os",
-      "id": "135"
+      "id": "133"
     }, 
     {
       "team": "bas",
       "name": "Youssouf Ndayishimiye",
       "pozisyon": "os",
-      "id": "136"
+      "id": "134"
     }, 
     {
       "team": "bas",
       "name": "Edin Visca",
       "pozisyon": "os",
-      "id": "137"
+      "id": "135"
     }, 
     {
       "team": "bas",
       "name": "Berkay Özcan",
       "pozisyon": "os",
-      "id": "138"
+      "id": "136"
     }, 
     {
       "team": "bas",
       "name": "Tolga Ciğerci",
       "pozisyon": "os",
-      "id": "139"
+      "id": "137"
     }, 
     {
       "team": "bas",
       "name": "Deniz Türüç",
       "pozisyon": "os",
-      "id": "140"
+      "id": "138"
     }, 
     {
       "team": "bas",
       "name": "Mahmut Tekdemir",
       "pozisyon": "os",
-      "id": "141"
+      "id": "139"
     }, 
     {
       "team": "bas",
       "name": "Peter Zulj",
       "pozisyon": "os",
-      "id": "142"
+      "id": "140"
     }, 
     {
       "team": "bas",
       "name": "Nacer Chadli",
       "pozisyon": "os",
-      "id": "143"
+      "id": "141"
     }, 
     {
       "team": "bas",
       "name": "Emir Şenocak",
       "pozisyon": "os",
-      "id": "144"
-    }, 
-    {
-      "team": "bas",
-      "name": "Alican Özfesli",
-      "pozisyon": "os",
-      "id": "145"
+      "id": "142"
     }, 
     {
       "team": "bas",
       "name": "Ömer Ali Şahiner",
       "pozisyon": "os",
-      "id": "146"
+      "id": "143"
     }, 
     {
       "team": "bas",
       "name": "Fredrik Gulbrandsen",
       "pozisyon": "f",
-      "id": "147"
+      "id": "144"
     }, 
     {
       "team": "bas",
       "name": "Ahmed Kutucu",
       "pozisyon": "f",
-      "id": "148"
+      "id": "145"
     }, 
     {
       "team": "bas",
       "name": "Atabey Çiçek",
       "pozisyon": "f",
-      "id": "149"
+      "id": "146"
+    }, 
+    {
+      "team": "bas",
+      "name": "Stefano Okaka",
+      "pozisyon": "f",
+      "id": "147"
     }, 
     {
       "team": "bas",
       "name": "Enes Karakuş",
       "pozisyon": "f",
-      "id": "150"
-    },
-    {
-      "team": "bas",
-      "name": "Stefano Okaka",
-      "pozisyon": "f",
-      "id": "623"
+      "id": "148"
     }
 ]
 
@@ -973,211 +950,187 @@
       "team": "bes",
       "name": "Ersin Destanoğlu",
       "pozisyon": "k",
-      "id": "151"
+      "id": "149"
     }, 
     {
       "team": "bes",
       "name": "Emre Bilgin",
       "pozisyon": "k",
-      "id": "152"
+      "id": "150"
     }, 
     {
       "team": "bes",
       "name": "Mert Günok",
       "pozisyon": "k",
-      "id": "153"
-    }, 
-    {
-      "team": "bes",
-      "name": "Göktuğ Baytekin",
-      "pozisyon": "k",
-      "id": "154"
+      "id": "151"
     }, 
     {
       "team": "bes",
       "name": "Valentin Rosier",
       "pozisyon": "d",
-      "id": "155"
+      "id": "152"
     }, 
     {
       "team": "bes",
       "name": "Welinton",
       "pozisyon": "d",
-      "id": "156"
+      "id": "153"
     }, 
     {
       "team": "bes",
       "name": "Domagoj Vida",
       "pozisyon": "d",
-      "id": "157"
+      "id": "154"
     }, 
     {
       "team": "bes",
       "name": "Fabrice N'Sakala",
       "pozisyon": "d",
-      "id": "158"
+      "id": "155"
     }, 
     {
       "team": "bes",
       "name": "Rıdvan Yılmaz",
       "pozisyon": "d",
-      "id": "159"
+      "id": "156"
     }, 
     {
       "team": "bes",
       "name": "Javi Montero",
       "pozisyon": "d",
-      "id": "160"
+      "id": "157"
     }, 
     {
       "team": "bes",
       "name": "Umut Meraş",
       "pozisyon": "d",
-      "id": "161"
-    }, 
-    {
-      "team": "bes",
-      "name": "Emre Aydemir",
-      "pozisyon": "d",
-      "id": "162"
+      "id": "158"
     }, 
     {
       "team": "bes",
       "name": "Serdar Saatçı",
       "pozisyon": "d",
-      "id": "163"
+      "id": "159"
     }, 
     {
       "team": "bes",
       "name": "Douglas",
       "pozisyon": "d",
-      "id": "164"
+      "id": "160"
     }, 
     {
       "team": "bes",
       "name": "Josef de Souza",
       "pozisyon": "os",
-      "id": "165"
-    }, 
-    {
-      "team": "bes",
-      "name": "Salih Uçan",
-      "pozisyon": "os",
-      "id": "166"
+      "id": "161"
     }, 
     {
       "team": "bes",
       "name": "Rachid Ghezzal",
       "pozisyon": "os",
-      "id": "167"
+      "id": "162"
     }, 
     {
       "team": "bes",
       "name": "Kevin N'Koudou",
       "pozisyon": "os",
-      "id": "168"
+      "id": "163"
     }, 
     {
       "team": "bes",
       "name": "Atiba Hutchinson",
       "pozisyon": "os",
-      "id": "169"
+      "id": "164"
     }, 
     {
       "team": "bes",
       "name": "Alex Teixeira",
       "pozisyon": "os",
-      "id": "170"
+      "id": "165"
     }, 
     {
       "team": "bes",
       "name": "Miralem Pjanic",
       "pozisyon": "os",
-      "id": "171"
-    }, 
-    {
-      "team": "bes",
-      "name": "Avtandil Duishoev",
-      "pozisyon": "os",
-      "id": "172"
+      "id": "166"
     }, 
     {
       "team": "bes",
       "name": "Can Bozdoğan",
       "pozisyon": "os",
-      "id": "173"
+      "id": "167"
     }, 
     {
       "team": "bes",
       "name": "Gökhan Töre",
       "pozisyon": "os",
-      "id": "174"
+      "id": "168"
     }, 
     {
       "team": "bes",
       "name": "Necip Uysal",
       "pozisyon": "os",
-      "id": "175"
+      "id": "169"
     }, 
     {
       "team": "bes",
       "name": "Oğuzhan Özyakup",
       "pozisyon": "os",
-      "id": "176"
+      "id": "170"
     }, 
     {
       "team": "bes",
       "name": "Mehmet Topal",
       "pozisyon": "os",
-      "id": "177"
+      "id": "171"
     }, 
     {
       "team": "bes",
       "name": "Adem Ljajic",
       "pozisyon": "os",
-      "id": "178"
+      "id": "172"
     }, 
     {
       "team": "bes",
       "name": "Jeremain Lens",
       "pozisyon": "os",
-      "id": "179"
+      "id": "173"
     }, 
     {
       "team": "bes",
       "name": "Ajdin Hasic",
       "pozisyon": "os",
-      "id": "180"
+      "id": "174"
     }, 
     {
       "team": "bes",
       "name": "Kenan Karaman",
       "pozisyon": "f",
-      "id": "181"
+      "id": "175"
     }, 
     {
       "team": "bes",
       "name": "Cyle Larin",
       "pozisyon": "f",
-      "id": "182"
+      "id": "176"
     }, 
     {
       "team": "bes",
       "name": "Michy Batshuayi",
       "pozisyon": "f",
-      "id": "183"
+      "id": "177"
     }, 
     {
       "team": "bes",
       "name": "Güven Yalçın",
       "pozisyon": "f",
-      "id": "184"
+      "id": "178"
     }, 
     {
       "team": "bes",
       "name": "Atakan Üner",
       "pozisyon": "f",
-      "id": "185"
+      "id": "179"
     }
 ]
 	
@@ -1193,181 +1146,175 @@
       "team": "cay",
       "name": "Gökhan Akkan",
       "pozisyon": "k",
-      "id": "186"
+      "id": "180"
     }, 
     {
       "team": "cay",
       "name": "Tarık Çetin",
       "pozisyon": "k",
-      "id": "187"
+      "id": "181"
     }, 
     {
       "team": "cay",
       "name": "Zafer Görgen",
       "pozisyon": "k",
-      "id": "188"
+      "id": "182"
     }, 
     {
       "team": "cay",
       "name": "Sebastian Holmen",
       "pozisyon": "d",
-      "id": "189"
+      "id": "183"
     }, 
     {
       "team": "cay",
       "name": "Cemali Sertel",
       "pozisyon": "d",
-      "id": "190"
+      "id": "184"
     }, 
     {
       "team": "cay",
       "name": "Alberk Koç",
       "pozisyon": "d",
-      "id": "191"
+      "id": "185"
     }, 
     {
       "team": "cay",
       "name": "Anıl Yaşar",
       "pozisyon": "d",
-      "id": "192"
+      "id": "186"
     }, 
     {
       "team": "cay",
       "name": "Gökhan Gönül",
       "pozisyon": "d",
-      "id": "193"
+      "id": "187"
     }, 
     {
       "team": "cay",
       "name": "Selim Ay",
       "pozisyon": "d",
-      "id": "194"
-    }, 
-    {
-      "team": "cay",
-      "name": "Emir Dilaver",
-      "pozisyon": "d",
-      "id": "195"
+      "id": "188"
     }, 
     {
       "team": "cay",
       "name": "Emir Han Topçu",
       "pozisyon": "d",
-      "id": "196"
+      "id": "189"
     }, 
     {
       "team": "cay",
       "name": "Aziz Aksoy",
       "pozisyon": "d",
-      "id": "197"
+      "id": "190"
     }, 
     {
       "team": "cay",
       "name": "Oğuzhan Malcı",
       "pozisyon": "d",
-      "id": "198"
+      "id": "191"
     }, 
     {
       "team": "cay",
       "name": "Nathan Monzango",
       "pozisyon": "d",
-      "id": "622"
+      "id": "192"
     }, 
     {
       "team": "cay",
       "name": "Alper Potuk",
       "pozisyon": "os",
-      "id": "199"
+      "id": "193"
     }, 
     {
       "team": "cay",
       "name": "Fabricio Baiano",
       "pozisyon": "os",
-      "id": "200"
+      "id": "194"
     }, 
     {
       "team": "cay",
       "name": "Bryan Dabo",
       "pozisyon": "os",
-      "id": "201"
+      "id": "195"
     }, 
     {
       "team": "cay",
       "name": "Erik Sabo",
       "pozisyon": "os",
-      "id": "202"
+      "id": "196"
     }, 
     {
       "team": "cay",
       "name": "Damjan Djokovic",
       "pozisyon": "os",
-      "id": "203"
+      "id": "197"
     }, 
     {
       "team": "cay",
       "name": "Yasin Pehlivan",
       "pozisyon": "os",
-      "id": "204"
+      "id": "198"
     }, 
     {
       "team": "cay",
       "name": "Eren Karadağ",
       "pozisyon": "os",
-      "id": "205"
+      "id": "199"
     }, 
     {
       "team": "cay",
       "name": "Ronaldo Mendes",
       "pozisyon": "os",
-      "id": "206"
+      "id": "200"
     }, 
     {
       "team": "cay",
       "name": "Tyler Boyd",
       "pozisyon": "os",
-      "id": "207"
+      "id": "201"
     }, 
     {
       "team": "cay",
       "name": "Fernando Boldrin",
       "pozisyon": "os",
-      "id": "208"
+      "id": "202"
     }, 
     {
       "team": "cay",
       "name": "Lebogang Phiri",
       "pozisyon": "os",
-      "id": "209"
+      "id": "203"
     }, 
     {
       "team": "cay",
       "name": "Yannick Bolasie",
       "pozisyon": "os",
-      "id": "210"
+      "id": "204"
     }, 
     {
       "team": "cay",
       "name": "Umar Aminu",
       "pozisyon": "f",
-      "id": "211"
+      "id": "205"
     }, 
     {
       "team": "cay",
       "name": "Deniz Hümmet",
       "pozisyon": "f",
-      "id": "212"
+      "id": "206"
     }, 
     {
       "team": "cay",
       "name": "Joel Pohjanpalo",
       "pozisyon": "f",
-      "id": "213"
+      "id": "207"
     }, 
     {
       "team": "cay",
       "name": "Loic Remy",
       "pozisyon": "f",
-      "id": "214"
+      "id": "208"
     }
 ]
 
@@ -1384,260 +1331,230 @@
       "team": "fat",
       "name": "Emiliano Viviano",
       "pozisyon": "k",
-      "id": "215"
+      "id": "209"
     }, 
     {
       "team": "fat",
       "name": "Yavuz Aygün",
       "pozisyon": "k",
-      "id": "216"
+      "id": "210"
     }, 
     {
       "team": "fat",
       "name": "Muzaffer Cem Kablan",
       "pozisyon": "k",
-      "id": "217"
+      "id": "211"
     }, 
     {
       "team": "fat",
       "name": "Mehmet Demirci",
       "pozisyon": "k",
-      "id": "218"
+      "id": "212"
     }, 
     {
       "team": "fat",
       "name": "Utku Yuvakuran",
       "pozisyon": "k",
-      "id": "219"
+      "id": "213"
     }, 
     {
       "team": "fat",
       "name": "Medhi Benatia",
       "pozisyon": "d",
-      "id": "220"
+      "id": "214"
     }, 
     {
       "team": "fat",
       "name": "Vegar Hedenstad",
       "pozisyon": "d",
-      "id": "221"
+      "id": "215"
     }, 
     {
       "team": "fat",
       "name": "Jure Balkovec",
       "pozisyon": "d",
-      "id": "222"
+      "id": "216"
     }, 
     {
       "team": "fat",
       "name": "Ervin Zukanovic",
       "pozisyon": "d",
-      "id": "223"
+      "id": "217"
     }, 
     {
       "team": "fat",
       "name": "Burak Bekaroğlu",
       "pozisyon": "d",
-      "id": "224"
+      "id": "218"
     }, 
     {
       "team": "fat",
       "name": "Derrick Luckassen",
       "pozisyon": "d",
-      "id": "225"
+      "id": "219"
     }, 
     {
       "team": "fat",
       "name": "Caner Erkin",
       "pozisyon": "d",
-      "id": "226"
+      "id": "220"
     }, 
     {
       "team": "fat",
       "name": "Emir Yazıcı",
       "pozisyon": "d",
-      "id": "227"
+      "id": "221"
     }, 
     {
       "team": "fat",
       "name": "Salih Dursun",
       "pozisyon": "d",
-      "id": "228"
+      "id": "222"
     }, 
     {
       "team": "fat",
       "name": "Furkan Kara",
       "pozisyon": "d",
-      "id": "229"
+      "id": "223"
     }, 
     {
       "team": "fat",
       "name": "Ömer Faruk Ersoy",
       "pozisyon": "d",
-      "id": "230"
+      "id": "224"
     }, 
     {
       "team": "fat",
       "name": "Alparslan Erdem",
       "pozisyon": "d",
-      "id": "231"
+      "id": "225"
     }, 
     {
       "team": "fat",
       "name": "Rayyan Baniya",
       "pozisyon": "d",
-      "id": "232"
+      "id": "226"
     }, 
     {
       "team": "fat",
       "name": "Lucas Biglia",
       "pozisyon": "os",
-      "id": "233"
+      "id": "227"
     }, 
     {
       "team": "fat",
       "name": "Erhun Öztümer",
       "pozisyon": "os",
-      "id": "234"
+      "id": "228"
     }, 
     {
       "team": "fat",
       "name": "Kerim Frei",
       "pozisyon": "os",
-      "id": "235"
+      "id": "229"
     }, 
     {
       "team": "fat",
       "name": "Efe Tatlı",
       "pozisyon": "os",
-      "id": "236"
+      "id": "230"
     }, 
     {
       "team": "fat",
       "name": "Jimmy Durmaz",
       "pozisyon": "os",
-      "id": "237"
+      "id": "231"
     }, 
     {
       "team": "fat",
       "name": "Tunay Torun",
       "pozisyon": "os",
-      "id": "238"
+      "id": "232"
     }, 
     {
       "team": "fat",
       "name": "Samed Onur",
       "pozisyon": "os",
-      "id": "239"
+      "id": "233"
     }, 
     {
       "team": "fat",
       "name": "Yannis Salibur",
       "pozisyon": "os",
-      "id": "240"
-    }, 
-    {
-      "team": "fat",
-      "name": "Aksel Aktaş",
-      "pozisyon": "os",
-      "id": "241"
+      "id": "234"
     }, 
     {
       "team": "fat",
       "name": "Adnan Uğur",
       "pozisyon": "os",
-      "id": "242"
+      "id": "235"
     }, 
     {
       "team": "fat",
       "name": "Emre Mor",
       "pozisyon": "os",
-      "id": "243"
-    }, 
-    {
-      "team": "fat",
-      "name": "Ömer Faruk Gümüş",
-      "pozisyon": "os",
-      "id": "244"
+      "id": "236"
     }, 
     {
       "team": "fat",
       "name": "Hakan Akgül",
       "pozisyon": "os",
-      "id": "245"
-    }, 
-    {
-      "team": "fat",
-      "name": "Adnan Uğur",
-      "pozisyon": "os",
-      "id": "246"
-    }, 
-    {
-      "team": "fat",
-      "name": "Yasin Çakaloğlu",
-      "pozisyon": "os",
-      "id": "247"
+      "id": "237"
     }, 
     {
       "team": "fat",
       "name": "Andrea Bertolacci",
       "pozisyon": "os",
-      "id": "248"
+      "id": "238"
     }, 
     {
       "team": "fat",
       "name": "Levent Mercan",
       "pozisyon": "os",
-      "id": "249"
-    }, 
-    {
-      "team": "fat",
-      "name": "Muhammed Egemen Pehlivan",
-      "pozisyon": "os",
-      "id": "250"
+      "id": "239"
     }, 
     {
       "team": "fat",
       "name": "Fabio Borini",
       "pozisyon": "os",
-      "id": "251"
+      "id": "240"
     }, 
     {
       "team": "fat",
       "name": "Serhat Ahmetoğlu",
       "pozisyon": "f",
-      "id": "252"
+      "id": "241"
     }, 
     {
       "team": "fat",
       "name": "Ahmed Musa",
       "pozisyon": "f",
-      "id": "253"
+      "id": "242"
     }, 
     {
       "team": "fat",
       "name": "Aleksandar Pesic",
       "pozisyon": "f",
-      "id": "254"
+      "id": "243"
     }, 
     {
       "team": "fat",
       "name": "Yann Karamoh",
       "pozisyon": "f",
-      "id": "255"
+      "id": "244"
     }, 
     {
       "team": "fat",
       "name": "Vato Arveladze",
       "pozisyon": "f",
-      "id": "256"
+      "id": "245"
     }, 
     {
       "team": "fat",
       "name": "Bahattin Demircan",
       "pozisyon": "f",
-      "id": "257"
-    } 
+      "id": "246"
+    }
 ]
 	
 },
@@ -1652,199 +1569,193 @@
       "team": "fen",
       "name": "Altay Bayındır",
       "pozisyon": "k",
-      "id": "258"
+      "id": "247"
     }, 
     {
       "team": "fen",
       "name": "Berke Özer",
       "pozisyon": "k",
-      "id": "259"
+      "id": "248"
     }, 
     {
       "team": "fen",
       "name": "Ertuğrul Çetin",
       "pozisyon": "k",
-      "id": "260"
-    }, 
-    {
-      "team": "fen",
-      "name": "Bartu Kulbilge",
-      "pozisyon": "k",
-      "id": "261"
+      "id": "249"
     }, 
     {
       "team": "fen",
       "name": "Marcel Tisserand",
       "pozisyon": "d",
-      "id": "262"
+      "id": "250"
     }, 
     {
       "team": "fen",
       "name": "Attila Szalai",
       "pozisyon": "d",
-      "id": "263"
+      "id": "251"
     }, 
     {
       "team": "fen",
       "name": "Nazım Sangare",
       "pozisyon": "d",
-      "id": "264"
+      "id": "252"
     }, 
     {
       "team": "fen",
       "name": "Serdar Aziz",
       "pozisyon": "d",
-      "id": "265"
+      "id": "253"
     }, 
     {
       "team": "fen",
       "name": "Filip Novak",
       "pozisyon": "d",
-      "id": "266"
+      "id": "254"
     }, 
     {
       "team": "fen",
       "name": "Kim Min-Jae",
       "pozisyon": "d",
-      "id": "267"
-    },  
+      "id": "255"
+    }, 
     {
       "team": "fen",
       "name": "Çağatay Kurukalıp",
       "pozisyon": "d",
-      "id": "269"
+      "id": "256"
     }, 
     {
       "team": "fen",
       "name": "Burak Kapacak",
       "pozisyon": "os",
-      "id": "270"
+      "id": "257"
     }, 
     {
       "team": "fen",
       "name": "Luiz Gustavo",
       "pozisyon": "os",
-      "id": "271"
+      "id": "258"
     }, 
     {
       "team": "fen",
       "name": "Jose Sosa",
       "pozisyon": "os",
-      "id": "272"
+      "id": "259"
     }, 
     {
       "team": "fen",
       "name": "Ferdi Kadıoğlu",
       "pozisyon": "os",
-      "id": "273"
+      "id": "260"
     }, 
     {
       "team": "fen",
       "name": "Miha Zajc",
       "pozisyon": "os",
-      "id": "274"
+      "id": "261"
     }, 
     {
       "team": "fen",
       "name": "Mesut Özil",
       "pozisyon": "os",
-      "id": "275"
+      "id": "262"
     }, 
     {
       "team": "fen",
       "name": "Diego Rossi",
       "pozisyon": "os",
-      "id": "276"
+      "id": "263"
     }, 
     {
       "team": "fen",
       "name": "Max Meyer",
       "pozisyon": "os",
-      "id": "277"
+      "id": "264"
     }, 
     {
       "team": "fen",
       "name": "Miguel Crespo",
       "pozisyon": "os",
-      "id": "278"
+      "id": "265"
     }, 
     {
       "team": "fen",
       "name": "Muhammed Gümüşkaya",
       "pozisyon": "os",
-      "id": "279"
+      "id": "266"
     }, 
     {
       "team": "fen",
       "name": "Arda Güler",
       "pozisyon": "os",
-      "id": "280"
+      "id": "267"
     }, 
     {
       "team": "fen",
       "name": "İrfan Can Kahveci",
       "pozisyon": "os",
-      "id": "281"
+      "id": "268"
     }, 
     {
       "team": "fen",
       "name": "Mert Hakan Yandaş",
       "pozisyon": "os",
-      "id": "282"
+      "id": "269"
     }, 
     {
       "team": "fen",
       "name": "Fatih Yiğit Şanlıtürk",
       "pozisyon": "os",
-      "id": "283"
+      "id": "270"
     }, 
     {
       "team": "fen",
       "name": "Sinan Gümüş",
       "pozisyon": "os",
-      "id": "284"
+      "id": "271"
     }, 
     {
       "team": "fen",
       "name": "Dimitrios Pelkas",
       "pozisyon": "os",
-      "id": "285"
+      "id": "272"
     }, 
     {
       "team": "fen",
       "name": "Bright Osayi-Samuel",
       "pozisyon": "os",
-      "id": "286"
+      "id": "273"
     }, 
     {
       "team": "fen",
       "name": "Enner Valencia",
       "pozisyon": "f",
-      "id": "287"
+      "id": "274"
     }, 
     {
       "team": "fen",
       "name": "Serdar Dursun",
       "pozisyon": "f",
-      "id": "288"
+      "id": "275"
     }, 
     {
       "team": "fen",
       "name": "Mergim Berisha",
       "pozisyon": "f",
-      "id": "289"
+      "id": "276"
     }, 
     {
       "team": "fen",
       "name": "Gülhan Üreyen",
       "pozisyon": "f",
-      "id": "290"
+      "id": "277"
     }, 
     {
       "team": "fen",
       "name": "Melih Bostan",
       "pozisyon": "f",
-      "id": "291"
+      "id": "278"
     }
 ]
 
@@ -1860,193 +1771,187 @@
       "team": "gal",
       "name": "Fernando Muslera",
       "pozisyon": "k",
-      "id": "292"
+      "id": "279"
     }, 
     {
       "team": "gal",
       "name": "İsmail Çipe",
       "pozisyon": "k",
-      "id": "293"
+      "id": "280"
     }, 
     {
       "team": "gal",
       "name": "Berk Balaban",
       "pozisyon": "k",
-      "id": "294"
+      "id": "281"
     }, 
     {
       "team": "gal",
       "name": "Fatih Öztürk",
       "pozisyon": "k",
-      "id": "295"
+      "id": "282"
     }, 
     {
       "team": "gal",
       "name": "Jankat Yılmaz",
       "pozisyon": "k",
-      "id": "296"
+      "id": "283"
     }, 
     {
       "team": "gal",
       "name": "Christian Luyindama",
       "pozisyon": "d",
-      "id": "297"
+      "id": "284"
     }, 
     {
       "team": "gal",
       "name": "Patrick van Aanholt",
       "pozisyon": "d",
-      "id": "298"
+      "id": "285"
     }, 
     {
       "team": "gal",
       "name": "Sacha Boey",
       "pozisyon": "d",
-      "id": "299"
-    }, 
-    {
-      "team": "gal",
-      "name": "Marcao",
-      "pozisyon": "d",
-      "id": "300"
+      "id": "286"
     }, 
     {
       "team": "gal",
       "name": "Alpaslan Öztürk",
       "pozisyon": "d",
-      "id": "301"
+      "id": "287"
     }, 
     {
       "team": "gal",
       "name": "DeAndre Yedlin",
       "pozisyon": "d",
-      "id": "302"
+      "id": "288"
     }, 
     {
       "team": "gal",
       "name": "Victor Nelsson",
       "pozisyon": "d",
-      "id": "303"
+      "id": "289"
     }, 
     {
       "team": "gal",
       "name": "Omar Elabdellaoui",
       "pozisyon": "d",
-      "id": "304"
+      "id": "290"
     }, 
     {
       "team": "gal",
       "name": "Işık Kaan Arslan",
       "pozisyon": "d",
-      "id": "305"
+      "id": "291"
     }, 
     {
       "team": "gal",
       "name": "Ryan Babel",
       "pozisyon": "os",
-      "id": "306"
+      "id": "292"
     }, 
     {
       "team": "gal",
       "name": "Berkan Kutlu",
       "pozisyon": "os",
-      "id": "307"
+      "id": "293"
     }, 
     {
       "team": "gal",
       "name": "Taylan Antalyalı",
       "pozisyon": "os",
-      "id": "308"
+      "id": "294"
     }, 
     {
       "team": "gal",
       "name": "Olimpiu Morutan",
       "pozisyon": "os",
-      "id": "309"
+      "id": "295"
     }, 
     {
       "team": "gal",
       "name": "Sofiane Feghouli",
       "pozisyon": "os",
-      "id": "310"
+      "id": "296"
     }, 
     {
       "team": "gal",
       "name": "Aytaç Kara",
       "pozisyon": "os",
-      "id": "311"
+      "id": "297"
     }, 
     {
       "team": "gal",
       "name": "Emre Kılınç",
       "pozisyon": "os",
-      "id": "312"
+      "id": "298"
     }, 
     {
       "team": "gal",
       "name": "Arda Turan",
       "pozisyon": "os",
-      "id": "313"
+      "id": "299"
     }, 
     {
       "team": "gal",
       "name": "Ömer Bayram",
       "pozisyon": "os",
-      "id": "314"
+      "id": "300"
     }, 
     {
       "team": "gal",
       "name": "Alexandru Cicaldau",
       "pozisyon": "os",
-      "id": "315"
+      "id": "301"
     }, 
     {
       "team": "gal",
       "name": "Atalay Babacan",
       "pozisyon": "os",
-      "id": "316"
+      "id": "302"
     }, 
     {
       "team": "gal",
       "name": "Kerem Aktürkoğlu",
       "pozisyon": "os",
-      "id": "317"
+      "id": "303"
     }, 
     {
       "team": "gal",
       "name": "Oğulcan Çağlayan",
       "pozisyon": "os",
-      "id": "318"
-    },
+      "id": "304"
+    }, 
     {
       "team": "gal",
       "name": "Gustavo Assunção",
       "pozisyon": "os",
-      "id": "621"
-    },
+      "id": "305"
+    }, 
     {
       "team": "gal",
       "name": "Mbaye Diagne",
       "pozisyon": "f",
-      "id": "319"
+      "id": "306"
     }, 
     {
       "team": "gal",
       "name": "Halil Dervişoğlu",
       "pozisyon": "f",
-      "id": "320"
+      "id": "307"
     }, 
     {
       "team": "gal",
       "name": "Mostafa Mohamed",
       "pozisyon": "f",
-      "id": "321"
+      "id": "308"
     }, 
     {
       "team": "gal",
       "name": "Barış Alper Yılmaz",
       "pozisyon": "f",
-      "id": "322"
+      "id": "309"
     }
 ]
 	
@@ -2062,188 +1967,188 @@
       "team": "gaz",
       "name": "Günay Güvenç",
       "pozisyon": "k",
-      "id": "323"
+      "id": "310"
     }, 
     {
       "team": "gaz",
       "name": "Mustafa Boznan",
       "pozisyon": "k",
-      "id": "324"
+      "id": "311"
     }, 
     {
       "team": "gaz",
       "name": "Ekrem Kılıçarslan",
       "pozisyon": "k",
-      "id": "325"
+      "id": "312"
     }, 
     {
       "team": "gaz",
       "name": "Papy Djilobodji",
       "pozisyon": "d",
-      "id": "326"
+      "id": "313"
     }, 
-    {
-      "team": "gaz",
-      "name": "Steven Caulker",
-      "pozisyon": "d",
-      "id": "268"
-    },
     {
       "team": "gaz",
       "name": "Ertuğrul Ersoy",
       "pozisyon": "d",
-      "id": "327"
+      "id": "314"
     }, 
     {
       "team": "gaz",
       "name": "Hamza Mendyl",
       "pozisyon": "d",
-      "id": "328"
+      "id": "315"
     }, 
     {
       "team": "gaz",
       "name": "Stelios Kitsiou",
       "pozisyon": "d",
-      "id": "329"
+      "id": "316"
     }, 
     {
       "team": "gaz",
       "name": "Halil İbrahim Pehlivan",
       "pozisyon": "d",
-      "id": "330"
+      "id": "317"
     }, 
     {
       "team": "gaz",
       "name": "Alin Tosca",
       "pozisyon": "d",
-      "id": "331"
+      "id": "318"
     }, 
     {
       "team": "gaz",
       "name": "Ulaş Zengin",
       "pozisyon": "d",
-      "id": "332"
+      "id": "319"
     }, 
     {
       "team": "gaz",
       "name": "Pawel Olkowski",
       "pozisyon": "d",
-      "id": "333"
+      "id": "320"
+    }, 
+    {
+      "team": "gaz",
+      "name": "Steven Caulker",
+      "pozisyon": "d",
+      "id": "321"
     }, 
     {
       "team": "gaz",
       "name": "Oğuz Ceylan",
       "pozisyon": "d",
-      "id": "334"
+      "id": "322"
     }, 
     {
       "team": "gaz",
       "name": "Jefferson",
       "pozisyon": "os",
-      "id": "336"
+      "id": "323"
     }, 
     {
       "team": "gaz",
       "name": "Recep Niyaz",
       "pozisyon": "os",
-      "id": "337"
+      "id": "324"
     }, 
     {
       "team": "gaz",
       "name": "Angelo Sagal",
       "pozisyon": "os",
-      "id": "338"
+      "id": "325"
     }, 
     {
       "team": "gaz",
       "name": "Furkan Soyalp",
       "pozisyon": "os",
-      "id": "339"
+      "id": "326"
     }, 
     {
       "team": "gaz",
       "name": "Doğan Erdoğan",
       "pozisyon": "os",
-      "id": "340"
+      "id": "327"
     }, 
     {
       "team": "gaz",
       "name": "Berke Gürbüz",
       "pozisyon": "os",
-      "id": "341"
+      "id": "328"
     }, 
     {
       "team": "gaz",
       "name": "Ahmed El Messaoudi",
       "pozisyon": "os",
-      "id": "342"
+      "id": "329"
     }, 
     {
       "team": "gaz",
       "name": "Alexander Merkel",
       "pozisyon": "os",
-      "id": "343"
+      "id": "330"
     }, 
     {
       "team": "gaz",
       "name": "Mirza Cihan",
       "pozisyon": "os",
-      "id": "344"
+      "id": "331"
     }, 
     {
       "team": "gaz",
       "name": "Enver Cenk Şahin",
       "pozisyon": "os",
-      "id": "345"
+      "id": "332"
     }, 
     {
       "team": "gaz",
       "name": "Alexandru Maxim",
       "pozisyon": "os",
-      "id": "346"
+      "id": "333"
     }, 
     {
       "team": "gaz",
       "name": "Amedej Vetrih",
       "pozisyon": "os",
-      "id": "347"
+      "id": "334"
     }, 
     {
       "team": "gaz",
       "name": "Kenan Özer",
       "pozisyon": "os",
-      "id": "348"
+      "id": "335"
     }, 
     {
       "team": "gaz",
       "name": "Yusuf Türk",
       "pozisyon": "f",
-      "id": "349"
+      "id": "336"
     }, 
     {
       "team": "gaz",
       "name": "Torgeir Börven",
       "pozisyon": "f",
-      "id": "350"
+      "id": "337"
     }, 
     {
       "team": "gaz",
       "name": "Nouha Dicko",
       "pozisyon": "f",
-      "id": "351"
+      "id": "338"
     }, 
     {
       "team": "gaz",
       "name": "João Figueiredo",
       "pozisyon": "f",
-      "id": "352"
+      "id": "339"
     }, 
     {
       "team": "gaz",
       "name": "Muhammet Demir",
       "pozisyon": "f",
-      "id": "353"
-    } 
+      "id": "340"
+    }
 ]
 	
 },
@@ -2258,200 +2163,188 @@
       "team": "gir",
       "name": "Okan Kocuk",
       "pozisyon": "k",
-      "id": "354"
+      "id": "341"
     }, 
     {
       "team": "gir",
       "name": "Onurcan Piri",
       "pozisyon": "k",
-      "id": "355"
+      "id": "342"
     }, 
     {
       "team": "gir",
       "name": "Tolgahan Acar",
       "pozisyon": "k",
-      "id": "356"
+      "id": "343"
     }, 
     {
       "team": "gir",
       "name": "Göktan Cörüt",
       "pozisyon": "k",
-      "id": "357"
-    }, 
-    {
-      "team": "gir",
-      "name": "Erkan Anapa",
-      "pozisyon": "k",
-      "id": "358"
+      "id": "344"
     }, 
     {
       "team": "gir",
       "name": "Zeki Yavru",
       "pozisyon": "d",
-      "id": "359"
+      "id": "345"
     }, 
     {
       "team": "gir",
       "name": "Douglas",
       "pozisyon": "d",
-      "id": "360"
+      "id": "346"
     }, 
     {
       "team": "gir",
       "name": "Alexis Perez",
       "pozisyon": "d",
-      "id": "361"
+      "id": "347"
     }, 
     {
       "team": "gir",
       "name": "Emre Taşdemir",
       "pozisyon": "d",
-      "id": "362"
+      "id": "348"
     }, 
     {
       "team": "gir",
       "name": "Hayrullah Bilazer",
       "pozisyon": "d",
-      "id": "363"
+      "id": "349"
     }, 
     {
       "team": "gir",
       "name": "Hüsamettin Tut",
       "pozisyon": "d",
-      "id": "364"
+      "id": "350"
     }, 
     {
       "team": "gir",
       "name": "Aziz Behich",
       "pozisyon": "d",
-      "id": "365"
+      "id": "351"
     }, 
     {
       "team": "gir",
       "name": "Mamadou Diarra",
       "pozisyon": "d",
-      "id": "366"
+      "id": "352"
     }, 
     {
       "team": "gir",
       "name": "Arda Kılıç",
       "pozisyon": "d",
-      "id": "367"
+      "id": "353"
     }, 
     {
       "team": "gir",
       "name": "Fatih Yılmaz",
       "pozisyon": "d",
-      "id": "368"
+      "id": "354"
     }, 
     {
       "team": "gir",
       "name": "Sergen Piçinciol",
       "pozisyon": "d",
-      "id": "369"
+      "id": "355"
     }, 
     {
       "team": "gir",
       "name": "Atakan Aygün",
       "pozisyon": "d",
-      "id": "370"
+      "id": "356"
     }, 
     {
       "team": "gir",
       "name": "Joey Pelupessy",
       "pozisyon": "os",
-      "id": "371"
+      "id": "357"
     }, 
     {
       "team": "gir",
       "name": "Flavio",
       "pozisyon": "os",
-      "id": "372"
+      "id": "358"
     }, 
     {
       "team": "gir",
       "name": "Younousse Sankhare",
       "pozisyon": "os",
-      "id": "373"
+      "id": "359"
     }, 
     {
       "team": "gir",
       "name": "Fousseni Diabate",
       "pozisyon": "os",
-      "id": "374"
+      "id": "360"
     }, 
     {
       "team": "gir",
       "name": "Hamidou Traore",
       "pozisyon": "os",
-      "id": "375"
+      "id": "361"
     }, 
     {
       "team": "gir",
       "name": "Joseph Champness",
       "pozisyon": "os",
-      "id": "376"
+      "id": "362"
     }, 
     {
       "team": "gir",
       "name": "Alperen Aydın",
       "pozisyon": "os",
-      "id": "377"
+      "id": "363"
     }, 
     {
       "team": "gir",
       "name": "Erol Can Akdağ",
       "pozisyon": "os",
-      "id": "378"
-    }, 
-    {
-      "team": "gir",
-      "name": "Esat Mala",
-      "pozisyon": "os",
-      "id": "379"
+      "id": "364"
     }, 
     {
       "team": "gir",
       "name": "Cevatcan Ekinci",
       "pozisyon": "os",
-      "id": "380"
+      "id": "365"
     }, 
     {
       "team": "gir",
       "name": "Serginho",
       "pozisyon": "os",
-      "id": "381"
-    }, 
-    {
-      "team": "gir",
-      "name": "Çekdar Orhan",
-      "pozisyon": "os",
-      "id": "382"
+      "id": "366"
     }, 
     {
       "team": "gir",
       "name": "Shapi Suleymanov",
       "pozisyon": "os",
-      "id": "624"
-    },
+      "id": "367"
+    }, 
+    {
+      "team": "gir",
+      "name": "Çekdar Orhan",
+      "pozisyon": "os",
+      "id": "368"
+    }, 
     {
       "team": "gir",
       "name": "Ibrahima Balde",
       "pozisyon": "f",
-      "id": "383"
+      "id": "369"
     }, 
     {
       "team": "gir",
       "name": "Souleymane Doukara",
       "pozisyon": "f",
-      "id": "384"
+      "id": "370"
     }, 
     {
       "team": "gir",
       "name": "Umut Nayir",
       "pozisyon": "f",
-      "id": "385"
-    } 
+      "id": "371"
+    }
 ]
 	
 },
@@ -2466,187 +2359,181 @@
       "team": "goz",
       "name": "İrfan Can Eğribayat",
       "pozisyon": "k",
-      "id": "386"
+      "id": "372"
     }, 
     {
       "team": "goz",
       "name": "Arda Özçimen",
       "pozisyon": "k",
-      "id": "387"
+      "id": "373"
     }, 
     {
       "team": "goz",
       "name": "Balazs Megyeri",
       "pozisyon": "k",
-      "id": "388"
+      "id": "374"
     }, 
     {
       "team": "goz",
       "name": "Eren Bilen",
       "pozisyon": "k",
-      "id": "389"
+      "id": "375"
     }, 
     {
       "team": "goz",
       "name": "Berkan Emir",
       "pozisyon": "d",
-      "id": "390"
+      "id": "376"
     }, 
     {
       "team": "goz",
       "name": "Murat Paluli",
       "pozisyon": "d",
-      "id": "391"
+      "id": "377"
     }, 
     {
       "team": "goz",
       "name": "Dino Arslanagic",
       "pozisyon": "d",
-      "id": "392"
+      "id": "378"
     }, 
     {
       "team": "goz",
       "name": "Atınç Nukan",
       "pozisyon": "d",
-      "id": "393"
+      "id": "379"
     }, 
     {
       "team": "goz",
       "name": "Kahraman Demirtaş",
       "pozisyon": "d",
-      "id": "394"
+      "id": "380"
     }, 
     {
       "team": "goz",
       "name": "Kerim Alıcı",
       "pozisyon": "d",
-      "id": "395"
+      "id": "381"
     }, 
     {
       "team": "goz",
       "name": "Marko Mihojevic",
       "pozisyon": "d",
-      "id": "396"
+      "id": "382"
     }, 
     {
       "team": "goz",
       "name": "Dzenan Burekovic",
       "pozisyon": "d",
-      "id": "397"
+      "id": "383"
     }, 
     {
       "team": "goz",
       "name": "Yusuf Talum",
       "pozisyon": "d",
-      "id": "398"
+      "id": "384"
     }, 
     {
       "team": "goz",
       "name": "Wilker Ángel",
       "pozisyon": "d",
-      "id": "625"
+      "id": "385"
     }, 
     {
       "team": "goz",
       "name": "Halil Akbunar",
       "pozisyon": "os",
-      "id": "399"
+      "id": "386"
     }, 
     {
       "team": "goz",
       "name": "Soner Aydoğdu",
       "pozisyon": "os",
-      "id": "400"
+      "id": "387"
     }, 
     {
       "team": "goz",
       "name": "Obinna Nwobodo",
       "pozisyon": "os",
-      "id": "401"
+      "id": "388"
     }, 
     {
       "team": "goz",
       "name": "Makana Rudi Baku",
       "pozisyon": "os",
-      "id": "402"
+      "id": "389"
     }, 
     {
       "team": "goz",
       "name": "David Tijanic",
       "pozisyon": "os",
-      "id": "403"
+      "id": "390"
     }, 
     {
       "team": "goz",
       "name": "Beykan Şimşek",
       "pozisyon": "os",
-      "id": "404"
+      "id": "391"
     }, 
     {
       "team": "goz",
       "name": "Yalçın Kayan",
       "pozisyon": "os",
-      "id": "405"
+      "id": "392"
     }, 
     {
       "team": "goz",
       "name": "Efe Can Sacikara",
       "pozisyon": "os",
-      "id": "406"
+      "id": "393"
     }, 
     {
       "team": "goz",
       "name": "Tibet Öniz",
       "pozisyon": "os",
-      "id": "407"
+      "id": "394"
     }, 
     {
       "team": "goz",
       "name": "Metin Yıldırım",
       "pozisyon": "os",
-      "id": "408"
-    }, 
-    {
-      "team": "goz",
-      "name": "Gökay Eser",
-      "pozisyon": "os",
-      "id": "409"
+      "id": "395"
     }, 
     {
       "team": "goz",
       "name": "Atakan Rıdvan Çankaya",
       "pozisyon": "os",
-      "id": "410"
+      "id": "396"
     }, 
     {
       "team": "goz",
       "name": "Lourency",
       "pozisyon": "os",
-      "id": "411"
+      "id": "397"
     }, 
     {
       "team": "goz",
       "name": "Adis Jahovic",
       "pozisyon": "f",
-      "id": "412"
+      "id": "398"
     }, 
     {
       "team": "goz",
       "name": "Cherif Ndiaye",
       "pozisyon": "f",
-      "id": "413"
+      "id": "399"
     }, 
     {
       "team": "goz",
       "name": "Brown Ideye",
       "pozisyon": "f",
-      "id": "414"
+      "id": "400"
     }, 
     {
       "team": "goz",
       "name": "Ege Özkayimoğlu",
       "pozisyon": "f",
-      "id": "415"
+      "id": "401"
     }
 ]
 	
@@ -2662,163 +2549,163 @@
       "team": "hat",
       "name": "Munir Mohamedi",
       "pozisyon": "k",
-      "id": "416"
+      "id": "402"
     }, 
     {
       "team": "hat",
       "name": "Abdullah Yiğiter",
       "pozisyon": "k",
-      "id": "417"
+      "id": "403"
     }, 
     {
       "team": "hat",
       "name": "Kamil Ahmet Çörekçi",
       "pozisyon": "d",
-      "id": "418"
+      "id": "404"
     }, 
     {
       "team": "hat",
       "name": "Samuel Adekugbe",
       "pozisyon": "d",
-      "id": "419"
+      "id": "405"
     }, 
     {
       "team": "hat",
       "name": "Simon Falette",
       "pozisyon": "d",
-      "id": "420"
+      "id": "406"
     }, 
     {
       "team": "hat",
       "name": "Fatih Kuruçuk",
       "pozisyon": "d",
-      "id": "421"
+      "id": "407"
     }, 
     {
       "team": "hat",
       "name": "Burak Öksüz",
       "pozisyon": "d",
-      "id": "422"
+      "id": "408"
     }, 
     {
       "team": "hat",
       "name": "Bülent Cevahir",
       "pozisyon": "d",
-      "id": "423"
+      "id": "409"
     }, 
     {
       "team": "hat",
       "name": "Strahil Popov",
       "pozisyon": "d",
-      "id": "424"
+      "id": "410"
     }, 
     {
       "team": "hat",
       "name": "Burak Çamoğlu",
       "pozisyon": "os",
-      "id": "425"
+      "id": "411"
     }, 
     {
       "team": "hat",
       "name": "Eren Fansa",
       "pozisyon": "os",
-      "id": "426"
+      "id": "412"
     }, 
     {
       "team": "hat",
       "name": "Ruben Ribeiro",
       "pozisyon": "os",
-      "id": "427"
+      "id": "413"
     }, 
     {
       "team": "hat",
       "name": "Saba Lobzhanidze",
       "pozisyon": "os",
-      "id": "428"
+      "id": "414"
     }, 
     {
       "team": "hat",
       "name": "Onur Ergün",
       "pozisyon": "os",
-      "id": "429"
+      "id": "415"
     }, 
     {
       "team": "hat",
       "name": "Adama Noss Traore",
       "pozisyon": "os",
-      "id": "430"
+      "id": "416"
     }, 
     {
       "team": "hat",
       "name": "Emre Çolak",
       "pozisyon": "os",
-      "id": "431"
+      "id": "417"
     }, 
     {
       "team": "hat",
       "name": "Isaac Sackey",
       "pozisyon": "os",
-      "id": "432"
+      "id": "418"
     }, 
     {
       "team": "hat",
       "name": "Sadık Baş",
       "pozisyon": "os",
-      "id": "433"
+      "id": "419"
     }, 
     {
       "team": "hat",
       "name": "Muhammed Mert",
       "pozisyon": "os",
-      "id": "434"
+      "id": "420"
     }, 
     {
       "team": "hat",
       "name": "Joseph Akomadi",
       "pozisyon": "os",
-      "id": "435"
+      "id": "421"
     }, 
     {
       "team": "hat",
       "name": "Mehdi Boudjemaa",
       "pozisyon": "os",
-      "id": "436"
+      "id": "422"
     }, 
     {
       "team": "hat",
       "name": "Dylan Saint-Louis",
       "pozisyon": "os",
-      "id": "437"
+      "id": "423"
     }, 
     {
       "team": "hat",
       "name": "Mame Biram Diouf",
       "pozisyon": "f",
-      "id": "438"
+      "id": "424"
     }, 
     {
       "team": "hat",
       "name": "Mohammed Kamara",
       "pozisyon": "f",
-      "id": "439"
+      "id": "425"
     }, 
     {
       "team": "hat",
       "name": "Ayoub El Kaabi",
       "pozisyon": "f",
-      "id": "440"
+      "id": "426"
     }, 
     {
       "team": "hat",
       "name": "Bertuğ Özgür Yıldırım",
       "pozisyon": "f",
-      "id": "441"
+      "id": "427"
     }, 
     {
       "team": "hat",
       "name": "Ahmet Hakan Şahin",
       "pozisyon": "f",
-      "id": "442"
+      "id": "428"
     }
 ]
 
@@ -2835,175 +2722,163 @@
       "team": "kas",
       "name": "Ertuğrul Taşkıran",
       "pozisyon": "k",
-      "id": "443"
+      "id": "429"
     }, 
     {
       "team": "kas",
       "name": "Harun Tekin",
       "pozisyon": "k",
-      "id": "444"
+      "id": "430"
     }, 
     {
       "team": "kas",
       "name": "Erdem Canpolat",
       "pozisyon": "k",
-      "id": "445"
+      "id": "431"
     }, 
     {
       "team": "kas",
       "name": "Florent Hadergjonaj",
       "pozisyon": "d",
-      "id": "446"
+      "id": "432"
     }, 
     {
       "team": "kas",
       "name": "Jeffrey Bruma",
       "pozisyon": "d",
-      "id": "447"
-    }, 
-    {
-      "team": "kas",
-      "name": "Furkan Çetinkaya",
-      "pozisyon": "d",
-      "id": "448"
+      "id": "433"
     }, 
     {
       "team": "kas",
       "name": "Evren Eren Elmalı",
       "pozisyon": "d",
-      "id": "449"
+      "id": "434"
     }, 
     {
       "team": "kas",
       "name": "Mehmet Feyzi Yıldırım",
       "pozisyon": "d",
-      "id": "450"
+      "id": "435"
     }, 
     {
       "team": "kas",
       "name": "Tomas Brecka",
       "pozisyon": "d",
-      "id": "451"
+      "id": "436"
     }, 
     {
       "team": "kas",
       "name": "Ryan Donk",
       "pozisyon": "d",
-      "id": "452"
+      "id": "437"
     }, 
     {
       "team": "kas",
       "name": "Sakıb Aytaç",
       "pozisyon": "d",
-      "id": "453"
-    }, 
-    {
-      "team": "kas",
-      "name": "Berk Çetin",
-      "pozisyon": "d",
-      "id": "454"
+      "id": "438"
     }, 
     {
       "team": "kas",
       "name": "Mortadha Ben Ouannes",
       "pozisyon": "os",
-      "id": "455"
+      "id": "439"
     }, 
     {
       "team": "kas",
       "name": "Tarkan Serbest",
       "pozisyon": "os",
-      "id": "456"
+      "id": "440"
     }, 
     {
       "team": "kas",
       "name": "Loret Sadiku",
       "pozisyon": "os",
-      "id": "457"
+      "id": "441"
     }, 
     {
       "team": "kas",
       "name": "Haris Hajradinovic",
       "pozisyon": "os",
-      "id": "458"
+      "id": "442"
     }, 
     {
       "team": "kas",
       "name": "Yusuf Erdoğan",
       "pozisyon": "os",
-      "id": "459"
+      "id": "443"
     }, 
     {
       "team": "kas",
       "name": "Kevin Varga",
       "pozisyon": "os",
-      "id": "460"
+      "id": "444"
     }, 
     {
       "team": "kas",
       "name": "Valentin Eysseric",
       "pozisyon": "os",
-      "id": "461"
+      "id": "445"
     }, 
     {
       "team": "kas",
       "name": "Michal Travnik",
       "pozisyon": "os",
-      "id": "462"
+      "id": "446"
     }, 
     {
       "team": "kas",
       "name": "Doğucan Haspolat",
       "pozisyon": "os",
-      "id": "463"
+      "id": "447"
     }, 
     {
       "team": "kas",
       "name": "Nabil Dirar",
       "pozisyon": "os",
-      "id": "464"
+      "id": "448"
     }, 
     {
       "team": "kas",
       "name": "Anıl Özçelik",
       "pozisyon": "os",
-      "id": "465"
+      "id": "449"
     }, 
     {
       "team": "kas",
       "name": "Ahmet Engin",
       "pozisyon": "os",
-      "id": "466"
+      "id": "450"
     }, 
     {
       "team": "kas",
       "name": "Berat Kalkan",
       "pozisyon": "os",
-      "id": "467"
+      "id": "451"
     }, 
     {
       "team": "kas",
       "name": "Nicolai Jörgensen",
       "pozisyon": "f",
-      "id": "468"
+      "id": "452"
     }, 
     {
       "team": "kas",
       "name": "Umut Bozok",
       "pozisyon": "f",
-      "id": "469"
+      "id": "453"
     }, 
     {
       "team": "kas",
       "name": "Arda Bulut",
       "pozisyon": "f",
-      "id": "470"
+      "id": "454"
     }, 
     {
       "team": "kas",
       "name": "Hasan Emre Yeşilyurt",
       "pozisyon": "f",
-      "id": "471"
+      "id": "455"
     }
 ]
 
@@ -3020,193 +2895,187 @@
       "team": "kay",
       "name": "Silviu Lung",
       "pozisyon": "k",
-      "id": "472"
+      "id": "456"
     }, 
     {
       "team": "kay",
       "name": "Abdulkadir Taşdan",
       "pozisyon": "k",
-      "id": "473"
+      "id": "457"
     }, 
     {
       "team": "kay",
       "name": "Bilal Bayazit",
       "pozisyon": "k",
-      "id": "474"
+      "id": "458"
     }, 
     {
       "team": "kay",
       "name": "Cenk Gönen",
       "pozisyon": "k",
-      "id": "475"
+      "id": "459"
     }, 
     {
       "team": "kay",
       "name": "Dimitrios Kolovetsios",
       "pozisyon": "d",
-      "id": "476"
+      "id": "460"
     }, 
     {
       "team": "kay",
       "name": "Lionel Carole",
       "pozisyon": "d",
-      "id": "477"
+      "id": "461"
     }, 
     {
       "team": "kay",
       "name": "Uğur Demirok",
       "pozisyon": "d",
-      "id": "478"
+      "id": "462"
     }, 
     {
       "team": "kay",
       "name": "Seyed Majid Hosseini",
       "pozisyon": "d",
-      "id": "479"
+      "id": "463"
     }, 
     {
       "team": "kay",
       "name": "Yasir Subaşı",
       "pozisyon": "d",
-      "id": "480"
+      "id": "464"
     }, 
     {
       "team": "kay",
       "name": "Joseph Attamah",
       "pozisyon": "d",
-      "id": "481"
+      "id": "465"
     }, 
     {
       "team": "kay",
       "name": "Emrah Başsan",
       "pozisyon": "os",
-      "id": "482"
+      "id": "466"
     }, 
     {
       "team": "kay",
       "name": "İbrahim Akdağ",
       "pozisyon": "os",
-      "id": "483"
+      "id": "467"
     }, 
     {
       "team": "kay",
       "name": "Ramazan Civelek",
       "pozisyon": "os",
-      "id": "484"
+      "id": "468"
     }, 
     {
       "team": "kay",
       "name": "Onur Bulut",
       "pozisyon": "os",
-      "id": "485"
+      "id": "469"
     }, 
     {
       "team": "kay",
       "name": "Gökhan Sazdağı",
       "pozisyon": "os",
-      "id": "486"
+      "id": "470"
     }, 
     {
       "team": "kay",
       "name": "Zoran Kvrzic",
       "pozisyon": "os",
-      "id": "487"
+      "id": "471"
     }, 
     {
       "team": "kay",
       "name": "Daniel Avramovski",
       "pozisyon": "os",
-      "id": "488"
+      "id": "472"
     }, 
     {
       "team": "kay",
       "name": "Bernard Mensah",
       "pozisyon": "os",
-      "id": "489"
+      "id": "473"
     }, 
     {
       "team": "kay",
       "name": "Anthony Uzodimma",
       "pozisyon": "os",
-      "id": "490"
+      "id": "474"
     }, 
     {
       "team": "kay",
       "name": "Harisson Manzala",
       "pozisyon": "os",
-      "id": "491"
+      "id": "475"
     }, 
     {
       "team": "kay",
       "name": "Manuel Fernandes",
       "pozisyon": "os",
-      "id": "492"
+      "id": "476"
     }, 
     {
       "team": "kay",
       "name": "Emre Demir",
       "pozisyon": "os",
-      "id": "493"
+      "id": "477"
     }, 
     {
       "team": "kay",
       "name": "Gustavo Campanharo",
       "pozisyon": "os",
-      "id": "494"
+      "id": "478"
     }, 
     {
       "team": "kay",
       "name": "Olivier Kemen",
       "pozisyon": "os",
-      "id": "496"
+      "id": "479"
     }, 
     {
       "team": "kay",
       "name": "Miguel Cardoso",
       "pozisyon": "os",
-      "id": "497"
+      "id": "480"
     }, 
     {
       "team": "kay",
       "name": "Carlos Mane",
       "pozisyon": "os",
-      "id": "498"
+      "id": "481"
     }, 
     {
       "team": "kay",
       "name": "Mame Thiam",
       "pozisyon": "os",
-      "id": "499"
+      "id": "482"
     }, 
     {
       "team": "kay",
       "name": "Nurettin Korkmaz",
       "pozisyon": "os",
-      "id": "500"
-    }, 
-    {
-      "team": "kay",
-      "name": "Ömer Uzun",
-      "pozisyon": "f",
-      "id": "501"
+      "id": "483"
     }, 
     {
       "team": "kay",
       "name": "İlhan Parlak",
       "pozisyon": "f",
-      "id": "502"
+      "id": "484"
     }, 
     {
       "team": "kay",
       "name": "Mustafa Pektemek",
       "pozisyon": "f",
-      "id": "503"
+      "id": "485"
     }, 
     {
       "team": "kay",
       "name": "Mario Gavranovic",
       "pozisyon": "f",
-      "id": "504"
+      "id": "486"
     }
 ]
 	
@@ -3222,176 +3091,176 @@
       "team": "kon",
       "name": "Ibrahim Sehic",
       "pozisyon": "k",
-      "id": "505"
+      "id": "487"
     }, 
     {
       "team": "kon",
       "name": "Eray Birniçan",
       "pozisyon": "k",
-      "id": "506"
+      "id": "488"
     }, 
     {
       "team": "kon",
       "name": "Erten Ersu",
       "pozisyon": "k",
-      "id": "507"
+      "id": "489"
     }, 
     {
       "team": "kon",
       "name": "Ahmet Çalık",
       "pozisyon": "d",
-      "id": "508"
+      "id": "490"
     }, 
     {
       "team": "kon",
       "name": "Guilherme",
       "pozisyon": "d",
-      "id": "509"
+      "id": "491"
     }, 
     {
       "team": "kon",
       "name": "Abdülkerim Bardakçı",
       "pozisyon": "d",
-      "id": "510"
+      "id": "492"
     }, 
     {
       "team": "kon",
       "name": "Nejc Skubic",
       "pozisyon": "d",
-      "id": "511"
+      "id": "493"
     }, 
     {
       "team": "kon",
       "name": "Adil Demirbağ",
       "pozisyon": "d",
-      "id": "512"
+      "id": "494"
     }, 
     {
       "team": "kon",
       "name": "Marin Anicic",
       "pozisyon": "d",
-      "id": "513"
+      "id": "495"
     }, 
     {
       "team": "kon",
       "name": "Alper Uludağ",
       "pozisyon": "d",
-      "id": "514"
+      "id": "496"
     }, 
     {
       "team": "kon",
       "name": "Barış Yardımcı",
       "pozisyon": "d",
-      "id": "515"
+      "id": "497"
     }, 
     {
       "team": "kon",
       "name": "Nafican Yardımcı",
       "pozisyon": "d",
-      "id": "516"
+      "id": "498"
     }, 
     {
       "team": "kon",
       "name": "Amir Hadziahmetovic",
       "pozisyon": "os",
-      "id": "517"
+      "id": "499"
     }, 
     {
       "team": "kon",
       "name": "Soner Dikmen",
       "pozisyon": "os",
-      "id": "518"
+      "id": "500"
     }, 
     {
       "team": "kon",
       "name": "Endri Çekiçi",
       "pozisyon": "os",
-      "id": "519"
+      "id": "501"
     }, 
     {
       "team": "kon",
       "name": "Serdar Gürler",
       "pozisyon": "os",
-      "id": "520"
+      "id": "502"
     }, 
     {
       "team": "kon",
       "name": "Amar Rahmanovic",
       "pozisyon": "os",
-      "id": "521"
+      "id": "503"
     }, 
     {
       "team": "kon",
       "name": "Oğulcan Ülgün",
       "pozisyon": "os",
-      "id": "522"
+      "id": "504"
     }, 
     {
       "team": "kon",
       "name": "Konrad Michalak",
       "pozisyon": "os",
-      "id": "523"
+      "id": "505"
     }, 
     {
       "team": "kon",
       "name": "Musa Çağıran",
       "pozisyon": "os",
-      "id": "524"
+      "id": "506"
     }, 
     {
       "team": "kon",
       "name": "Emre Pehlivan",
       "pozisyon": "os",
-      "id": "525"
+      "id": "507"
     }, 
     {
       "team": "kon",
       "name": "İzzet Karaboğa",
       "pozisyon": "os",
-      "id": "526"
+      "id": "508"
     }, 
     {
       "team": "kon",
       "name": "Paul-Jose Mpoku",
       "pozisyon": "os",
-      "id": "527"
+      "id": "509"
     }, 
     {
       "team": "kon",
       "name": "Zymer Bytyqi",
       "pozisyon": "os",
-      "id": "528"
+      "id": "510"
     }, 
     {
       "team": "kon",
       "name": "Ekrem Kayılıbal",
       "pozisyon": "f",
-      "id": "529"
+      "id": "511"
     }, 
     {
       "team": "kon",
       "name": "Sokol Cikalleshi",
       "pozisyon": "f",
-      "id": "530"
+      "id": "512"
     }, 
     {
       "team": "kon",
       "name": "Ahmet Karademir",
       "pozisyon": "f",
-      "id": "531"
+      "id": "513"
     }, 
     {
       "team": "kon",
       "name": "Ahmet Hassan",
       "pozisyon": "f",
-      "id": "626"
+      "id": "514"
     }, 
     {
       "team": "kon",
       "name": "Artem Kravets",
       "pozisyon": "f",
-      "id": "532"
-    } 
+      "id": "515"
+    }
 ]
 	
 },
@@ -3406,164 +3275,164 @@
       "team": "siv",
       "name": "Ali Şaşal Vural",
       "pozisyon": "k",
-      "id": "533"
+      "id": "516"
     }, 
     {
       "team": "siv",
       "name": "Muammer Yıldırım",
       "pozisyon": "k",
-      "id": "534"
+      "id": "517"
     }, 
     {
       "team": "siv",
       "name": "Emre Satılmış",
       "pozisyon": "k",
-      "id": "535"
+      "id": "518"
     }, 
     {
       "team": "siv",
       "name": "Uğur Çiftçi",
       "pozisyon": "d",
-      "id": "536"
+      "id": "519"
     }, 
     {
       "team": "siv",
       "name": "Ahmet Oğuz",
       "pozisyon": "d",
-      "id": "537"
+      "id": "520"
     }, 
     {
       "team": "siv",
       "name": "Caner Osmanpaşa",
       "pozisyon": "d",
-      "id": "538"
+      "id": "521"
     }, 
     {
       "team": "siv",
       "name": "Koray Altınay",
       "pozisyon": "d",
-      "id": "539"
+      "id": "522"
     }, 
     {
       "team": "siv",
       "name": "Ziya Erdal",
       "pozisyon": "d",
-      "id": "540"
+      "id": "523"
     }, 
     {
       "team": "siv",
       "name": "Dimitris Goutas",
       "pozisyon": "d",
-      "id": "541"
+      "id": "524"
     }, 
     {
       "team": "siv",
       "name": "Samba Camara",
       "pozisyon": "d",
-      "id": "542"
+      "id": "525"
     }, 
     {
       "team": "siv",
       "name": "Özkan Yiğiter",
       "pozisyon": "d",
-      "id": "543"
+      "id": "526"
     }, 
     {
       "team": "siv",
       "name": "Aaron Appindangoye",
       "pozisyon": "d",
-      "id": "544"
+      "id": "527"
     }, 
     {
       "team": "siv",
       "name": "Volkan Eğri",
       "pozisyon": "os",
-      "id": "545"
+      "id": "528"
     }, 
     {
       "team": "siv",
       "name": "Hakan Arslan",
       "pozisyon": "os",
-      "id": "546"
+      "id": "529"
     }, 
     {
       "team": "siv",
       "name": "Fredrik Ulvestad",
       "pozisyon": "os",
-      "id": "547"
+      "id": "530"
     }, 
     {
       "team": "siv",
       "name": "Jorge Felix",
       "pozisyon": "os",
-      "id": "548"
+      "id": "531"
     }, 
     {
       "team": "siv",
       "name": "Faycal Fajr",
       "pozisyon": "os",
-      "id": "549"
+      "id": "532"
     }, 
     {
       "team": "siv",
       "name": "Isaac Cofie",
       "pozisyon": "os",
-      "id": "550"
+      "id": "533"
     }, 
     {
       "team": "siv",
       "name": "Azubuike Okechukwu",
       "pozisyon": "os",
-      "id": "551"
+      "id": "534"
     }, 
     {
       "team": "siv",
       "name": "Erdoğan Yeşilyurt",
       "pozisyon": "os",
-      "id": "552"
+      "id": "535"
     }, 
     {
       "team": "siv",
       "name": "Kerem Atakan Kesgin",
       "pozisyon": "os",
-      "id": "553"
+      "id": "536"
     }, 
     {
       "team": "siv",
       "name": "Sefa Yılmaz",
       "pozisyon": "os",
-      "id": "554"
+      "id": "537"
     }, 
     {
       "team": "siv",
       "name": "Max Gradel",
       "pozisyon": "os",
-      "id": "555"
+      "id": "538"
     }, 
     {
       "team": "siv",
       "name": "Pedro Henrique",
       "pozisyon": "os",
-      "id": "556"
+      "id": "539"
     }, 
     {
       "team": "siv",
       "name": "Olarenwaju Kayode",
       "pozisyon": "f",
-      "id": "557"
+      "id": "540"
     }, 
     {
       "team": "siv",
       "name": "Leke James",
       "pozisyon": "f",
-      "id": "558"
+      "id": "541"
     }, 
     {
       "team": "siv",
       "name": "Mustapha Yatabare",
       "pozisyon": "f",
-      "id": "559"
-    } 
+      "id": "542"
+    }
 ]
 
 },
@@ -3578,170 +3447,170 @@
       "team": "tra",
       "name": "Uğurcan Çakır",
       "pozisyon": "k",
-      "id": "560"
+      "id": "543"
     }, 
     {
       "team": "tra",
       "name": "Erce Kardeşler",
       "pozisyon": "k",
-      "id": "561"
+      "id": "544"
     }, 
     {
       "team": "tra",
       "name": "Muhammet Taha Tepe",
       "pozisyon": "k",
-      "id": "562"
+      "id": "545"
     }, 
     {
       "team": "tra",
       "name": "Arda Akbulut",
       "pozisyon": "k",
-      "id": "563"
+      "id": "546"
     }, 
     {
       "team": "tra",
       "name": "Vitor Hugo",
       "pozisyon": "d",
-      "id": "564"
+      "id": "547"
     }, 
     {
       "team": "tra",
       "name": "Edgar Ie",
       "pozisyon": "d",
-      "id": "565"
+      "id": "548"
     }, 
     {
       "team": "tra",
       "name": "Bruno Peres",
       "pozisyon": "d",
-      "id": "566"
+      "id": "549"
     }, 
     {
       "team": "tra",
       "name": "İsmail Köybaşı",
       "pozisyon": "d",
-      "id": "567"
+      "id": "550"
     }, 
     {
       "team": "tra",
       "name": "Serkan Asan",
       "pozisyon": "d",
-      "id": "568"
+      "id": "551"
     }, 
     {
       "team": "tra",
       "name": "Stefano Denswill",
       "pozisyon": "d",
-      "id": "569"
+      "id": "552"
     }, 
     {
       "team": "tra",
       "name": "Hüseyin Türkmen",
       "pozisyon": "d",
-      "id": "570"
+      "id": "553"
     }, 
     {
       "team": "tra",
       "name": "Ahmetcan Kaplan",
       "pozisyon": "d",
-      "id": "571"
+      "id": "554"
     }, 
     {
       "team": "tra",
       "name": "Anastasios Bakasetas",
       "pozisyon": "os",
-      "id": "572"
+      "id": "555"
     }, 
     {
       "team": "tra",
       "name": "Marek Hamsik",
       "pozisyon": "os",
-      "id": "573"
+      "id": "556"
     }, 
     {
       "team": "tra",
       "name": "Yusuf Sarı",
       "pozisyon": "os",
-      "id": "574"
+      "id": "557"
     }, 
     {
       "team": "tra",
       "name": "Abdülkadir Ömür",
       "pozisyon": "os",
-      "id": "575"
+      "id": "558"
     }, 
     {
       "team": "tra",
       "name": "Anders Trondsen",
       "pozisyon": "os",
-      "id": "576"
+      "id": "559"
     }, 
     {
       "team": "tra",
       "name": "Manolis Siopis",
       "pozisyon": "os",
-      "id": "577"
+      "id": "560"
     }, 
     {
       "team": "tra",
       "name": "Yunus Mallı",
       "pozisyon": "os",
-      "id": "578"
+      "id": "561"
     }, 
     {
       "team": "tra",
       "name": "Abdulkadir Parmak",
       "pozisyon": "os",
-      "id": "579"
+      "id": "562"
     }, 
     {
       "team": "tra",
       "name": "Murat Cem Akpınar",
       "pozisyon": "os",
-      "id": "580"
+      "id": "563"
     }, 
     {
       "team": "tra",
       "name": "Dorukhan Toköz",
       "pozisyon": "os",
-      "id": "581"
+      "id": "564"
     }, 
     {
       "team": "tra",
       "name": "Anthony Nwakaeme",
       "pozisyon": "os",
-      "id": "582"
+      "id": "565"
     }, 
     {
       "team": "tra",
       "name": "Berat Özdemir",
       "pozisyon": "os",
-      "id": "583"
+      "id": "566"
     }, 
     {
       "team": "tra",
       "name": "Jorge Djaniny",
       "pozisyon": "f",
-      "id": "584"
+      "id": "567"
     }, 
     {
       "team": "tra",
       "name": "Gervinho",
       "pozisyon": "f",
-      "id": "585"
+      "id": "568"
     }, 
     {
       "team": "tra",
       "name": "Andreas Cornelius",
       "pozisyon": "f",
-      "id": "586"
+      "id": "569"
     }, 
     {
       "team": "tra",
       "name": "Fode Koita",
       "pozisyon": "f",
-      "id": "587"
-    } 
+      "id": "570"
+    }
 ]
 
 },
@@ -3756,196 +3625,182 @@
       "team": "yen",
       "name": "Ertaç Özbir",
       "pozisyon": "k",
-      "id": "588"
+      "id": "571"
     }, 
     {
       "team": "yen",
       "name": "Abdulsamed Damlu",
       "pozisyon": "k",
-      "id": "589"
+      "id": "572"
     }, 
     {
       "team": "yen",
       "name": "Murat Akşit",
       "pozisyon": "k",
-      "id": "590"
+      "id": "573"
     }, 
     {
       "team": "yen",
       "name": "Ahmet Eyüp Türkaslan",
       "pozisyon": "k",
-      "id": "591"
+      "id": "574"
     }, 
     {
       "team": "yen",
       "name": "Wallace",
       "pozisyon": "d",
-      "id": "592"
+      "id": "575"
     }, 
     {
       "team": "yen",
       "name": "Semih Kaya",
       "pozisyon": "d",
-      "id": "593"
+      "id": "576"
     }, 
     {
       "team": "yen",
       "name": "Oussama Haddadi",
       "pozisyon": "d",
-      "id": "594"
+      "id": "577"
     }, 
     {
       "team": "yen",
       "name": "Karim Hafez",
       "pozisyon": "d",
-      "id": "595"
+      "id": "578"
     }, 
     {
       "team": "yen",
       "name": "Sadık Çiftpınar",
       "pozisyon": "d",
-      "id": "596"
+      "id": "579"
     }, 
     {
       "team": "yen",
       "name": "Philip Awuku Gameli",
       "pozisyon": "d",
-      "id": "597"
+      "id": "580"
     }, 
     {
       "team": "yen",
       "name": "Eric Ndizeye",
       "pozisyon": "d",
-      "id": "598"
+      "id": "581"
     }, 
     {
       "team": "yen",
       "name": "Taha Gür",
       "pozisyon": "d",
-      "id": "599"
+      "id": "582"
     }, 
     {
       "team": "yen",
       "name": "M. Emin Sarıkaya",
       "pozisyon": "d",
-      "id": "600"
+      "id": "583"
     }, 
     {
       "team": "yen",
       "name": "Mert Örnek",
       "pozisyon": "d",
-      "id": "601"
+      "id": "584"
     }, 
     {
       "team": "yen",
       "name": "Mustafa Eskihellaç",
       "pozisyon": "d",
-      "id": "602"
+      "id": "585"
     }, 
     {
       "team": "yen",
-      "name": "Stevie Mallan",
+      "name": "Stephen Mallan",
       "pozisyon": "os",
-      "id": "603"
+      "id": "586"
     }, 
     {
       "team": "yen",
       "name": "Rayane Aabid",
       "pozisyon": "os",
-      "id": "604"
+      "id": "587"
     }, 
     {
       "team": "yen",
       "name": "Jospin Nshimirimana",
       "pozisyon": "os",
-      "id": "605"
+      "id": "588"
     }, 
     {
       "team": "yen",
       "name": "Ramazan Buğra Çağıran",
       "pozisyon": "os",
-      "id": "606"
+      "id": "589"
     }, 
     {
       "team": "yen",
       "name": "Haqi Osman",
       "pozisyon": "os",
-      "id": "607"
+      "id": "590"
     }, 
     {
       "team": "yen",
       "name": "Mert Miraç Altıntaş",
       "pozisyon": "os",
-      "id": "608"
+      "id": "591"
     }, 
     {
       "team": "yen",
       "name": "Hasan Özkan",
       "pozisyon": "os",
-      "id": "609"
+      "id": "592"
     }, 
     {
       "team": "yen",
       "name": "Mounir Chouiar",
       "pozisyon": "os",
-      "id": "610"
+      "id": "593"
     }, 
     {
       "team": "yen",
       "name": "Didier Ndong",
       "pozisyon": "os",
-      "id": "611"
+      "id": "594"
     }, 
     {
       "team": "yen",
       "name": "Nuri Fatih Aydın",
       "pozisyon": "os",
-      "id": "612"
-    }, 
-    {
-      "team": "yen",
-      "name": "Berk Yıldız",
-      "pozisyon": "os",
-      "id": "613"
+      "id": "595"
     }, 
     {
       "team": "yen",
       "name": "Atakan Müjde",
       "pozisyon": "os",
-      "id": "614"
-    }, 
-    {
-      "team": "yen",
-      "name": "Aly Malle",
-      "pozisyon": "os",
-      "id": "615"
+      "id": "596"
     }, 
     {
       "team": "yen",
       "name": "Benjamin Tetteh",
       "pozisyon": "f",
-      "id": "616"
+      "id": "597"
     }, 
     {
       "team": "yen",
       "name": "Walter Bwalya",
       "pozisyon": "f",
-      "id": "617"
+      "id": "598"
     }, 
     {
       "team": "yen",
       "name": "Adem Büyük",
       "pozisyon": "f",
-      "id": "618"
+      "id": "599"
     }, 
     {
       "team": "yen",
       "name": "Kubilay Kanatsızkuş",
       "pozisyon": "f",
-      "id": "619"
+      "id": "600"
     }
-]
-
-	
+]	
 }
 ]
