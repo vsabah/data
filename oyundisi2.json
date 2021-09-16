@@ -44,7 +44,7 @@
 	{
 		"mevkii": "BAS",
 		"adi": "Danijel Aleksic",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -91,12 +91,6 @@
 	},
 	{
 		"mevkii": "FAT",
-		"adi": "Emre Mor",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FAT",
 		"adi": "Alparslan Erdem",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
@@ -109,19 +103,19 @@
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Miha Zajc",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "FB",
-		"adi": "Marcel Tisserand",
+		"adi": "Jose Sosa",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "FB",
-		"adi": "Jose Sosa",
+		"adi": "Miha Zajc",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FB",
+		"adi": "Marcel Tisserand",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -145,19 +139,13 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Gustavo Assunçao",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Emre Kılınç",
+		"adi": "Sofiane Feghouli",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Sofiane Feghouli",
+		"adi": "Emre Kılınç",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -187,13 +175,19 @@
 	},
 	{
 		"mevkii": "GAZ",
-		"adi": "Alexandru Maxim",
+		"adi": "Furkan Soyalp",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "GAZ",
+		"adi": "Pawel Olkowski",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "GAZ",
-		"adi": "Furkan Soyalp",
+		"adi": "Alexandru Maxim",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
@@ -241,6 +235,12 @@
 	},
 	{
 		"mevkii": "KAY",
+		"adi": "Majeed Hosseini",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "KAY",
 		"adi": "Uğur Demirok",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
@@ -254,12 +254,6 @@
 	{
 		"mevkii": "KAY",
 		"adi": "Anthony Uzodimma",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "KAY",
-		"adi": "Majeed Hosseini",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
