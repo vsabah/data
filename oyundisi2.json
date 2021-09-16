@@ -2,7 +2,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "16.09.21/21:45",
+		"aciklama": "17.09.21/00:05",
 		"durum": "cezalılar"
 	},
 	{
@@ -20,7 +20,13 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "16.09.21/21:45",
+		"aciklama": "17.09.21/00:05",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ADA",
+		"adi": "Younes Belhanda",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -30,20 +36,26 @@
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ALN",
+		"mevkii": "ALA",
 		"adi": "Ahmet Gülay",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "ANT",
-		"adi": "Bahadır Öztürk",
-		"aciklama": "Sakat",
+		"mevkii": "ALT",
+		"adi": "Ahmed Yasser Rayan",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
-		"mevkii": "BAS",
-		"adi": "Danijel Aleksic",
+		"mevkii": "ALT",
+		"adi": "Cesar Pinares",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ANT",
+		"adi": "Bahadır Öztürk",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
@@ -55,8 +67,20 @@
 	},
 	{
 		"mevkii": "BJK",
+		"adi": "N'Koudou",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
 		"adi": "Umut Meraş",
 		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "BJK",
+		"adi": "Welinton Souza",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -139,18 +163,6 @@
 	},
 	{
 		"mevkii": "GS",
-		"adi": "Sofiane Feghouli",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
-		"adi": "Emre Kılınç",
-		"aciklama": "Sakat",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "GS",
 		"adi": "Sacha Boey",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
@@ -176,7 +188,7 @@
 	{
 		"mevkii": "GAZ",
 		"adi": "Furkan Soyalp",
-		"aciklama": "Belirsiz",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -194,7 +206,7 @@
 	{
 		"mevkii": "GÖZ",
 		"adi": "Murat Paluli",
-		"aciklama": "Sakat",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -271,6 +283,18 @@
 	},
 	{
 		"mevkii": "RİZ",
+		"adi": "Yannick Bolasie",
+		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "RİZ",
+		"adi": "Bryan Dabo",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "RİZ",
 		"adi": "Ronaldo Mendes",
 		"aciklama": "Sakat",
 		"durum": "sakatlar"
@@ -332,7 +356,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "16.09.21/21:45",
+		"aciklama": "17.09.21/00:05",
 		"durum": "kadro dışı"
 	},
 	{
