@@ -2,7 +2,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "17.09.21/00:05",
+		"aciklama": "17.09.21/18:05",
 		"durum": "cezalılar"
 	},
 	{
@@ -20,7 +20,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "17.09.21/00:05",
+		"aciklama": "17.09.21/18:05",
 		"durum": "sakatlar"
 	},
 	{
@@ -43,14 +43,26 @@
 	},
 	{
 		"mevkii": "ALT",
-		"adi": "Ahmed Yasser Rayan",
+		"adi": "Martin Rodriguez",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
 		"mevkii": "ALT",
-		"adi": "Cesar Pinares",
+		"adi": "Andre Poko",
 		"aciklama": "Belirsiz",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALT",
+		"adi": "Ahmed Yasser Rayan",
+		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "ALT",
+		"adi": "Cesar Pinares",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -99,6 +111,12 @@
 		"mevkii": "BJK",
 		"adi": "Ajdin Hasic",
 		"aciklama": "Sakat",
+		"durum": "sakatlar"
+	},
+	{
+		"mevkii": "FAT",
+		"adi": "Andrea Bertolacci",
+		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
 	{
@@ -206,7 +224,7 @@
 	{
 		"mevkii": "GÖZ",
 		"adi": "Murat Paluli",
-		"aciklama": "Belirsiz",
+		"aciklama": "Sakat",
 		"durum": "sakatlar"
 	},
 	{
@@ -217,19 +235,7 @@
 	},
 	{
 		"mevkii": "HAT",
-		"adi": "Sam Adekugbe",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HAT",
 		"adi": "Simon Falette",
-		"aciklama": "Belirsiz",
-		"durum": "sakatlar"
-	},
-	{
-		"mevkii": "HAT",
-		"adi": "Saba Lobjanidze",
 		"aciklama": "Belirsiz",
 		"durum": "sakatlar"
 	},
@@ -356,7 +362,7 @@
 	{
 		"mevkii": "*",
 		"adi": "Güncelleme",
-		"aciklama": "17.09.21/00:05",
+		"aciklama": "17.09.21/18:05",
 		"durum": "kadro dışı"
 	},
 	{
