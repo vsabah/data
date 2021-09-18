@@ -483,7 +483,7 @@
       "id":"081",
       "name":"Leandro Kappel",
       "position":"f",
-      "point":11
+      "point":12
    }, 
    {
       "id":"082",
@@ -1857,7 +1857,7 @@
       "id":"310",
       "name":"Günay Güvenç",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"311",
@@ -1875,7 +1875,7 @@
       "id":"313",
       "name":"Papy Djilobodji",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"314",
@@ -1887,19 +1887,19 @@
       "id":"315",
       "name":"Hamza Mendyl",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"316",
       "name":"Stelios Kitsiou",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"317",
       "name":"Halil İbrahim Pehlivan",
       "position":"d",
-      "point":0
+      "point":6
    }, 
    {
       "id":"318",
@@ -1923,7 +1923,7 @@
       "id":"321",
       "name":"Steven Caulker",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"322",
@@ -1935,19 +1935,19 @@
       "id":"323",
       "name":"Jefferson",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"324",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"325",
       "name":"Angelo Sagal",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"326",
@@ -1959,7 +1959,7 @@
       "id":"327",
       "name":"Doğan Erdoğan",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"328",
@@ -1971,13 +1971,13 @@
       "id":"329",
       "name":"Ahmed El Messaoudi",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"330",
       "name":"Alexander Merkel",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"331",
@@ -2007,7 +2007,7 @@
       "id":"335",
       "name":"Kenan Özer",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"336",
@@ -2025,19 +2025,19 @@
       "id":"338",
       "name":"Nouha Dicko",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"339",
       "name":"João Figueiredo",
       "position":"f",
-      "point":0
+      "point":7
    }, 
    {
       "id":"340",
       "name":"Muhammet Demir",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"341",
@@ -2253,7 +2253,7 @@
       "id":"376",
       "name":"Berkan Emir",
       "position":"d",
-      "point":6
+      "point":3
    }, 
    {
       "id":"377",
@@ -3099,7 +3099,7 @@
       "id":"517",
       "name":"Muammer Yıldırım",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"518",
@@ -3111,19 +3111,19 @@
       "id":"519",
       "name":"Uğur Çiftçi",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"520",
       "name":"Ahmet Oğuz",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"521",
       "name":"Caner Osmanpaşa",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"522",
@@ -3135,13 +3135,13 @@
       "id":"523",
       "name":"Ziya Erdal",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"524",
       "name":"Dimitris Goutas",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"525",
@@ -3171,7 +3171,7 @@
       "id":"529",
       "name":"Hakan Arslan",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"530",
@@ -3189,25 +3189,25 @@
       "id":"532",
       "name":"Faycal Fajr",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"533",
       "name":"Isaac Cofie",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"534",
       "name":"Azubuike Okechukwu",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"535",
       "name":"Erdoğan Yeşilyurt",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"536",
@@ -3219,19 +3219,19 @@
       "id":"537",
       "name":"Sefa Yılmaz",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"538",
       "name":"Max Gradel",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"539",
       "name":"Pedro Henrique",
       "position":"os",
-      "point":0
+      "point":7
    }, 
    {
       "id":"540",
@@ -3249,7 +3249,7 @@
       "id":"542",
       "name":"Mustapha Yatabare",
       "position":"f",
-      "point":0
+      "point":9
    }, 
    {
       "id":"543",
