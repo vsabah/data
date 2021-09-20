@@ -81,7 +81,7 @@
       "id":"014",
       "name":"Matias Vargas",
       "position":"os",
-      "point":01
+      "point":0
    }, 
    {
       "id":"015",
@@ -111,7 +111,7 @@
       "id":"019",
       "name":"Birkir Bjarnason",
       "position":"os",
-      "point":01
+      "point":0
    }, 
    {
       "id":"020",
@@ -483,7 +483,7 @@
       "id":"081",
       "name":"Leandro Kappel",
       "position":"f",
-      "point":02
+      "point":0
    }, 
    {
       "id":"082",
@@ -711,7 +711,7 @@
       "id":"119",
       "name":"Volkan Babacan",
       "position":"k",
-      "point":01
+      "point":0
    }, 
    {
       "id":"120",
@@ -807,7 +807,7 @@
       "id":"135",
       "name":"Edin Visca",
       "position":"os",
-      "point":01
+      "point":0
    }, 
    {
       "id":"136",
@@ -1059,7 +1059,7 @@
       "id":"177",
       "name":"Michy Batshuayi",
       "position":"f",
-      "point":03
+      "point":0
    }, 
    {
       "id":"178",
@@ -1425,7 +1425,7 @@
       "id":"238",
       "name":"Andrea Bertolacci",
       "position":"os",
-      "point":06
+      "point":0
    }, 
    {
       "id":"239",
@@ -1455,7 +1455,7 @@
       "id":"243",
       "name":"Aleksandar Pesic",
       "position":"f",
-      "point":05
+      "point":0
    }, 
    {
       "id":"244",
@@ -2919,7 +2919,7 @@
       "id":"487",
       "name":"Ibrahim Sehic",
       "position":"k",
-      "point":01
+      "point":0
    }, 
    {
       "id":"488",
@@ -3255,7 +3255,7 @@
       "id":"543",
       "name":"Uğurcan Çakır",
       "position":"k",
-      "point":01
+      "point":0
    }, 
    {
       "id":"544",
@@ -3327,7 +3327,7 @@
       "id":"555",
       "name":"Anastasios Bakasetas",
       "position":"os",
-      "point":01
+      "point":0
    }, 
    {
       "id":"556",
@@ -3555,7 +3555,7 @@
       "id":"593",
       "name":"Mounir Chouiar",
       "position":"os",
-      "point":01
+      "point":0
    }, 
    {
       "id":"594",
