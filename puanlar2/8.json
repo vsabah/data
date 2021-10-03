@@ -2415,7 +2415,7 @@
       "id":"402",
       "name":"Munir Mohamedi",
       "position":"k",
-      "point":0
+      "point":9
    }, 
    {
       "id":"403",
@@ -2427,13 +2427,13 @@
       "id":"404",
       "name":"Kamil Ahmet Çörekçi",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"405",
       "name":"Samuel Adekugbe",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"406",
@@ -2445,13 +2445,13 @@
       "id":"407",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"408",
       "name":"Burak Öksüz",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"409",
@@ -2481,13 +2481,13 @@
       "id":"413",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"414",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":0
+      "point":8
    }, 
    {
       "id":"415",
@@ -2499,13 +2499,13 @@
       "id":"416",
       "name":"Adama Noss Traore",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"417",
       "name":"Emre Çolak",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"418",
@@ -2517,7 +2517,7 @@
       "id":"419",
       "name":"Sadık Baş",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"420",
@@ -2535,13 +2535,13 @@
       "id":"422",
       "name":"Mehdi Boudjemaa",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"423",
       "name":"Dylan Saint-Louis",
       "position":"os",
-      "point":0
+      "point":8
    }, 
    {
       "id":"424",
@@ -2553,19 +2553,19 @@
       "id":"425",
       "name":"Mohammed Kamara",
       "position":"f",
-      "point":0
+      "point":8
    }, 
    {
       "id":"426",
       "name":"Ayoub El Kaabi",
       "position":"f",
-      "point":0
+      "point":9
    }, 
    {
       "id":"427",
       "name":"Bertuğ Özgür Yıldırım",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"429",
@@ -3405,7 +3405,7 @@
       "id":"571",
       "name":"Ertaç Özbir",
       "position":"k",
-      "point":0
+      "point":2
    }, 
    {
       "id":"572",
@@ -3429,31 +3429,31 @@
       "id":"575",
       "name":"Wallace",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"576",
       "name":"Semih Kaya",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"577",
       "name":"Oussama Haddadi",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"578",
       "name":"Karim Hafez",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"579",
       "name":"Sadık Çiftpınar",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"580",
@@ -3489,25 +3489,25 @@
       "id":"585",
       "name":"Mustafa Eskihellaç",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"586",
       "name":"Stephen Mallan",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"587",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"588",
       "name":"Jospin Nshimirimana",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"589",
@@ -3537,13 +3537,13 @@
       "id":"593",
       "name":"Mounir Chouiar",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"594",
       "name":"Didier Ndong",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"595",
@@ -3561,13 +3561,13 @@
       "id":"597",
       "name":"Benjamin Tetteh",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"598",
       "name":"Walter Bwalya",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"599",
