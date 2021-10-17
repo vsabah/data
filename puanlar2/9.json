@@ -2229,7 +2229,7 @@
       "id":"372",
       "name":"İrfan Can Eğribayat",
       "position":"k",
-      "point":0
+      "point":5
    }, 
    {
       "id":"373",
@@ -2253,13 +2253,13 @@
       "id":"376",
       "name":"Berkan Emir",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"377",
       "name":"Murat Paluli",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"378",
@@ -2271,19 +2271,19 @@
       "id":"379",
       "name":"Atınç Nukan",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"380",
       "name":"Kahraman Demirtaş",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"381",
       "name":"Kerim Alıcı",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"382",
@@ -2295,7 +2295,7 @@
       "id":"383",
       "name":"Dzenan Burekovic",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"384",
@@ -2313,19 +2313,19 @@
       "id":"386",
       "name":"Halil Akbunar",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"387",
       "name":"Soner Aydoğdu",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"388",
       "name":"Obinna Nwobodo",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"389",
@@ -2337,7 +2337,7 @@
       "id":"390",
       "name":"David Tijanic",
       "position":"os",
-      "point":0
+      "point":9
    }, 
    {
       "id":"391",
@@ -2349,7 +2349,7 @@
       "id":"392",
       "name":"Yalçın Kayan",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"393",
@@ -2373,25 +2373,25 @@
       "id":"396",
       "name":"Atakan Rıdvan Çankaya",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"397",
       "name":"Lourency",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"398",
       "name":"Adis Jahovic",
       "position":"f",
-      "point":0
+      "point":10
    }, 
    {
       "id":"399",
       "name":"Cherif Ndiaye",
       "position":"f",
-      "point":0
+      "point":5
    }, 
    {
       "id":"400",
@@ -2410,7 +2410,7 @@
       "name":"Altay Özkan",
       "position":"f",
       "point":0
-   }, 
+   },
    {
       "id":"402",
       "name":"Munir Mohamedi",
@@ -2577,7 +2577,7 @@
       "id":"430",
       "name":"Harun Tekin",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"431",
@@ -2589,7 +2589,7 @@
       "id":"432",
       "name":"Florent Hadergjonaj",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"433",
@@ -2601,7 +2601,7 @@
       "id":"434",
       "name":"Evren Eren Elmalı",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"435",
@@ -2613,13 +2613,13 @@
       "id":"436",
       "name":"Tomas Brecka",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"437",
       "name":"Ryan Donk",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"438",
@@ -2637,7 +2637,7 @@
       "id":"440",
       "name":"Tarkan Serbest",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"441",
@@ -2649,13 +2649,13 @@
       "id":"442",
       "name":"Haris Hajradinovic",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"443",
       "name":"Yusuf Erdoğan",
       "position":"os",
-      "point":0
+      "point":9
    }, 
    {
       "id":"444",
@@ -2667,13 +2667,13 @@
       "id":"445",
       "name":"Valentin Eysseric",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"446",
       "name":"Michal Travnik",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"447",
@@ -2685,7 +2685,7 @@
       "id":"448",
       "name":"Nabil Dirar",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"449",
@@ -2709,20 +2709,20 @@
       "id":"452",
       "name":"Nicolai Jörgensen",
       "position":"f",
-      "point":0
+      "point":2
    }, 
    {
       "id":"453",
       "name":"Umut Bozok",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"455",
       "name":"Hasan Emre Yeşilyurt",
       "position":"f",
       "point":0
-   }, 
+   },
    {
       "id":"456",
       "name":"Silviu Lung",
