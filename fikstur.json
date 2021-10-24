@@ -8,8 +8,8 @@
         {"takim1":"kon", "skor1":2, "takim2":"kay", "skor2":0, "finished":0},
         {"takim1":"goz", "skor1":0, "takim2":"tra", "skor2":1, "finished":0},
         {"takim1":"fat", "skor1":1, "takim2":"hat", "skor2":1, "finished":0},
-	{"takim1":"ant", "skor1":0, "takim2":"bas", "skor2":0, "finished":0}, 
-        {"takim1":"siv", "skor1":0, "takim2":"ada", "skor2":0, "finished":0}, 
+	{"takim1":"ant", "skor1":1, "takim2":"bas", "skor2":2, "finished":0}, 
+        {"takim1":"siv", "skor1":1, "takim2":"ada", "skor2":1, "finished":0}, 
 	{"takim1":"fen", "skor1":0, "takim2":"ala", "skor2":0, "finished":0},
         {"takim1":"bes", "skor1":0, "takim2":"gal", "skor2":0, "finished":0}
 
