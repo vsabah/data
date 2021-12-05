@@ -822,6 +822,12 @@
       "point":8
    }, 
    {
+      "id":"607",
+      "name":"Emre Karaal",
+      "position":"os",
+      "point":3
+   }, 
+   {
       "id":"135",
       "name":"Edin Visca",
       "position":"os",
@@ -2415,7 +2421,7 @@
       "id":"402",
       "name":"Munir Mohamedi",
       "position":"k",
-      "point":3
+      "point":2
    }, 
    {
       "id":"403",
@@ -2427,25 +2433,25 @@
       "id":"404",
       "name":"Kamil Ahmet Çörekçi",
       "position":"d",
-      "point":3
+      "point":2
    }, 
    {
       "id":"405",
       "name":"Samuel Adekugbe",
       "position":"d",
-      "point":3
+      "point":2
    }, 
    {
       "id":"406",
       "name":"Simon Falette",
       "position":"d",
-      "point":1
+      "point":0
    }, 
    {
       "id":"407",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":3
+      "point":2
    }, 
    {
       "id":"408",
@@ -2463,7 +2469,7 @@
       "id":"410",
       "name":"Strahil Popov",
       "position":"d",
-      "point":2
+      "point":1
    }, 
    {
       "id":"411",
@@ -2487,7 +2493,7 @@
       "id":"414",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":4
+      "point":3
    }, 
    {
       "id":"415",
@@ -2499,7 +2505,7 @@
       "id":"416",
       "name":"Adama Noss Traore",
       "position":"os",
-      "point":1
+      "point":0
    }, 
    {
       "id":"417",
@@ -2511,7 +2517,7 @@
       "id":"418",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":4
+      "point":3
    }, 
    {
       "id":"419",
@@ -2523,7 +2529,7 @@
       "id":"420",
       "name":"Muhammed Mert",
       "position":"os",
-      "point":4
+      "point":3
    }, 
    {
       "id":"421",
@@ -2541,31 +2547,31 @@
       "id":"423",
       "name":"Dylan Saint-Louis",
       "position":"os",
-      "point":2
+      "point":1
    }, 
    {
       "id":"424",
       "name":"Mame Biram Diouf",
       "position":"f",
-      "point":4
+      "point":3
    }, 
    {
       "id":"425",
       "name":"Mohammed Kamara",
       "position":"f",
-      "point":2
+      "point":1
    }, 
    {
       "id":"426",
       "name":"Ayoub El Kaabi",
       "position":"f",
-      "point":3
+      "point":2
    }, 
    {
       "id":"427",
       "name":"Bertuğ Özgür Yıldırım",
       "position":"f",
-      "point":2
+      "point":1
    }, 
    {
       "id":"429",
