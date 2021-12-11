@@ -591,13 +591,13 @@
       "id":"094",
       "name":"Bahadır Öztürk",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"095",
       "name":"Eren Albayrak",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"096",
@@ -615,7 +615,7 @@
       "id":"098",
       "name":"Sherel Floranus",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"099",
@@ -711,7 +711,7 @@
       "id":"115",
       "name":"Haji Wright",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"116",
@@ -2277,7 +2277,7 @@
       "id":"379",
       "name":"Atınç Nukan",
       "position":"d",
-      "point":8
+      "point":10
    }, 
    {
       "id":"380",
@@ -2595,7 +2595,7 @@
       "id":"432",
       "name":"Florent Hadergjonaj",
       "position":"d",
-      "point":5
+      "point":6
    }, 
    {
       "id":"433",
@@ -2607,7 +2607,7 @@
       "id":"434",
       "name":"Evren Eren Elmalı",
       "position":"d",
-      "point":1
+      "point":2
    }, 
    {
       "id":"435",
