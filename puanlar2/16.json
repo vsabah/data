@@ -1491,7 +1491,7 @@
       "id":"248",
       "name":"Berke Özer",
       "position":"k",
-      "point":0
+      "point":1
    }, 
    {
       "id":"249",
@@ -1503,13 +1503,13 @@
       "id":"250",
       "name":"Marcel Tisserand",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"251",
       "name":"Attila Szalai",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"252",
@@ -1533,7 +1533,7 @@
       "id":"255",
       "name":"Kim Min-Jae",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"256",
@@ -1551,7 +1551,7 @@
       "id":"258",
       "name":"Luiz Gustavo",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"259",
@@ -1563,25 +1563,25 @@
       "id":"260",
       "name":"Ferdi Kadıoğlu",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"261",
       "name":"Miha Zajc",
       "position":"os",
-      "point":0
+      "point":7
    }, 
    {
       "id":"262",
       "name":"Mesut Özil",
       "position":"os",
-      "point":0
+      "point":12
    }, 
    {
       "id":"263",
       "name":"Diego Rossi",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"264",
@@ -1593,13 +1593,13 @@
       "id":"265",
       "name":"Miguel Crespo",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"266",
       "name":"Muhammed Gümüşkaya",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"267",
@@ -1641,7 +1641,7 @@
       "id":"273",
       "name":"Bright Osayi-Samuel",
       "position":"os",
-      "point":0
+      "point":6
    }, 
    {
       "id":"274",
@@ -1653,13 +1653,13 @@
       "id":"275",
       "name":"Serdar Dursun",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"276",
       "name":"Mergim Berisha",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"278",
@@ -1863,7 +1863,7 @@
       "id":"310",
       "name":"Günay Güvenç",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"311",
@@ -1887,7 +1887,7 @@
       "id":"313",
       "name":"Papy Djilobodji",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"314",
@@ -1899,25 +1899,25 @@
       "id":"315",
       "name":"Hamza Mendyl",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"316",
       "name":"Stelios Kitsiou",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"317",
       "name":"Halil İbrahim Pehlivan",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"318",
       "name":"Alin Tosca",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"319",
@@ -1935,7 +1935,7 @@
       "id":"321",
       "name":"Steven Caulker",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"322",
@@ -1953,25 +1953,25 @@
       "id":"324",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"325",
       "name":"Angelo Sagal",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"326",
       "name":"Furkan Soyalp",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"327",
       "name":"Doğan Erdoğan",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"328",
@@ -2007,7 +2007,7 @@
       "id":"333",
       "name":"Alexandru Maxim",
       "position":"os",
-      "point":0
+      "point":10
    }, 
    {
       "id":"334",
@@ -2019,7 +2019,7 @@
       "id":"335",
       "name":"Kenan Özer",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"336",
@@ -2037,19 +2037,19 @@
       "id":"338",
       "name":"Nouha Dicko",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"339",
       "name":"João Figueiredo",
       "position":"f",
-      "point":0
+      "point":15
    }, 
    {
       "id":"340",
       "name":"Muhammet Demir",
       "position":"f",
-      "point":0
+      "point":5
    }, 
    {
       "id":"341",
