@@ -369,25 +369,25 @@
       "id":"060",
       "name":"Murat Akça",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"061",
       "name":"İbrahim Öztürk",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"062",
       "name":"Cebrail Karayel",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"063",
       "name":"Mohammad Naderi",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"064",
@@ -423,7 +423,7 @@
       "id":"070",
       "name":"Andre Poko",
       "position":"os",
-      "point":0
+      "point":9
    }, 
    {
       "id":"071",
@@ -435,19 +435,19 @@
       "id":"072",
       "name":"Khaly Thiam",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"073",
       "name":"Cesar Pinares",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"074",
       "name":"Martin Rodriguez",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"075",
@@ -465,7 +465,7 @@
       "id":"077",
       "name":"Zeki Yıldırım",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"078",
@@ -495,19 +495,19 @@
       "id":"081",
       "name":"Leandro Kappel",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"082",
       "name":"Daouda Bamba",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"083",
       "name":"Marco Paixao",
       "position":"f",
-      "point":0
+      "point":-2
    }, 
    {
       "id":"084",
@@ -531,7 +531,7 @@
       "id":"087",
       "name":"Eren Erdoğan",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"066",
@@ -2055,7 +2055,7 @@
       "id":"341",
       "name":"Okan Kocuk",
       "position":"k",
-      "point":0
+      "point":10
    }, 
    {
       "id":"342",
@@ -2091,19 +2091,19 @@
       "id":"347",
       "name":"Alexis Perez",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"348",
       "name":"Emre Taşdemir",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"349",
       "name":"Hayrullah Bilazer",
       "position":"d",
-      "point":0
+      "point":13
    }, 
    {
       "id":"350",
@@ -2115,13 +2115,13 @@
       "id":"351",
       "name":"Aziz Behich",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"352",
       "name":"Mamadou Diarra",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"353",
@@ -2139,7 +2139,7 @@
       "id":"355",
       "name":"Sergen Piçinciol",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"356",
@@ -2151,7 +2151,7 @@
       "id":"357",
       "name":"Joey Pelupessy",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"358",
@@ -2169,19 +2169,19 @@
       "id":"360",
       "name":"Fousseni Diabate",
       "position":"os",
-      "point":0
+      "point":11
    }, 
    {
       "id":"361",
       "name":"Hamidou Traore",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"362",
       "name":"Joseph Champness",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"363",
@@ -2199,13 +2199,13 @@
       "id":"366",
       "name":"Serginho",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"367",
       "name":"Shapi Suleymanov",
       "position":"os",
-      "point":0
+      "point":12
    }, 
    {
       "id":"368",
@@ -2217,19 +2217,19 @@
       "id":"369",
       "name":"Ibrahima Balde",
       "position":"f",
-      "point":0
+      "point":10
    }, 
    {
       "id":"370",
       "name":"Souleymane Doukara",
       "position":"f",
-      "point":0
+      "point":2
    }, 
    {
       "id":"371",
       "name":"Umut Nayir",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"372",
