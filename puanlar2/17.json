@@ -1101,7 +1101,7 @@
       "id":"181",
       "name":"Tarık Çetin",
       "position":"k",
-      "point":0
+      "point":10
    }, 
    {
       "id":"182",
@@ -1113,13 +1113,13 @@
       "id":"183",
       "name":"Sebastian Holmen",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"184",
       "name":"Cemali Sertel",
       "position":"d",
-      "point":0
+      "point":11
    }, 
    {
       "id":"185",
@@ -1137,7 +1137,7 @@
       "id":"187",
       "name":"Gökhan Gönül",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"188",
@@ -1149,7 +1149,7 @@
       "id":"189",
       "name":"Emir Han Topçu",
       "position":"d",
-      "point":0
+      "point":8
    }, 
    {
       "id":"192",
@@ -1161,13 +1161,13 @@
       "id":"193",
       "name":"Alper Potuk",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"194",
       "name":"Fabricio Baiano",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"195",
@@ -1179,19 +1179,19 @@
       "id":"196",
       "name":"Erik Sabo",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"197",
       "name":"Damjan Djokovic",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"198",
       "name":"Yasin Pehlivan",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"199",
@@ -1209,13 +1209,13 @@
       "id":"201",
       "name":"Tyler Boyd",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"202",
       "name":"Fernando Boldrin",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"203",
@@ -1239,25 +1239,25 @@
       "id":"205",
       "name":"Umar Aminu",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"206",
       "name":"Deniz Hümmet",
       "position":"f",
-      "point":0
+      "point":8
    }, 
    {
       "id":"207",
       "name":"Joel Pohjanpalo",
       "position":"f",
-      "point":0
+      "point":5
    }, 
    {
       "id":"208",
       "name":"Loic Remy",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"209",
@@ -1731,7 +1731,7 @@
       "id":"289",
       "name":"Victor Nelsson",
       "position":"d",
-      "point":4
+      "point":3
    }, 
    {
       "id":"290",
@@ -3411,7 +3411,7 @@
       "id":"571",
       "name":"Ertaç Özbir",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"572",
@@ -3435,13 +3435,13 @@
       "id":"575",
       "name":"Wallace",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"576",
       "name":"Semih Kaya",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"577",
@@ -3453,13 +3453,13 @@
       "id":"578",
       "name":"Karim Hafez",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"579",
       "name":"Sadık Çiftpınar",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"580",
@@ -3501,13 +3501,13 @@
       "id":"586",
       "name":"Stephen Mallan",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"587",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"588",
@@ -3543,13 +3543,13 @@
       "id":"593",
       "name":"Mounir Chouiar",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"594",
       "name":"Didier Ndong",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"595",
@@ -3567,7 +3567,7 @@
       "id":"597",
       "name":"Benjamin Tetteh",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"598",
@@ -3579,12 +3579,12 @@
       "id":"599",
       "name":"Adem Büyük",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"600",
       "name":"Kubilay Kanatsızkuş",
       "position":"f",
-      "point":0
+      "point":1
    }
 ]
