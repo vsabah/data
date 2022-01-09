@@ -2756,12 +2756,6 @@
     }, 
     {
       "team": "kas",
-      "name": "Feyzi Yıldırım",
-      "pozisyon": "d",
-      "id": "608"
-    },
-    {
-      "team": "kas",
       "name": "Jeffrey Bruma",
       "pozisyon": "d",
       "id": "433"
@@ -2774,7 +2768,7 @@
     }, 
     {
       "team": "kas",
-      "name": "Mehmet Feyzi Yıldırım",
+      "name": "Feyzi Yıldırım",
       "pozisyon": "d",
       "id": "435"
     }, 
