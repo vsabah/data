@@ -2604,12 +2604,6 @@
       "point":4
    }, 
    {
-      "id":"608",
-      "name":"Feyzi Yıldırım",
-      "position":"d",
-      "point":3
-   }, 
-   {
       "id":"433",
       "name":"Jeffrey Bruma",
       "position":"d",
@@ -2623,9 +2617,9 @@
    }, 
    {
       "id":"435",
-      "name":"Mehmet Feyzi Yıldırım",
+      "name":"Feyzi Yıldırım",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"436",
