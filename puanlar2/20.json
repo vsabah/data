@@ -3,7 +3,7 @@
       "id":"01",
       "name":"Arijanet Muric",
       "position":"k",
-      "point":0
+      "point":4
    }, 
    {
       "id":"02",
@@ -21,19 +21,19 @@
       "id":"04",
       "name":"Tayyip Talha Sanuç",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"05",
       "name":"Kaan Kanak",
       "position":"d",
-      "point":0
+      "point":9
    }, 
    {
       "id":"06",
       "name":"Jonas Svensson",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"07",
@@ -57,19 +57,19 @@
       "id":"010",
       "name":"Tarık Çamdal",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"011",
       "name":"Samet Akaydın",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"012",
       "name":"Younes Belhanda",
       "position":"os",
-      "point":0
+      "point":10
    }, 
    {
       "id":"013",
@@ -81,37 +81,37 @@
       "id":"014",
       "name":"Matias Vargas",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"015",
       "name":"Sinan Kurt",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"016",
       "name":"Benjamin Stambouli",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"017",
       "name":"Gökhan İnler",
       "position":"os",
-      "point":0
+      "point":11
    }, 
    {
       "id":"018",
       "name":"Babajide Akintola",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"019",
       "name":"Birkir Bjarnason",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"020",
@@ -123,7 +123,7 @@
       "id":"021",
       "name":"Yunus Akgün",
       "position":"os",
-      "point":0
+      "point":8
    }, 
    {
       "id":"022",
@@ -135,7 +135,7 @@
       "id":"023",
       "name":"Britt Assombalonga",
       "position":"f",
-      "point":0
+      "point":5
    }, 
    {
       "id":"024",
@@ -1497,7 +1497,7 @@
       "id":"248",
       "name":"Berke Özer",
       "position":"k",
-      "point":0
+      "point":2
    }, 
    {
       "id":"249",
@@ -1515,7 +1515,7 @@
       "id":"251",
       "name":"Attila Szalai",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"252",
@@ -1533,13 +1533,13 @@
       "id":"254",
       "name":"Filip Novak",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"255",
       "name":"Kim Min-Jae",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"256",
@@ -1563,37 +1563,37 @@
       "id":"259",
       "name":"Jose Sosa",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"260",
       "name":"Ferdi Kadıoğlu",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"261",
       "name":"Miha Zajc",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"262",
       "name":"Mesut Özil",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"263",
       "name":"Diego Rossi",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"264",
       "name":"Max Meyer",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"265",
@@ -1617,13 +1617,13 @@
       "id":"268",
       "name":"İrfan Can Kahveci",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"269",
       "name":"Mert Hakan Yandaş",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"270",
@@ -1641,25 +1641,25 @@
       "id":"272",
       "name":"Dimitrios Pelkas",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"273",
       "name":"Bright Osayi-Samuel",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"274",
       "name":"Enner Valencia",
       "position":"f",
-      "point":0
+      "point":9
    }, 
    {
       "id":"275",
       "name":"Serdar Dursun",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"276",
