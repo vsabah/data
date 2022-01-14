@@ -2130,13 +2130,7 @@
       "name": "Amedej Vetrih",
       "pozisyon": "os",
       "id": "334"
-    }, 
-    {
-      "team": "gaz",
-      "name": "Kenan Özer",
-      "pozisyon": "os",
-      "id": "335"
-    }, 
+    },  
     {
       "team": "gaz",
       "name": "Yusuf Türk",
@@ -2148,12 +2142,6 @@
       "name": "Torgeir Börven",
       "pozisyon": "f",
       "id": "337"
-    }, 
-    {
-      "team": "gaz",
-      "name": "Nouha Dicko",
-      "pozisyon": "f",
-      "id": "338"
     }, 
     {
       "team": "gaz",
@@ -3369,12 +3357,6 @@
     }, 
     {
       "team": "siv",
-      "name": "Azubuike Okechukwu",
-      "pozisyon": "os",
-      "id": "534"
-    }, 
-    {
-      "team": "siv",
       "name": "Erdoğan Yeşilyurt",
       "pozisyon": "os",
       "id": "535"
@@ -3749,6 +3731,12 @@
     }, 
     {
       "team": "yen",
+      "name": "Azubuike Okechukwu",
+      "pozisyon": "os",
+      "id": "534"
+    }, 
+    {
+      "team": "yen",
       "name": "Mounir Chouiar",
       "pozisyon": "os",
       "id": "593"
@@ -3773,6 +3761,18 @@
     }, 
     {
       "team": "yen",
+      "name": "Godfred Donsah",
+      "pozisyon": "os",
+      "id": "608"
+    },
+    {
+      "team": "yen",
+      "name": "Kenan Özer",
+      "pozisyon": "os",
+      "id": "335"
+    },
+    {
+      "team": "yen",
       "name": "Benjamin Tetteh",
       "pozisyon": "f",
       "id": "597"
@@ -3795,6 +3795,12 @@
       "pozisyon": "f",
       "id": "600"
     }
+    {
+      "team": "yen",
+      "name": "Nouha Dicko",
+      "pozisyon": "f",
+      "id": "338"
+    }, 
 ]
 
 	
