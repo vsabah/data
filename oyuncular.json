@@ -875,13 +875,7 @@
       "name": "Emre Karaal",
       "pozisyon": "os",
       "id": "607"
-    }, 
-    {
-      "team": "bas",
-      "name": "Edin Visca",
-      "pozisyon": "os",
-      "id": "135"
-    }, 
+    },  
     {
       "team": "bas",
       "name": "Berkay Özcan",
@@ -1312,6 +1306,12 @@
     }, 
     {
       "team": "cay",
+      "name": "Yusuf Sarı",
+      "pozisyon": "os",
+      "id": "557"
+    }, 
+    {
+      "team": "cay",
       "name": "Umar Aminu",
       "pozisyon": "f",
       "id": "205"
@@ -1525,6 +1525,12 @@
       "pozisyon": "os",
       "id": "239"
     }, 
+    {
+      "team": "fat",
+      "name": "Kristijan Bistrovic",
+      "pozisyon": "os",
+      "id": "610"
+    },
     {
       "team": "fat",
       "name": "Fabio Borini",
@@ -2804,12 +2810,6 @@
     }, 
     {
       "team": "kas",
-      "name": "Yusuf Erdoğan",
-      "pozisyon": "os",
-      "id": "443"
-    }, 
-    {
-      "team": "kas",
       "name": "Kevin Varga",
       "pozisyon": "os",
       "id": "444"
@@ -3505,12 +3505,6 @@
     }, 
     {
       "team": "tra",
-      "name": "Yusuf Sarı",
-      "pozisyon": "os",
-      "id": "557"
-    }, 
-    {
-      "team": "tra",
       "name": "Abdülkadir Ömür",
       "pozisyon": "os",
       "id": "558"
@@ -3563,6 +3557,18 @@
       "pozisyon": "os",
       "id": "566"
     }, 
+    {
+      "team": "tra",
+      "name": "Yusuf Erdoğan",
+      "pozisyon": "os",
+      "id": "443"
+    }, 
+    {
+      "team": "tra",
+      "name": "Edin Visca",
+      "pozisyon": "os",
+      "id": "135"
+    },
     {
       "team": "tra",
       "name": "Jorge Djaniny",
