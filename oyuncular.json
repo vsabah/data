@@ -26,6 +26,12 @@
     }, 
     {
       "team": "ada",
+      "name": "Alper Uludağ",
+      "pozisyon": "d",
+      "id": "496"
+    }, 
+    {
+      "team": "ada",
       "name": "Tayyip Talha Sanuç",
       "pozisyon": "d",
       "id": "04"
@@ -71,6 +77,12 @@
       "name": "Samet Akaydın",
       "pozisyon": "d",
       "id": "011"
+    }, 
+    {
+      "team": "ada",
+      "name": "İsmail Çokçalış",
+      "pozisyon": "d",
+      "id": "614"
     }, 
     {
       "team": "ada",
@@ -3134,12 +3146,6 @@
       "name": "Marin Anicic",
       "pozisyon": "d",
       "id": "495"
-    }, 
-    {
-      "team": "kon",
-      "name": "Alper Uludağ",
-      "pozisyon": "d",
-      "id": "496"
     }, 
     {
       "team": "kon",
