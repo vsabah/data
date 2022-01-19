@@ -878,6 +878,18 @@
     }, 
     {
       "team": "bas",
+      "name": "Serdar Gürler",
+      "pozisyon": "os",
+      "id": "502"
+    },
+    {
+      "team": "bas",
+      "name": "Emre Çolak",
+      "pozisyon": "os",
+      "id": "417"
+    }, 
+    {
+      "team": "bas",
       "name": "Danijel Aleksic",
       "pozisyon": "os",
       "id": "133"
@@ -2673,12 +2685,6 @@
     }, 
     {
       "team": "hat",
-      "name": "Emre Çolak",
-      "pozisyon": "os",
-      "id": "417"
-    }, 
-    {
-      "team": "hat",
       "name": "Isaac Sackey",
       "pozisyon": "os",
       "id": "418"
@@ -2982,6 +2988,12 @@
       "id": "465"
     }, 
     {
+      "team": "tra",
+      "name": "Abdulkadir Parmak",
+      "pozisyon": "os",
+      "id": "562"
+    }, 
+    {
       "team": "kay",
       "name": "Emrah Başsan",
       "pozisyon": "os",
@@ -3182,13 +3194,7 @@
       "name": "Endri Çekiçi",
       "pozisyon": "os",
       "id": "501"
-    }, 
-    {
-      "team": "kon",
-      "name": "Serdar Gürler",
-      "pozisyon": "os",
-      "id": "502"
-    }, 
+    },  
     {
       "team": "kon",
       "name": "Amar Rahmanovic",
@@ -3556,12 +3562,6 @@
       "name": "Yunus Mallı",
       "pozisyon": "os",
       "id": "561"
-    }, 
-    {
-      "team": "tra",
-      "name": "Abdulkadir Parmak",
-      "pozisyon": "os",
-      "id": "562"
     }, 
     {
       "team": "tra",
