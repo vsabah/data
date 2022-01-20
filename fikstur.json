@@ -7,10 +7,10 @@
 	{"takim1":"fat", "skor1":0, "takim2":"bes", "skor2":1, "finished":0},
         {"takim1":"goz", "skor1":2, "takim2":"siv", "skor2":1, "finished":0},
         {"takim1":"kay", "skor1":0, "takim2":"bas", "skor2":0, "finished":0},
-        {"takim1":"cay", "skor1":0, "takim2":"ant", "skor2":0, "finished":0},
+        {"takim1":"cay", "skor1":2, "takim2":"ant", "skor2":1, "finished":0},
 	{"takim1":"fen", "skor1":2, "takim2":"alt", "skor2":1, "finished":0}, 
         {"takim1":"tra", "skor1":1, "takim2":"gir", "skor2":1, "finished":0}, 
-	{"takim1":"ala", "skor1":0, "takim2":"hat", "skor2":0, "finished":0},
+	{"takim1":"ala", "skor1":6, "takim2":"hat", "skor2":0, "finished":0},
         {"takim1":"gal", "skor1":0, "takim2":"kas", "skor2":0, "finished":0}
 
     ],
