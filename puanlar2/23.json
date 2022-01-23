@@ -1476,12 +1476,6 @@
       "point":0
    }, 
    {
-      "id":"238",
-      "name":"Andrea Bertolacci",
-      "position":"os",
-      "point":0
-   }, 
-   {
       "id":"239",
       "name":"Levent Mercan",
       "position":"os",
@@ -2842,6 +2836,12 @@
       "name":"Joseph Attamah",
       "position":"d",
       "point":2
+   }, 
+   {
+      "id":"238",
+      "name":"Andrea Bertolacci",
+      "position":"os",
+      "point":0
    }, 
    {
       "id":"562",
