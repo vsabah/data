@@ -1743,7 +1743,7 @@
       "id":"282",
       "name":"Fatih Öztürk",
       "position":"k",
-      "point":0
+      "point":1
    }, 
    {
       "id":"283",
@@ -1767,7 +1767,7 @@
       "id":"286",
       "name":"Sacha Boey",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"287",
@@ -1779,13 +1779,13 @@
       "id":"288",
       "name":"DeAndre Yedlin",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"289",
       "name":"Victor Nelsson",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"290",
@@ -1803,37 +1803,37 @@
       "id":"118",
       "name":"Marcao",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"292",
       "name":"Ryan Babel",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"293",
       "name":"Berkan Kutlu",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"294",
       "name":"Taylan Antalyalı",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"295",
       "name":"Olimpiu Morutan",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"296",
       "name":"Sofiane Feghouli",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"297",
@@ -1845,7 +1845,7 @@
       "id":"298",
       "name":"Emre Kılınç",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"299",
@@ -1857,13 +1857,13 @@
       "id":"300",
       "name":"Ömer Bayram",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"301",
       "name":"Alexandru Cicaldau",
       "position":"os",
-      "point":0
+      "point":9
    }, 
    {
       "id":"302",
@@ -1875,7 +1875,7 @@
       "id":"303",
       "name":"Kerem Aktürkoğlu",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"304",
@@ -1899,7 +1899,7 @@
       "id":"307",
       "name":"Halil Dervişoğlu",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"308",
@@ -3285,7 +3285,7 @@
       "id":"543",
       "name":"Uğurcan Çakır",
       "position":"k",
-      "point":0
+      "point":4
    }, 
    {
       "id":"544",
@@ -3309,7 +3309,7 @@
       "id":"547",
       "name":"Vitor Hugo",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"548",
@@ -3321,7 +3321,7 @@
       "id":"549",
       "name":"Bruno Peres",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"550",
@@ -3339,7 +3339,7 @@
       "id":"552",
       "name":"Stefano Denswill",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"553",
@@ -3351,19 +3351,19 @@
       "id":"554",
       "name":"Ahmetcan Kaplan",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"616",
       "name":"Tymoteusz Puchacz",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"555",
       "name":"Anastasios Bakasetas",
       "position":"os",
-      "point":0
+      "point":11
    }, 
    {
       "id":"556",
@@ -3387,13 +3387,13 @@
       "id":"560",
       "name":"Manolis Siopis",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"561",
       "name":"Yunus Mallı",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"563",
@@ -3405,19 +3405,19 @@
       "id":"564",
       "name":"Dorukhan Toköz",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"565",
       "name":"Anthony Nwakaeme",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"566",
       "name":"Berat Özdemir",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"443",
@@ -3429,7 +3429,7 @@
       "id":"135",
       "name":"Edin Visca",
       "position":"os",
-      "point":0
+      "point":11
    }, 
    {
       "id":"567",
@@ -3447,7 +3447,7 @@
       "id":"569",
       "name":"Andreas Cornelius",
       "position":"f",
-      "point":0
+      "point":5
    }, 
    {
       "id":"570",
