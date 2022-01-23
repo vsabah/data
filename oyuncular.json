@@ -1557,12 +1557,6 @@
     }, 
     {
       "team": "fat",
-      "name": "Andrea Bertolacci",
-      "pozisyon": "os",
-      "id": "238"
-    }, 
-    {
-      "team": "fat",
       "name": "Levent Mercan",
       "pozisyon": "os",
       "id": "239"
@@ -3004,6 +2998,12 @@
       "name": "Joseph Attamah",
       "pozisyon": "d",
       "id": "465"
+    }, 
+    {
+      "team": "kay",
+      "name": "Andrea Bertolacci",
+      "pozisyon": "os",
+      "id": "238"
     }, 
     {
       "team": "tra",
