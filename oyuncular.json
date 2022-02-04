@@ -700,12 +700,6 @@
     }, 
     {
       "team": "ant",
-      "name": "Amilton",
-      "pozisyon": "os",
-      "id": "103"
-    }, 
-    {
-      "team": "ant",
       "name": "Deni Milosevic",
       "pozisyon": "os",
       "id": "104"
@@ -869,12 +863,6 @@
       "name": "Leo Duarte",
       "pozisyon": "d",
       "id": "130"
-    }, 
-    {
-      "team": "bas",
-      "name": "Emre Kaplan",
-      "pozisyon": "d",
-      "id": "131"
     }, 
     {
       "team": "bas",
@@ -2661,6 +2649,12 @@
     }, 
     {
       "team": "hat",
+      "name": "Emre Kaplan",
+      "pozisyon": "d",
+      "id": "131"
+    }, 
+    {
+      "team": "hat",
       "name": "Burak Çamoğlu",
       "pozisyon": "os",
       "id": "411"
@@ -3001,6 +2995,12 @@
     }, 
     {
       "team": "kay",
+      "name": "Yıldırım Mert",
+      "pozisyon": "d",
+      "id": "622"
+    }, 
+    {
+      "team": "kay",
       "name": "Andrea Bertolacci",
       "pozisyon": "os",
       "id": "238"
@@ -3260,6 +3260,12 @@
       "name": "Zymer Bytyqi",
       "pozisyon": "os",
       "id": "510"
+    }, 
+    {
+      "team": "kon",
+      "name": "Amilton",
+      "pozisyon": "os",
+      "id": "103"
     }, 
     {
       "team": "kon",
