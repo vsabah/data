@@ -1509,12 +1509,6 @@
     }, 
     {
       "team": "fat",
-      "name": "Tunay Torun",
-      "pozisyon": "os",
-      "id": "232"
-    }, 
-    {
-      "team": "fat",
       "name": "Samed Onur",
       "pozisyon": "os",
       "id": "233"
@@ -2903,6 +2897,12 @@
       "name": "Mamadou Fall",
       "pozisyon": "os",
       "id": "612"
+    }, 
+    {
+      "team": "kas",
+      "name": "Tunay Torun",
+      "pozisyon": "os",
+      "id": "232"
     }, 
     {
       "team": "kas",
