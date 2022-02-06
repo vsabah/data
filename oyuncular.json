@@ -1252,6 +1252,12 @@
     }, 
     {
       "team": "cay",
+      "name": "Gedson Fernandes",
+      "pozisyon": "os",
+      "id": "625"
+    },
+    {
+      "team": "cay",
       "name": "Alper Potuk",
       "pozisyon": "os",
       "id": "193"
@@ -1334,6 +1340,12 @@
       "pozisyon": "os",
       "id": "557"
     }, 
+    {
+      "team": "cay",
+      "name": "Kubilay Kanatsızkuş",
+      "pozisyon": "f",
+      "id": "600"
+    },
     {
       "team": "cay",
       "name": "Umar Aminu",
@@ -1841,6 +1853,12 @@
     }, 
     {
       "team": "gal",
+      "name": "Ignacio Pena",
+      "pozisyon": "k",
+      "id": "626"
+    }, 
+    {
+      "team": "gal",
       "name": "Christian Luyindama",
       "pozisyon": "d",
       "id": "284"
@@ -1892,6 +1910,12 @@
       "name": "Marcao",
       "pozisyon": "d",
       "id": "118"
+    }, 
+    {
+      "team": "gal",
+      "name": "Erick Pulgar",
+      "pozisyon": "os",
+      "id": "627"
     }, 
     {
       "team": "gal",
