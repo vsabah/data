@@ -676,6 +676,12 @@
     }, 
     {
       "team": "ant",
+      "name": "Alassane Ndao",
+      "pozisyon": "os",
+      "id": "629"
+    },
+    {
+      "team": "ant",
       "name": "Fernando Martins",
       "pozisyon": "os",
       "id": "617"
@@ -764,6 +770,12 @@
       "pozisyon": "os",
       "id": "611"
     },
+    {
+      "team": "ant",
+      "name": "Luiz Andriano",
+      "pozisyon": "f",
+      "id": "630"
+    }, 
     {
       "team": "ant",
       "name": "Haji Wright",
@@ -1946,13 +1958,7 @@
       "name": "Sofiane Feghouli",
       "pozisyon": "os",
       "id": "296"
-    }, 
-    {
-      "team": "gal",
-      "name": "Aytaç Kara",
-      "pozisyon": "os",
-      "id": "297"
-    }, 
+    },  
     {
       "team": "gal",
       "name": "Emre Kılınç",
@@ -2577,6 +2583,18 @@
       "pozisyon": "os",
       "id": "397"
     }, 
+    {
+      "team": "goz",
+      "name": "Aytaç Kara",
+      "pozisyon": "os",
+      "id": "297"
+    },
+    {
+      "team": "goz",
+      "name": "Franco Di Santo",
+      "pozisyon": "f",
+      "id": "628"
+    },
     {
       "team": "goz",
       "name": "Adis Jahovic",
