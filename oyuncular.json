@@ -863,13 +863,7 @@
       "name": "Şener Özbayraklı",
       "pozisyon": "d",
       "id": "128"
-    }, 
-    {
-      "team": "bas",
-      "name": "Carlos Ponck",
-      "pozisyon": "d",
-      "id": "129"
-    }, 
+    },  
     {
       "team": "bas",
       "name": "Leo Duarte",
@@ -1264,6 +1258,12 @@
     }, 
     {
       "team": "cay",
+      "name": "Carlos Ponck",
+      "pozisyon": "d",
+      "id": "129"
+    },
+    {
+      "team": "cay",
       "name": "Gedson Fernandes",
       "pozisyon": "os",
       "id": "625"
@@ -1381,6 +1381,12 @@
       "name": "Loic Remy",
       "pozisyon": "f",
       "id": "208"
+    },
+    {
+      "team": "cay",
+      "name": "Papiss Cisse",
+      "pozisyon": "f",
+      "id": "631"
     }
 ]
 
