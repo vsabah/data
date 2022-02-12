@@ -950,6 +950,24 @@
     }, 
     {
       "team": "bas",
+      "name": "Luis Pizzi",
+      "pozisyon": "os",
+      "id": "632"
+    }, 
+    {
+      "team": "bas",
+      "name": "Trezeguet",
+      "pozisyon": "os",
+      "id": "633"
+    }, 
+    {
+      "team": "bas",
+      "name": "Salih Uçan",
+      "pozisyon": "os",
+      "id": "601"
+    }, 
+    {
+      "team": "bas",
       "name": "Fredrik Gulbrandsen",
       "pozisyon": "f",
       "id": "144"
@@ -1053,12 +1071,6 @@
       "name": "Douglas",
       "pozisyon": "d",
       "id": "160"
-    }, 
-    {
-      "team": "bes",
-      "name": "Salih Uçan",
-      "pozisyon": "os",
-      "id": "601"
     }, 
     {
       "team": "bes",
@@ -1759,12 +1771,6 @@
     }, 
     {
       "team": "fen",
-      "name": "Muhammed Gümüşkaya",
-      "pozisyon": "os",
-      "id": "266"
-    }, 
-    {
-      "team": "fen",
       "name": "Arda Güler",
       "pozisyon": "os",
       "id": "267"
@@ -2205,6 +2211,12 @@
     }, 
     {
       "team": "gaz",
+      "name": "Luka Stankovski",
+      "pozisyon": "os",
+      "id": "634"
+    }, 
+    {
+      "team": "gaz",
       "name": "Yusuf Türk",
       "pozisyon": "f",
       "id": "336"
@@ -2398,6 +2410,18 @@
       "name": "Çekdar Orhan",
       "pozisyon": "os",
       "id": "368"
+    }, 
+    {
+      "team": "gir",
+      "name": "Francisco Chiquinho",
+      "pozisyon": "os",
+      "id": "635"
+    },
+    {
+      "team": "gir",
+      "name": "Muhammed Gümüşkaya",
+      "pozisyon": "os",
+      "id": "266"
     }, 
     {
       "team": "gir",
