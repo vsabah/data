@@ -264,6 +264,18 @@
     }, 
     {
       "team": "ala",
+      "name": "Çağan Kayra Erciyas",
+      "pozisyon": "d",
+      "id": "640"
+    }, 
+    {
+      "team": "ala",
+      "name": "Emirhan Aydoğan",
+      "pozisyon": "os",
+      "id": "641"
+    }, 
+    {
+      "team": "ala",
       "name": "Umut Güneş",
       "pozisyon": "os",
       "id": "038"
@@ -2990,6 +3002,24 @@
     }, 
     {
       "team": "kas",
+      "name": "Awer Mabil",
+      "pozisyon": "os",
+      "id": "638"
+    }, 
+    {
+      "team": "kas",
+      "name": "Rayane Aabid",
+      "pozisyon": "os",
+      "id": "587"
+    }, 
+    {
+      "team": "kas",
+      "name": "Jackson Muleka",
+      "pozisyon": "f",
+      "id": "639"
+    }, 
+    {
+      "team": "kas",
       "name": "Nicolai Jörgensen",
       "pozisyon": "f",
       "id": "452"
@@ -3721,6 +3751,12 @@
     },
     {
       "team": "tra",
+      "name": "Jean Evrard Kouassi",
+      "pozisyon": "f",
+      "id": "642"
+    },
+    {
+      "team": "tra",
       "name": "Jorge Djaniny",
       "pozisyon": "f",
       "id": "567"
@@ -3860,12 +3896,6 @@
       "name": "Stephen Mallan",
       "pozisyon": "os",
       "id": "586"
-    }, 
-    {
-      "team": "yen",
-      "name": "Rayane Aabid",
-      "pozisyon": "os",
-      "id": "587"
     }, 
     {
       "team": "yen",
