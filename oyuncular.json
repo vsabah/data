@@ -676,6 +676,12 @@
     }, 
     {
       "team": "ant",
+      "name": "Sinan Gümüş",
+      "pozisyon": "os",
+      "id": "271"
+    },
+    {
+      "team": "ant",
       "name": "Alassane Ndao",
       "pozisyon": "os",
       "id": "629"
@@ -1792,13 +1798,7 @@
       "name": "Fatih Yiğit Şanlıtürk",
       "pozisyon": "os",
       "id": "270"
-    }, 
-    {
-      "team": "fen",
-      "name": "Sinan Gümüş",
-      "pozisyon": "os",
-      "id": "271"
-    }, 
+    },  
     {
       "team": "fen",
       "name": "Dimitrios Pelkas",
