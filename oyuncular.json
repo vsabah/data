@@ -146,6 +146,12 @@
     }, 
     {
       "team": "ada",
+      "name": "Damjan Djokovic",
+      "pozisyon": "os",
+      "id": "197"
+    }, 
+    {
+      "team": "ada",
       "name": "Mario Balotelli",
       "pozisyon": "f",
       "id": "022"
@@ -1092,6 +1098,12 @@
     }, 
     {
       "team": "bes",
+      "name": "Kerem Kalafat",
+      "pozisyon": "d",
+      "id": "645"
+    }, 
+    {
+      "team": "bes",
       "name": "Josef de Souza",
       "pozisyon": "os",
       "id": "161"
@@ -1321,12 +1333,6 @@
       "name": "Erik Sabo",
       "pozisyon": "os",
       "id": "196"
-    }, 
-    {
-      "team": "cay",
-      "name": "Damjan Djokovic",
-      "pozisyon": "os",
-      "id": "197"
     }, 
     {
       "team": "cay",
@@ -2639,6 +2645,12 @@
     },
     {
       "team": "goz",
+      "name": "Oussama Tannane",
+      "pozisyon": "f",
+      "id": "644"
+    },
+    {
+      "team": "goz",
       "name": "Franco Di Santo",
       "pozisyon": "f",
       "id": "628"
@@ -2820,7 +2832,13 @@
       "name": "Mahmoud Kahraba Soliman",
       "pozisyon": "os",
       "id": "613"
-    }, 
+    },
+    {
+      "team": "hat",
+      "name": "Yassine Benzia",
+      "pozisyon": "os",
+      "id": "643"
+    },
     {
       "team": "hat",
       "name": "Mame Biram Diouf",
