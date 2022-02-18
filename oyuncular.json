@@ -664,12 +664,6 @@
     }, 
     {
       "team": "ant",
-      "name": "Eren Albayrak",
-      "pozisyon": "d",
-      "id": "095"
-    }, 
-    {
-      "team": "ant",
       "name": "Fedor Kudryashov",
       "pozisyon": "d",
       "id": "096"
@@ -1304,6 +1298,12 @@
       "pozisyon": "d",
       "id": "129"
     },
+    {
+      "team": "cay",
+      "name": "Eren Albayrak",
+      "pozisyon": "d",
+      "id": "095"
+    }, 
     {
       "team": "cay",
       "name": "Gedson Fernandes",
@@ -2933,6 +2933,12 @@
       "name": "Sakıb Aytaç",
       "pozisyon": "d",
       "id": "438"
+    }, 
+    {
+      "team": "kas",
+      "name": "Uros Spajic",
+      "pozisyon": "d",
+      "id": "646"
     }, 
     {
       "team": "kas",
