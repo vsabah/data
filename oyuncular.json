@@ -2583,6 +2583,12 @@
     }, 
     {
       "team": "hat",
+      "name": "Selimcan Temel",
+      "pozisyon": "os",
+      "id": "660"
+    },
+    {
+      "team": "hat",
       "name": "Yassine Benzia",
       "pozisyon": "os",
       "id": "643"
