@@ -3635,6 +3635,12 @@
     }, 
     {
       "team": "yen",
+      "name": "Barış Başdaş",
+      "pozisyon": "d",
+      "id": "661"
+    },
+    {
+      "team": "yen",
       "name": "Stephen Mallan",
       "pozisyon": "os",
       "id": "586"
@@ -3647,7 +3653,7 @@
     }, 
     {
       "team": "yen",
-      "name": "Ramazan Buğra Çağıran",
+      "name": "Rahman Buğra Çağıran",
       "pozisyon": "os",
       "id": "589"
     }, 
