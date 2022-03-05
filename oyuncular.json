@@ -2780,6 +2780,12 @@
     }, 
     {
       "team": "kas",
+      "name": "Rayane Aabid",
+      "pozisyon": "os",
+      "id": "592"
+    }, 
+    {
+      "team": "kas",
       "name": "Jackson Muleka",
       "pozisyon": "f",
       "id": "639"
@@ -3680,12 +3686,6 @@
       "name": "Mert Miraç Altıntaş",
       "pozisyon": "os",
       "id": "591"
-    }, 
-    {
-      "team": "yen",
-      "name": "Rayane Aabid",
-      "pozisyon": "os",
-      "id": "592"
     }, 
     {
       "team": "yen",
