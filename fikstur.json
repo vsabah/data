@@ -2,7 +2,7 @@
   "weeks":[
 	 {"hafta":29,
         "fikstur":[
-	{"takim1":"hat", "skor1":0, "takim2":"fat", "skor2":0, "finished":0},
+	{"takim1":"hat", "skor1":3, "takim2":"fat", "skor2":0, "finished":0},
 	{"takim1":"alt", "skor1":0, "takim2":"yen", "skor2":0, "finished":0},
 	{"takim1":"kas", "skor1":0, "takim2":"cay", "skor2":0, "finished":0},
         {"takim1":"tra", "skor1":0, "takim2":"goz", "skor2":0, "finished":0},
