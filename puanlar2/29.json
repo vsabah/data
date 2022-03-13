@@ -2667,7 +2667,7 @@
       "id":"458",
       "name":"Bilal Bayazit",
       "position":"k",
-      "point":0
+      "point":2
    }, 
    {
       "id":"459",
@@ -2691,13 +2691,13 @@
       "id":"462",
       "name":"Uğur Demirok",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"463",
       "name":"Seyed Majid Hosseini",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"464",
@@ -2709,7 +2709,7 @@
       "id":"465",
       "name":"Joseph Attamah",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"622",
@@ -2727,37 +2727,37 @@
       "id":"562",
       "name":"Abdulkadir Parmak",
       "position":"os",
-      "point":0
+      "point":9
    }, 
    {
       "id":"466",
       "name":"Emrah Başsan",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"467",
       "name":"İbrahim Akdağ",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"468",
       "name":"Ramazan Civelek",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"469",
       "name":"Onur Bulut",
       "position":"os",
-      "point":0
+      "point":6
    }, 
    {
       "id":"470",
       "name":"Gökhan Sazdağı",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"473",
@@ -2817,13 +2817,13 @@
       "id":"480",
       "name":"Miguel Cardoso",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"481",
       "name":"Carlos Mane",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"482",
@@ -2835,25 +2835,25 @@
       "id":"484",
       "name":"İlhan Parlak",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"485",
       "name":"Mustafa Pektemek",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"486",
       "name":"Mario Gavranovic",
       "position":"f",
-      "point":0
+      "point":8
    }, 
    {
       "id":"487",
       "name":"Ibrahim Sehic",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"488",
@@ -2877,25 +2877,25 @@
       "id":"491",
       "name":"Guilherme",
       "position":"d",
-      "point":0
+      "point":12
    }, 
    {
       "id":"492",
       "name":"Abdülkerim Bardakçı",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"493",
       "name":"Nejc Skubic",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"494",
       "name":"Adil Demirbağ",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"495",
@@ -2910,40 +2910,46 @@
       "point":0
    }, 
    {
+      "id":"663",
+      "name":"Uğurcan Yazgılı",
+      "position":"d",
+      "point":3
+   }, 
+   {
       "id":"499",
       "name":"Amir Hadziahmetovic",
       "position":"os",
-      "point":0
+      "point":6
    }, 
    {
       "id":"500",
       "name":"Soner Dikmen",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"501",
       "name":"Endri Çekiçi",
       "position":"os",
-      "point":0
+      "point":6
    }, 
    {
       "id":"503",
       "name":"Amar Rahmanovic",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"504",
       "name":"Oğulcan Ülgün",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"505",
       "name":"Konrad Michalak",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"506",
@@ -2979,13 +2985,13 @@
       "id":"510",
       "name":"Zymer Bytyqi",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"103",
       "name":"Amilton",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"511",
@@ -2997,7 +3003,7 @@
       "id":"512",
       "name":"Sokol Cikalleshi",
       "position":"f",
-      "point":0
+      "point":15
    }, 
    {
       "id":"513",
