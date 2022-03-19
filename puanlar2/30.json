@@ -879,7 +879,7 @@
       "id":"150",
       "name":"Emre Bilgin",
       "position":"k",
-      "point":0
+      "point":3
    }, 
    {
       "id":"648",
@@ -897,7 +897,7 @@
       "id":"152",
       "name":"Valentin Rosier",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"153",
@@ -909,7 +909,7 @@
       "id":"154",
       "name":"Domagoj Vida",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"155",
@@ -921,7 +921,7 @@
       "id":"156",
       "name":"Rıdvan Yılmaz",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"157",
@@ -939,7 +939,7 @@
       "id":"159",
       "name":"Serdar Saatçı",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"160",
@@ -957,19 +957,19 @@
       "id":"161",
       "name":"Josef de Souza",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"162",
       "name":"Rachid Ghezzal",
       "position":"os",
-      "point":0
+      "point":7
    }, 
    {
       "id":"163",
       "name":"Kevin N'Koudou",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"609",
@@ -987,13 +987,13 @@
       "id":"164",
       "name":"Atiba Hutchinson",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"165",
       "name":"Alex Teixeira",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"166",
@@ -1005,7 +1005,7 @@
       "id":"167",
       "name":"Can Bozdoğan",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"168",
@@ -1017,7 +1017,7 @@
       "id":"169",
       "name":"Necip Uysal",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"170",
@@ -1053,19 +1053,19 @@
       "id":"176",
       "name":"Cyle Larin",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"177",
       "name":"Michy Batshuayi",
       "position":"f",
-      "point":0
+      "point":9
    }, 
    {
       "id":"178",
       "name":"Güven Yalçın",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"180",
@@ -2325,7 +2325,7 @@
       "id":"402",
       "name":"Munir Mohamedi",
       "position":"k",
-      "point":0
+      "point":6
    }, 
    {
       "id":"651",
@@ -2343,13 +2343,13 @@
       "id":"404",
       "name":"Kamil Ahmet Çörekçi",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"405",
       "name":"Samuel Adekugbe",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"406",
@@ -2367,7 +2367,7 @@
       "id":"408",
       "name":"Burak Öksüz",
       "position":"d",
-      "point":0
+      "point":4
    }, 
    {
       "id":"131",
@@ -2391,19 +2391,19 @@
       "id":"413",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"414",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":0
+      "point":10
    }, 
    {
       "id":"415",
       "name":"Onur Ergün",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"416",
@@ -2415,7 +2415,7 @@
       "id":"418",
       "name":"Isaac Sackey",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"419",
@@ -2433,13 +2433,13 @@
       "id":"422",
       "name":"Mehdi Boudjemaa",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"423",
       "name":"Dylan Saint-Louis",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"613",
@@ -2451,7 +2451,7 @@
       "id":"660",
       "name":"Selimcan Temel",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"643",
@@ -2463,7 +2463,7 @@
       "id":"424",
       "name":"Mame Biram Diouf",
       "position":"f",
-      "point":0
+      "point":4
    }, 
    {
       "id":"425",
@@ -2475,13 +2475,13 @@
       "id":"426",
       "name":"Ayoub El Kaabi",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"427",
       "name":"Bertuğ Özgür Yıldırım",
       "position":"f",
-      "point":0
+      "point":2
    }, 
    {
       "id":"429",
