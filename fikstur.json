@@ -7,7 +7,7 @@
 	{"takim1":"yen", "skor1":0, "takim2":"kas", "skor2":2, "finished":0},
         {"takim1":"goz", "skor1":0, "takim2":"ala", "skor2":2, "finished":0},
         {"takim1":"ada", "skor1":2, "takim2":"bas", "skor2":1, "finished":0},
-	{"takim1":"bes", "skor1":0, "takim2":"hat", "skor2":0, "finished":0}, 
+	{"takim1":"bes", "skor1":1, "takim2":"hat", "skor2":1, "finished":0}, 
         {"takim1":"ant", "skor1":0, "takim2":"gir", "skor2":0, "finished":0},
 	{"takim1":"siv", "skor1":0, "takim2":"alt", "skor2":0, "finished":0},
 	{"takim1":"gaz", "skor1":0, "takim2":"gal", "skor2":0, "finished":0},
