@@ -1791,7 +1791,7 @@
       "id":"310",
       "name":"Günay Güvenç",
       "position":"k",
-      "point":0
+      "point":2
    }, 
    {
       "id":"311",
@@ -1815,13 +1815,13 @@
       "id":"313",
       "name":"Papy Djilobodji",
       "position":"d",
-      "point":0
+      "point":7
    }, 
    {
       "id":"314",
       "name":"Ertuğrul Ersoy",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"315",
@@ -1833,7 +1833,7 @@
       "id":"316",
       "name":"Stelios Kitsiou",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"317",
@@ -1845,7 +1845,7 @@
       "id":"318",
       "name":"Alin Tosca",
       "position":"d",
-      "point":0
+      "point":2
    }, 
    {
       "id":"319",
@@ -1881,25 +1881,25 @@
       "id":"324",
       "name":"Recep Niyaz",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"325",
       "name":"Angelo Sagal",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"326",
       "name":"Furkan Soyalp",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"327",
       "name":"Doğan Erdoğan",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"328",
@@ -1935,13 +1935,13 @@
       "id":"333",
       "name":"Alexandru Maxim",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"334",
       "name":"Amedej Vetrih",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"634",
@@ -1965,13 +1965,13 @@
       "id":"339",
       "name":"João Figueiredo",
       "position":"f",
-      "point":0
+      "point":6
    }, 
    {
       "id":"340",
       "name":"Muhammet Demir",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"341",
@@ -2493,7 +2493,7 @@
       "id":"429",
       "name":"Ertuğrul Taşkıran",
       "position":"k",
-      "point":0
+      "point":4
    }, 
    {
       "id":"430",
@@ -2511,7 +2511,7 @@
       "id":"432",
       "name":"Florent Hadergjonaj",
       "position":"d",
-      "point":0
+      "point":13
    }, 
    {
       "id":"652",
@@ -2529,7 +2529,7 @@
       "id":"434",
       "name":"Evren Eren Elmalı",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"435",
@@ -2559,19 +2559,19 @@
       "id":"646",
       "name":"Uros Spajic",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"439",
       "name":"Mortadha Ben Ouannes",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"440",
       "name":"Tarkan Serbest",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"441",
@@ -2583,13 +2583,13 @@
       "id":"442",
       "name":"Haris Hajradinovic",
       "position":"os",
-      "point":0
+      "point":-1
    }, 
    {
       "id":"445",
       "name":"Valentin Eysseric",
       "position":"os",
-      "point":0
+      "point":4
    }, 
    {
       "id":"446",
@@ -2601,7 +2601,7 @@
       "id":"447",
       "name":"Doğucan Haspolat",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"449",
@@ -2613,7 +2613,7 @@
       "id":"450",
       "name":"Ahmet Engin",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"451",
@@ -2625,7 +2625,7 @@
       "id":"612",
       "name":"Mamadou Fall",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"232",
@@ -2637,25 +2637,25 @@
       "id":"638",
       "name":"Awer Mabil",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"592",
       "name":"Rayane Aabid",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"639",
       "name":"Jackson Muleka",
       "position":"f",
-      "point":0
+      "point":10
    }, 
    {
       "id":"453",
       "name":"Umut Bozok",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"456",
