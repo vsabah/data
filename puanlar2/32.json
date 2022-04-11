@@ -507,7 +507,7 @@
       "id":"088",
       "name":"Ruud Boffin",
       "position":"k",
-      "point":0
+      "point":4
    }, 
    {
       "id":"089",
@@ -537,7 +537,7 @@
       "id":"091",
       "name":"Naldo",
       "position":"d",
-      "point":0
+      "point":13
    }, 
    {
       "id":"092",
@@ -549,13 +549,13 @@
       "id":"093",
       "name":"Veysel Sarı",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"094",
       "name":"Bahadır Öztürk",
       "position":"d",
-      "point":0
+      "point":3
    }, 
    {
       "id":"096",
@@ -573,7 +573,7 @@
       "id":"098",
       "name":"Sherel Floranus",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"099",
@@ -591,13 +591,13 @@
       "id":"629",
       "name":"Alassane Ndao",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"617",
       "name":"Fernando Martins",
       "position":"os",
-      "point":0
+      "point":7
    }, 
    {
       "id":"100",
@@ -609,13 +609,13 @@
       "id":"101",
       "name":"Andrea Poli",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"102",
       "name":"Fredy Riberio",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"104",
@@ -627,13 +627,13 @@
       "id":"105",
       "name":"Hakan Özmert",
       "position":"os",
-      "point":0
+      "point":5
    }, 
    {
       "id":"106",
       "name":"Doğukan Sinik",
       "position":"os",
-      "point":0
+      "point":8
    }, 
    {
       "id":"107",
@@ -651,7 +651,7 @@
       "id":"109",
       "name":"Güray Vural",
       "position":"os",
-      "point":0
+      "point":11
    }, 
    {
       "id":"110",
@@ -669,7 +669,7 @@
       "id":"113",
       "name":"Gökdeniz Bayrakdar",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"611",
@@ -681,19 +681,19 @@
       "id":"630",
       "name":"Luiz Andriano",
       "position":"f",
-      "point":0
+      "point":10
    }, 
    {
       "id":"115",
       "name":"Haji Wright",
       "position":"f",
-      "point":0
+      "point":15
    }, 
    {
       "id":"117",
       "name":"Houssam Eddine Ghacha",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"119",
@@ -2349,13 +2349,13 @@
       "id":"404",
       "name":"Kamil Ahmet Çörekçi",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"405",
       "name":"Samuel Adekugbe",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"406",
@@ -2367,13 +2367,13 @@
       "id":"407",
       "name":"Fatih Kuruçuk",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"408",
       "name":"Burak Öksüz",
       "position":"d",
-      "point":0
+      "point":5
    }, 
    {
       "id":"131",
@@ -2397,19 +2397,19 @@
       "id":"413",
       "name":"Ruben Ribeiro",
       "position":"os",
-      "point":0
+      "point":-1
    }, 
    {
       "id":"414",
       "name":"Saba Lobzhanidze",
       "position":"os",
-      "point":0
+      "point":2
    }, 
    {
       "id":"415",
       "name":"Onur Ergün",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"416",
@@ -2427,7 +2427,7 @@
       "id":"419",
       "name":"Sadık Baş",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"420",
@@ -2445,7 +2445,7 @@
       "id":"423",
       "name":"Dylan Saint-Louis",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"613",
@@ -2457,19 +2457,19 @@
       "id":"660",
       "name":"Selimcan Temel",
       "position":"os",
-      "point":0
+      "point":1
    }, 
    {
       "id":"643",
       "name":"Yassine Benzia",
       "position":"os",
-      "point":0
+      "point":3
    }, 
    {
       "id":"424",
       "name":"Mame Biram Diouf",
       "position":"f",
-      "point":0
+      "point":8
    }, 
    {
       "id":"425",
@@ -2481,13 +2481,13 @@
       "id":"426",
       "name":"Ayoub El Kaabi",
       "position":"f",
-      "point":0
+      "point":3
    }, 
    {
       "id":"427",
       "name":"Bertuğ Özgür Yıldırım",
       "position":"f",
-      "point":0
+      "point":1
    }, 
    {
       "id":"429",
