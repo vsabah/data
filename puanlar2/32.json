@@ -3435,7 +3435,7 @@
       "id":"583",
       "name":"M. Emin Sarıkaya",
       "position":"d",
-      "point":0
+      "point":1
    }, 
    {
       "id":"585",
@@ -3545,6 +3545,12 @@
       "position":"f",
       "point":0
    }, 
+   {
+      "id":"665",
+      "name":"Umut Tanış",
+      "position":"f",
+      "point":1
+   },
    {
       "id":"338",
       "name":"Nouha Dicko",
