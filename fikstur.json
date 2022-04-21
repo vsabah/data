@@ -1,5 +1,21 @@
 {
   "weeks":[
+	 {"hafta":34,
+        "fikstur":[
+	{"takim1":"cay", "skor1":0, "takim2":"fen", "skor2":0, "finished":0},
+	{"takim1":"fat", "skor1":0, "takim2":"gir", "skor2":0, "finished":0},
+        {"takim1":"gaz", "skor1":0, "takim2":"goz", "skor2":0, "finished":0},
+	{"takim1":"ada", "skor1":0, "takim2":"tra", "skor2":0, "finished":0},
+	{"takim1":"bas", "skor1":0, "takim2":"hat", "skor2":0, "finished":0},
+	{"takim1":"yen", "skor1":0, "takim2":"kon", "skor2":0, "finished":0}, 
+        {"takim1":"alt", "skor1":0, "takim2":"gal", "skor2":0, "finished":0},
+	{"takim1":"ant", "skor1":0, "takim2":"kay", "skor2":0, "finished":0},
+	{"takim1":"bes", "skor1":0, "takim2":"kas", "skor2":0, "finished":0},
+        {"takim1":"siv", "skor1":0, "takim2":"ala", "skor2":0, "finished":0}
+
+    ],
+          "bay":"erz"
+     },
 	 {"hafta":33,
         "fikstur":[
 	{"takim1":"tra", "skor1":1, "takim2":"fat", "skor2":1, "finished":0},
