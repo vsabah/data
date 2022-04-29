@@ -26,22 +26,22 @@
   },
     {
     "teamID": "ala",
-    "name": "Alanyaspor",
+    "name": " ",
     "renk": ["#ff6600","#029835"]
   },
   {
     "teamID": "alt",
-    "name": "Altay",
+    "name": " ",
     "renk": ["white","black"]
   },
   {
     "teamID": "ant",
-    "name": "Antalyaspor",
+    "name": " ",
     "renk": ["white","red"]
   },
   {
     "teamID": "bas",
-    "name": "Başakşehir FK",
+    "name": " ",
     "renk": ["darkblue","orange"]
   },
   {
@@ -51,73 +51,73 @@
   },
   {
     "teamID": "cay",
-    "name": "Ç. Rizespor",
+    "name": " ",
     "renk": ["blue","green"]
   },
   {
     "teamID": "fat",
-    "name": "F. Karagümrük",
+    "name": " ",
     "renk": ["red","black"]
   },
   {
     "teamID": "fen",
-    "name": "Fenerbahçe",
+    "name": " ",
     "renk": ["yellow","darkblue"]
   },
    {
     "teamID": "gal",
-    "name": "Galatasaray",
+    "name": " ",
     "renk": ["yellow","red"]
   },
   {
     "teamID": "gaz",
-    "name": "Gaziantep FK",
+    "name": " ",
     "renk": ["red","black"]
   },
   {
     "teamID": "gir",
-    "name": "Giresunspor",
+    "name": " ",
     "renk": ["green","white"]
   },
   {
     "teamID": "goz",
-    "name": "Göztepe",
+    "name": " ",
     "renk": ["yellow","red"]
   },
   {
     "teamID": "hat",
-    "name": "Hatayspor",
+    "name": " ",
     "renk": ["#800000","white"]
   },
   {
     "teamID": "kas",
-    "name": "Kasımpaşa",
+    "name": " ",
     "renk": ["white","darkblue"]
   },
   {
     "teamID": "kay",
-    "name": "Kayserispor",
+    "name": " ",
     "renk": ["red","yellow"]
   },
   {
     "teamID": "kon",
-    "name": "Konyaspor",
+    "name": " ",
     "renk": ["green","white"]
   },
   {
     "teamID": "siv",
-    "name": "Sivasspor",
+    "name": " ",
     "renk": ["white","red"]
   },
   {
     "teamID": "tra",
-    "name": "Trabzonspor",
+    "name": " ",
     "renk": ["#760d02","#699ec4"]
   },
 
   {
     "teamID": "yen",
-    "name": "Y. Malatyaspor",
+    "name": " ",
     "renk": ["yellow","black"]
   }
   ]
